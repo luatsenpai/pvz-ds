@@ -2,139 +2,139 @@ NOT USED
 C
 €
 {CURRENCY_SYMBOL}{AMOUNT}
-Peashooter
-Shoots peas at the enemy
-Sunflower
-Gives you additional sun
-Cherry Bomb
-Blows up all zombies in an area
-Wall-nut
-Blocks off zombies and protects<lf>your other plants
-Repeater
-Fires two peas at a time
-Potato Mine
-Explodes on contact,<lf>but takes time to arm itself
-Snow Pea
-Shoots frozen peas that damage<lf>and slow the enemy
-Chomper
-Devours a zombie whole,<lf>but is vulnerable while chewing
-Puff-shroom
-Shoots short-ranged spores<lf>at the enemy
-Sun-shroom
-Gives small sun at first and<lf>normal sun later
-Fume-shroom
-Shoots fumes that can pass through<lf>screen doors
-Grave Buster
-Plant it on a grave to remove<lf>the grave
-Hypno-shroom
-Makes a zombie fight for you
-Scaredy-shroom
-Long-ranged shooter that hides<lf>when enemies get near it
-Ice-shroom
-Temporarily immobilizes all zombies<lf>on the screen
-Doom-shroom
-Destroys a large area,<lf>leaving a crater in its wake
-Lily Pad
-Lets you plant non-aquatic plants<lf>on top of it
-Squash
-Squashes zombies
-Threepeater
-Shoots peas in three lanes
-Tangle Kelp
-Aquatic plant that pulls a zombie underwater
-Jalapeno
-Destroys an entire lane of zombies
-Spikeweed
-Pops tires and hurts zombies<lf>that step on it
-Torchwood
-Peas that pass through it turn into fireballs
-Tall-nut
-Heavy-duty wall<lf>that can't be vaulted over
-Sea-shroom
-Aquatic plant that shoots<lf>short-ranged spores
-Plantern
-Lights up an area,<lf>letting you see through fog
-Cactus
-Shoots spikes that can pop balloons
-Blover
-Blows away all balloon zombies<lf>and fog
-Split Pea
-Shoots peas forward and backwards
-Starfruit
-Shoots stars in 5 directions
-Pumpkin
-Protects plants that are within<lf>its shell
-Magnet-shroom
-Removes helmets and<lf>other metal objects from zombies
-Cabbage-pult
-Hurls cabbages at the enemy
-Flower Pot
-Lets you plant on the roof
-Kernel-pult
-Flings corn kernels and butter<lf>at zombies
-Garlic
-Diverts zombies into other lanes
-Umbrella Leaf
-Protects nearby plants from<lf>bungees and catapults
-Marigold
-Gives you silver and gold coins
-Melon-pult
-Does heavy damage to groups<lf>of zombies
-Gatling Pea
-Shoots four peas at a time<lf>(requires repeater)
-Twin Sunflower
-Gives twice as much sun as a sunflower<lf>(requires sunflower)
-Gloom-shroom
-Releases heavy fumes in an area around itself<lf>(requires fume-shroom)
-Cattail
-Attacks any lane and shoots down balloon zombies<lf>(requires lily pad)
-Winter Melon
-Does heavy damage and slows groups of zombies<lf>(requires melon-pult)
-Gold Magnet
-Collects coins and diamonds for you<lf>(requires magnet-shroom)
-Spikerock
-Pops multiple tires and damages zombies that walk over it<lf>(requires spikeweed)
-Cob Cannon
-Press <A> to launch deadly cobs of corn<lf>(requires 2 kernel-pults)
-Imitater
-Lets you have two of the same plant
-Coffee Bean
-Plant it on a mushroom to wake it up
-Explode-o-nut
-Explodes on contact
-Giant Wall-nut
-Sprout
-Marigold Sprout
-Zombie
-Flag Zombie
-Conehead Zombie
-Buckethead<lf>Zombie
-Pole Vaulting<lf>Zombie
-Newspaper Zombie
-Screen Door<lf>Zombie
-Football Zombie
-Dancing Zombie
-Backup Dancer
-Ducky Tube<lf>Zombie
-Snorkel Zombie
-Zomboni
-Zombie<lf>Bobsled Team
-Dolphin Rider<lf>Zombie
-Jack-in-the-Box<lf>Zombie
-Balloon Zombie
-Digger Zombie
-Pogo Zombie
-Zombie Yeti
-Bungee Zombie
-Ladder Zombie
-Catapult Zombie
-Gargantuar
-Giga-gargantuar
-Imp
-Dr. Zomboss
-Dog Walking Zombie
-Dog Zombie
-Propeller Zombie
+Đậu Hà Lan
+Bắn đậu vào kẻ địch
+Hoa hướng dương
+Sản sinh thêm mặt trời
+Bom Sơri
+Nổ tung toàn bộ thây ma<lf>trong một khu vực
+Tường Hồ Đào
+Ngăn chặn thây ma và<lf>bảo vệ cây khác
+Đậu Đôi
+Bắn 2 đậu cùng lúc
+Mìn Khoai Tây
+Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian gài mìn
+Đậu Băng Giá
+Bắn đậu băng và làm chậm<lf>kẻ thù
+Hoa Ăn Thịt
+Nuốt chững thây ma,<lf>nhưng cần thời gian tiêu hóa
+Nấm Bào Tử
+Bắn bào tử trong cự ly ngắn<lf>vào kẻ thù
+Nấm Mặt Trời
+Tạo ra mặt trời nhỏ trước,<lf>sau đó là mặt trời thường
+Nấm Khói
+Bắn khói có thể xuyên qua kẻ thù<lf>và cửa
+Bào Mộ
+Trồng nó lên mộ để bào mộ
+Nấm Thôi miêng
+Khiến thây ma về phe bạn
+Nấm Nhát Gan
+Bắn tầm xa nhưng sẽ trốn<lf>khi kẻ thù đến gần
+Nấm Băng Giá
+Làm bất động tạm thời toàn bộ<lf>thây ma trên màn hình
+Nấm Thanh Trừng
+Phá hủy một khu vực rộng,<lf>để lại hố sau khi nổ
+Bè Lá Sen
+Giúp trồng cây không phải<lf>cây thủy sinh ở trên nó
+Bí Đè
+Đè bẹp thây ma
+Đậu Ba Làn
+Bắt đậu cả 3 làn
+Bèo Ma Da
+Loại cây thủy sinh sẽ kéo chân<lf>thây ma xuống đáy hồ
+Ớt Bùng Cháy
+Tiêu diệt toàn bộ thây ma trên 1 làn
+Có Gai
+Làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó
+Gỗ Đuốc
+Hạt đậu khi bay qua nó sẽ bốc cháy
+Tường Hạt Cao
+Bức tường kiên cố<lf>không thể vượt qua
+Nấm Thủy Sinh
+Cây thủy sinh bắn bào tử nấm<lf>ở cự ly gần
+Đèn Lồng
+Thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù
+Xương Rồng
+Bắn gai có thể làm vỡ bóng bay
+Cỏ Lốc
+Thổi bay toàn bộ thây ma bóng bay<lf>và sương mù
+Đậu Hạt Chia
+Bắt đậu phía trước lẫn sau
+Khế Sao
+Bắn sao 5 hướng
+Giáp Bí
+Bảo vệ cây nằm trong<lf>lớp giáp
+Nấm Nam Châm
+Loại bỏ mũ<lf>và vật thể kim loại từ thây ma
+Hất Cải
+Hất bắp cải vào kẻ thù
+Chậu Hoa
+Giúp trồng cây trên mái nhà
+Hất Bắp
+Hất hạt bắp và bơ<lf>vào thây ma
+Tỏi Xa Lánh
+Khiến thây ma đi vào làn khác
+Cây Tản Ô
+Bảo vệ cây ở gần khỏi<lf>người nhện và máy ném
+Hoa Kim Tiền
+Sản sinh ra đồng bạc và vàng
+Hất Dưa
+Gây sát thương lớn cho<lf>một nhóm thây ma
+Đậu Lục Quân
+Bắn 4 đậu cùng lúc<lf>(cần Đậu Đôi)
+Hướng Dương Đôi
+Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương)
+Nấm Lục Hướng
+Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói)
+Bèo Đuôi Mèo
+Tất công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen)
+Hất Dưa Băng
+Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa)
+Nấm Hút Kim
+Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm)
+Cỏ Gai Đá
+Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>(cần Cỏ Gai)
+Đại Bác Bắp
+Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô)
+Đậu Biến Thân
+Cho phép trồng 2 loại cây giống nhau
+Cà Phê
+Để nó lên nấm để đánh thức
+Hạt Nổ
+Phát nổ khi va chạm
+Đại Hồ Đào
+Mầm Cây
+Mầm Kim Tiền
+Thây Ma
+Thây Ma Cầm Cờ
+Thây Ma<lf>Đội Chốt
+Thây Ma<lf>Đội Xô
+Thây Ma<lf>Phóng Lao
+Thây Ma Đọc Báo
+Thây Ma<lf>Ôm Cửa
+Thây Ma Bóng Đá
+Thây Ma Nhảy
+Thây Ma Phụ Đạo
+Thây Ma<lf>Phao Vịt
+Thây Ma Thợ Lặn
+Thây Ma Xe Tuyết
+Đội Xe Trượt
+Thây Ma<lf>Phóng Cá
+Thây Ma<lf>Bất Ngờ
+Thây Ma Bóng Bay
+Thây Ma Thợ Mỏ
+Thây Ma Pogo
+Thây Ma<lf>Người Tuyết
+Thây Ma<lf>Người Nhện
+Thây Ma<lf>Ôm Thang
+Thây Ma Máy Ném
+Thây Ma Cự Nhân
+Đại Cự Nhân
+Tiểu Yêu
+Ts. Trùm
+Thây Ma Dắt Chó
+Thây Ma Chó
+Thây Ma Cánh Quạt
 Peashooters are your first line of<lf>defense.<lf>They shoot peas at attacking zombies.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{SHORTLINE}<lf>{FLAVOR}How can a single plant grow and shoot so<lf>many peas so quickly? Peashooter says, <lf>"Hard work, commitment, and a healthy,<lf>well-balanced breakfast of sunlight and <lf>high-fiber carbon dioxide make it all<lf>possible."
 NOT USED
