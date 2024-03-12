@@ -4,7 +4,7 @@ C
 {CURRENCY_SYMBOL}{AMOUNT}
 Đậu Hà Lan
 Bắn đậu vào kẻ địch
-Hoa hướng dương
+Hoa Hướng Dương
 Sản sinh thêm mặt trời
 Bom Sơri
 Nổ tung toàn bộ thây ma<lf>trong một khu vực
@@ -17,7 +17,7 @@ Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian gài mìn
 Đậu Băng Giá
 Bắn đậu băng và làm chậm<lf>kẻ thù
 Hoa Ăn Thịt
-Nuốt chững thây ma,<lf>nhưng cần thời gian tiêu hóa
+Nuốt chửng thây ma,<lf>nhưng cần thời gian tiêu hóa
 Nấm Bào Tử
 Bắn bào tử trong cự ly ngắn<lf>vào kẻ thù
 Nấm Mặt Trời
@@ -134,35 +134,32 @@ Tiểu Yêu
 Ts. Trùm
 Thây Ma Dắt Chó
 Thây Ma Chó
-Thây Ma Cánh Quạt
-Peashooters are your first line of<lf>defense.<lf>They shoot peas at attacking zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{SHORTLINE}<lf>{FLAVOR}How can a single plant grow and shoot so<lf>many peas so quickly? Peashooter says, <lf>"Hard work, commitment, and a healthy,<lf>well-balanced breakfast of sunlight and <lf>high-fiber carbon dioxide make it all<lf>possible."
+Thây Ma Chong Chóng
+Đậu hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
+<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan Đáp, <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh, nên thường xuyên ra<lf>ngoài chạm cỏ."
 NOT USED
-Sunflowers are essential for you to <lf>produce extra sun. Try planting as many <lf>as you can!
-{SHORTLINE}<lf>{KEYWORD}Sun production:{STAT} normal<lf>{SHORTLINE}<lf>{FLAVOR}Sunflower can't resist bouncing to the <lf>beat. Which beat is that? Why, the <lf>life-giving jazzy rhythm of the Earth <lf>itself, thumping at a frequency only <lf>Sunflower can hear.
+Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!<lf>{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
 NOT USED
-Wall-nuts have hard shells which you can <lf>use to protect your other plants.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high<lf>{SHORTLINE}<lf>{FLAVOR}"People wonder how I feel about getting <lf>constantly chewed on by zombies,<lf>" says Wall-nut. "What they don't realize<lf>is that with my limited senses all I can<lf>feel is a kind of tingling,<lf>like a relaxing back rub."
+Tường Hồ Đào có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.<lf>{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hồ Đào<lf>đáp. "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
 NOT USED
-Cherry Bombs can blow up all zombies in <lf>an area. They have a short fuse so plant <lf>them near zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a medium area<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{SHORTLINE}<lf>{FLAVOR}"I wanna explode," says Cherry #1. "No, <lf>let's detonate instead!" says his brother, <lf>Cherry #2. After intense consultation <lf>they agree to explodonate.
+Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực trung<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
 NOT USED
-Potato Mines pack a powerful punch, but <lf>they need a while to arm themselves. <lf>You should plant them ahead of zombies. <lf>They will explode on contact.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a small area<lf>{KEYWORD}Usage:{STAT} single use, delayed activation<lf>{SHORTLINE}<lf>{FLAVOR}Some folks say Potato Mine is lazy, that <lf>he leaves everything to the last minute. 
-{FLAVOR}Potato Mine says nothing. He's too busy <lf>thinking about his investment strategy.
-Repeaters fire two peas at a time.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal (for each pea)<lf>{KEYWORD}Firing speed:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}Repeater is fierce. He's from the streets. <lf>He doesn't take attitude from anybody, <lf>plant or zombie, and he shoots peas to <lf>keep people at a distance. Secretly, <lf>though, Repeater yearns for love.
+Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu vực nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
+{FLAVOR}<lf>Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
+Đậu Đôi bắn 2 đậu cùng lúc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
 NOT USED
-Snow Peas shoot frozen peas that <lf>damage and slow the enemy.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal, slows zombies<lf>{SHORTLINE}<lf>{FLAVOR}Folks often tell Snow Pea how "cool" he <lf>is, or exhort him to "chill out." They tell <lf>him to "stay frosty." Snow Pea just <lf>rolls his eyes. He's heard 'em all.
+Đậu Băng sẽ bắn đậu băng và làm chậm<lf>kẻ thù.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} bình thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
 NOT USED
-Chompers can devour a zombie whole, but <lf>they are vulnerable while chewing.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} very short<lf>{KEYWORD}Special:{STAT} long delay between chomps<lf>{SHORTLINE}<lf>{FLAVOR}Chomper almost got a gig doing stunts in <lf>Hollywood but it fell through when his <lf>agent demanded too much on the front <lf>end. Chomper's not resentful, though. He <lf>says it's just part of the business.
+Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắt<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
 NOT USED
-Puff-shrooms are cheap, but can only fire <lf>a short distance.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} short<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}"I only recently became aware of the <lf>existence of zombies," says Puff-shroom. <lf>"Like many fungi, I'd just assumed they <lf>were fairy tales or movie monsters.
-{FLAVOR}This whole experience has been a huge <lf>eye-opener for me."
-Sun-shrooms give small sun at first and <lf>normal sun later.
+Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
+{FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
+Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
 {SHORTLINE}<lf>{KEYWORD}Sun production:{STAT} low, then normal<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Sun-shroom hates sun. He hates it so <lf>much that when it builds up in his <lf>system, he spits it out as fast as he can. <lf>He just won't abide it. To him, sun is <lf>crass.
 NOT USED
 Fume-shrooms shoot fumes that can pass <lf>through screen doors.
