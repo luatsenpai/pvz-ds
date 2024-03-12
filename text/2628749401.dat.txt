@@ -24,9 +24,9 @@ Nấm Mặt Trời
 Tạo ra mặt trời nhỏ trước,<lf>sau đó là mặt trời thường
 Nấm Khói
 Bắn khói có thể xuyên qua kẻ thù<lf>và cửa
-Bào Mộ
+Nấm Bào Mộ
 Trồng nó lên mộ để bào mộ
-Nấm Thôi miêng
+Nấm Thôi Miên
 Khiến thây ma về phe bạn
 Nấm Nhát Gan
 Bắn tầm xa nhưng sẽ trốn<lf>khi kẻ thù đến gần
@@ -160,17 +160,18 @@ Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
 Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
-{SHORTLINE}<lf>{KEYWORD}Sun production:{STAT} low, then normal<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Sun-shroom hates sun. He hates it so <lf>much that when it builds up in his <lf>system, he spits it out as fast as he can. <lf>He just won't abide it. To him, sun is <lf>crass.
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}
+<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
 NOT USED
-Fume-shrooms shoot fumes that can pass <lf>through screen doors.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal, penetrates screen doors<lf>{KEYWORD}Range:{STAT} all zombies in the fume cloud<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}"I was in a dead-end job producing yeast <lf>spores for a bakery," says Fume-shroom. <lf>"Then Puff-shroom, bless 'im, told me <lf>about this great opportunity blasting <lf>zombies.
-{FLAVOR}Now I really feel like I'm making a<lf>difference."
-Plant Grave Busters on graves to remove <lf>the graves.
-{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, must be planted<lf>{KEYWORD}{STAT}on graves<lf>{KEYWORD}Special:{STAT} removes graves<lf>{SHORTLINE}<lf>{FLAVOR}Despite Grave Buster's fearsome <lf>appearance, he wants everyone to know <lf>that he loves kittens and spends his off <lf>hours volunteering at a local zombie <lf>rehabilitation center.
-{FLAVOR}"It's just the right thing to do,"<lf>he says.
-When eaten, Hypno-shrooms will make a <lf>zombie turn around and fight for you.
-{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, on contact<lf>{KEYWORD}Special:{STAT} makes a zombie fight for you<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}"Zombies are our friends," asserts <lf>Hypno-shroom. "They're badly <lf>misunderstood creatures who play a <lf>valuable role in our ecology.
-{FLAVOR}We can and should do more to bring<lf>them round to our way of thinking."
+Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
+{FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá.
+Trồng Nấm Bào Mộ lên mộ để bào mộ.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt<lf>{KEYWORD}{STAT}trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
+{FLAVOR}Anh ta nói "Tôi chỉ làm những việc<lf>nên làm".
+Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
+{FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
 Scaredy-shrooms are long-ranged shooters <lf>that hide when enemies get near them.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Special:{STAT} stops shooting when enemy is <lf>{KEYWORD}{STAT}close<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}"Who's there?" whispers Scaredy-shroom, <lf>voice barely audible. "Go away. I don't <lf>want to see anybody. Unless it's the man <lf>from the circus."
 NOT USED
