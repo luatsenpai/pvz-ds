@@ -7,101 +7,101 @@ Bắn đậu vào kẻ địch
 Hoa Hướng Dương
 Sản sinh thêm mặt trời
 Bom Sơri
-Nổ tung toàn bộ thây ma<lf>trong một khu vực
+Nổ tung toàn bộ thây ma<lf>trong một khu vực.
 Tường Hồ Đào
-Ngăn chặn thây ma và<lf>bảo vệ cây khác
+Ngăn chặn thây ma và<lf>bảo vệ cây khác.
 Đậu Đôi
 Bắn 2 đậu cùng lúc
 Mìn Khoai Tây
-Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian gài mìn
+Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian thiết đặt.
 Đậu Băng Giá
-Bắn đậu băng và làm chậm<lf>kẻ thù
+Bắn đậu băng và làm chậm<lf>kẻ thù.
 Hoa Ăn Thịt
-Nuốt chửng thây ma,<lf>nhưng cần thời gian tiêu hóa
+Nuốt chửng thây ma,<lf>nhưng cần thời gian tiêu hóa.
 Nấm Bào Tử
-Bắn bào tử trong cự ly ngắn<lf>vào kẻ thù
+Bắn bào tử trong cự ly ngắn<lf>vào kẻ thù.
 Nấm Mặt Trời
-Tạo ra mặt trời nhỏ trước,<lf>sau đó là mặt trời thường
+Tạo ra mặt trời nhỏ trước,<lf>sau đó là mặt trời thường.
 Nấm Khói
-Bắn khói có thể xuyên qua kẻ thù<lf>và cửa
+Bắn khói có thể xuyên qua kẻ thù<lf>và cửa.
 Nấm Bào Mộ
-Trồng nó lên mộ để bào mộ
+Trồng nó lên mộ để bào mộ.
 Nấm Thôi Miên
-Khiến thây ma về phe bạn
+Khiến thây ma về phe bạn.
 Nấm Nhát Gan
-Bắn tầm xa nhưng sẽ trốn<lf>khi kẻ thù đến gần
+Bắn tầm xa nhưng sẽ trốn<lf>khi kẻ thù đến gần.
 Nấm Băng Giá
-Làm bất động tạm thời toàn bộ<lf>thây ma trên màn hình
+Làm bất động tạm thời toàn bộ<lf>thây ma trên màn hình.
 Nấm Thanh Trừng
-Phá hủy một khu vực rộng,<lf>để lại hố sau khi nổ
+Phá hủy một khu vực rộng,<lf>để lại hố sau khi nổ.
 Bè Lá Sen
-Giúp trồng cây không phải<lf>cây thủy sinh ở trên nó
+Giúp trồng cây không phải<lf>cây thủy sinh ở trên nó.
 Bí Đè
-Đè bẹp thây ma
+Đè bẹp thây ma.
 Đậu Ba Làn
-Bắt đậu cả 3 làn
+Bắt đậu cả 3 làn.
 Bèo Ma Da
-Loại cây thủy sinh sẽ kéo chân<lf>thây ma xuống đáy hồ
+Loại cây thủy sinh sẽ kéo chân<lf>thây ma xuống đáy hồ.
 Ớt Bùng Cháy
-Tiêu diệt toàn bộ thây ma trên 1 làn
+Tiêu diệt toàn bộ thây ma trên 1 làn.
 Có Gai
-Làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó
+Làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó.
 Gỗ Đuốc
-Hạt đậu khi bay qua nó sẽ bốc cháy
+Hạt đậu khi bay qua nó sẽ bốc cháy.
 Tường Hạt Cao
-Bức tường kiên cố<lf>không thể vượt qua
+Bức tường kiên cố<lf>không thể vượt qua.
 Nấm Thủy Sinh
-Cây thủy sinh bắn bào tử nấm<lf>ở cự ly gần
+Cây thủy sinh bắn bào tử nấm<lf>ở cự ly gần.
 Đèn Lồng
-Thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù
+Thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù.
 Xương Rồng
 Bắn gai có thể làm vỡ bóng bay
 Cỏ Lốc
-Thổi bay toàn bộ thây ma bóng bay<lf>và sương mù
+Thổi bay toàn bộ thây ma bóng bay<lf>và sương mù.
 Đậu Hạt Chia
-Bắt đậu phía trước lẫn sau
+Bắt đậu phía trước lẫn sau.
 Khế Sao
-Bắn sao 5 hướng
+Bắn sao 5 hướng.
 Giáp Bí
-Bảo vệ cây nằm trong<lf>lớp giáp
+Bảo vệ cây nằm trong<lf>lớp giáp.
 Nấm Nam Châm
-Loại bỏ mũ<lf>và vật thể kim loại từ thây ma
+Loại bỏ mũ<lf>và vật thể kim loại từ thây ma.
 Hất Cải
-Hất bắp cải vào kẻ thù
+Hất bắp cải vào kẻ thù.
 Chậu Hoa
-Giúp trồng cây trên mái nhà
+Giúp trồng cây trên mái nhà.
 Hất Bắp
-Hất hạt bắp và bơ<lf>vào thây ma
+Hất hạt bắp và bơ<lf>vào thây ma.
 Tỏi Xa Lánh
-Khiến thây ma đi vào làn khác
+Khiến thây ma đi vào làn khác.
 Cây Tản Ô
-Bảo vệ cây ở gần khỏi<lf>người nhện và máy ném
+Bảo vệ cây ở gần khỏi<lf>người nhện và máy ném.
 Hoa Kim Tiền
-Sản sinh ra đồng bạc và vàng
+Sản sinh ra đồng bạc và vàng.
 Hất Dưa
-Gây sát thương lớn cho<lf>một nhóm thây ma
+Gây sát thương lớn cho<lf>một nhóm thây ma.
 Đậu Lục Quân
-Bắn 4 đậu cùng lúc<lf>(cần Đậu Đôi)
+Bắn 4 đậu cùng lúc<lf>(cần Đậu Đôi).
 Hướng Dương Đôi
-Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương)
-Nấm Lục Hướng
-Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói)
+Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương).
+Nấm Đa Diện
+Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói).
 Bèo Đuôi Mèo
-Tất công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen)
+Tất công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen).
 Hất Dưa Băng
-Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa)
+Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa).
 Nấm Hút Kim
-Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm)
+Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm).
 Cỏ Gai Đá
-Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>(cần Cỏ Gai)
+Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>(cần Cỏ Gai).
 Đại Bác Bắp
-Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô)
+Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô).
 Đậu Biến Thân
-Cho phép trồng 2 loại cây giống nhau
+Cho phép trồng 2 loại cây giống nhau.
 Cà Phê
-Để nó lên nấm để đánh thức
+Để nó lên nấm để đánh thức.
 Hạt Nổ
-Phát nổ khi va chạm
+Phát nổ khi va chạm.
 Đại Hồ Đào
 Mầm Cây
 Mầm Kim Tiền
@@ -136,7 +136,7 @@ Thây Ma Dắt Chó
 Thây Ma Chó
 Thây Ma Chong Chóng
 Đậu hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
-<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan Đáp, <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh, nên thường xuyên ra<lf>ngoài chạm cỏ."
+<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan Đáp, <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
 NOT USED
 Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!<lf>{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
 NOT USED
@@ -172,15 +172,15 @@ Trồng Nấm Bào Mộ lên mộ để bào mộ.
 Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
 {FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
-Scaredy-shrooms are long-ranged shooters <lf>that hide when enemies get near them.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Special:{STAT} stops shooting when enemy is <lf>{KEYWORD}{STAT}close<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}"Who's there?" whispers Scaredy-shroom, <lf>voice barely audible. "Go away. I don't <lf>want to see anybody. Unless it's the man <lf>from the circus."
+Nấm Nhát Gan bắn tầm xa nhưng sẽ <lf>trốn khi kẻ thù đến gần.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
 NOT USED
-Ice-shrooms temporarily immobilize all <lf>zombies on the screen.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} very light, immobilizes zombies<lf>{KEYWORD}Range:{STAT} all zombies on the screen<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Ice-shroom frowns, not because he's <lf>unhappy or because he disapproves, but <lf>because of a childhood injury that left <lf>his facial nerves paralyzed.
+Nấm Băng Giá bất động tạm thời <lf>toàn bộ thây ma trên màn hình.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực nhẹ, đóng băng thây ma<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên màn hình<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Băng Giá luôn cau có, không phải vì<lf>anh ta không vui hay đang bực mình, mà<lf>là do chấn thương từ thuở bé khiến dây<lf>thần kinh mặt bị tê liệt.
 NOT USED
-Doom-shrooms destroy everything in a <lf>large area and leave a crater that can't <lf>be planted on.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a huge area<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} leaves a crater<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}
-{FLAVOR}"You're lucky I'm on your side," says <lf>Doom-shroom. "I could destroy everything <lf>you hold dear. It wouldn't be hard."
+Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu vực lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
+{FLAVOR}Nấm Thanh Từng nói "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Lily pads let you plant non-aquatic <lf>plants on top of them.
 {SHORTLINE}<lf>{KEYWORD}Special:{STAT} non-aquatic plants can be planted <lf>{KEYWORD}{STAT}on top of it<lf>{AQUATIC}Must be planted in water<lf>{SHORTLINE}<lf>{FLAVOR}Lily Pad never complains. Lily Pad never <lf>wants to know what's going on. Put a <lf>plant on top of Lily Pad, he won't say a <lf>thing. Does he have startling opinions or <lf>shocking secrets?
 {FLAVOR}Nobody knows. Lily Pad <lf>keeps it all inside.
