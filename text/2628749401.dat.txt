@@ -138,11 +138,14 @@ Thây Ma Chong Chóng
 Đậu hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
 <lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan Đáp, <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
 NOT USED
-Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!<lf>{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
+Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
 NOT USED
-Tường Hồ Đào có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.<lf>{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hồ Đào<lf>đáp. "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
+Tường Hồ Đào có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hồ Đào<lf>đáp. "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
 NOT USED
-Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực trung<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
+Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực trung<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
 NOT USED
 Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu vực nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
@@ -160,8 +163,7 @@ Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
 Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
-{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}
-<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
 NOT USED
 Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
