@@ -8,7 +8,7 @@ Hoa Hướng Dương
 Sản sinh thêm mặt trời
 Bom Sơri
 Nổ tung toàn bộ thây ma<lf>trong một khu vực.
-Tường Hồ Đào
+Tường Hạt
 Ngăn chặn thây ma và<lf>bảo vệ cây khác.
 Đậu Đôi
 Bắn 2 đậu cùng lúc
@@ -136,13 +136,13 @@ Thây Ma Dắt Chó
 Thây Ma Chó
 Thây Ma Chong Chóng
 Đậu Hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
-<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan Đáp, <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
+<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan đáp: <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
 NOT USED
 Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!<lf>{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
 NOT USED
-Tường Hồ Đào có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.<lf>{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hồ Đào<lf>đáp. "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
+Tường Hạt có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.<lf>{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hạt<lf>đáp: "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
 NOT USED
-Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực trung<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
+Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực vừa<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói: "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói: "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
 NOT USED
 Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
@@ -150,45 +150,45 @@ Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời g
 Đậu Đôi bắn 2 đậu cùng lúc.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
 NOT USED
-Đậu Băng sẽ bắn đậu băng và làm chậm<lf>kẻ thù.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} bình thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
+Đậu Băng Giá sẽ bắn đậu băng và làm <lf>chậm kẻ thù.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
 NOT USED
 Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắt<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
 NOT USED
 Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
 Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
 {SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}
 <lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
 NOT USED
 Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
 {FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá.
 Trồng Nấm Bào Mộ lên mộ để bào mộ.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt<lf>{KEYWORD}{STAT}trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
-{FLAVOR}Anh ta nói "Tôi chỉ làm những việc<lf>nên làm".
+{FLAVOR}Anh ta nói: "Tôi chỉ làm những việc<lf>nên làm".
 Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
-{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định: "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
 {FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
 Nấm Nhát Gan bắn tầm xa nhưng sẽ <lf>trốn khi kẻ thù đến gần.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi: "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
 NOT USED
 Nấm Băng Giá bất động tạm thời <lf>toàn bộ thây ma trên màn hình.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực nhẹ, đóng băng thây ma<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên màn hình<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Băng Giá luôn cau có, không phải vì<lf>anh ta không vui hay đang bực mình, mà<lf>là do chấn thương từ thuở bé khiến dây<lf>thần kinh mặt bị tê liệt.
 NOT USED
 Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
-{FLAVOR}Nấm Thanh Từng nói "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
+{FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
 Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
-Squashes will smash the first zombie <lf>that gets close to it.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} short range, hits all zombies that <lf>{KEYWORD}{STAT}it lands on<lf>{KEYWORD}Usage:{STAT} single use<lf>{SHORTLINE}<lf>{FLAVOR}"I'm ready!" yells Squash. "Let's do it! <lf>Put me in! There's nobody better! I'm <lf>your guy! C'mon! Whaddya waiting for? <lf>I need this!"
+Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? Tôi muốn<lf>ra trận!"
 NOT USED
-Threepeaters shoot peas in three lanes.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal (for each pea)<lf>{KEYWORD}Range:{STAT} three lanes<lf>{SHORTLINE}<lf>{FLAVOR}Threepeater likes reading, backgammon <lf>and long periods of immobility in the <lf>park. Threepeater enjoys going to shows, <lf>particularly modern jazz. "I'm just <lf>looking for that special someone," he <lf>says. Threepeater's favorite number is 5.
+Đậu Ba Làn bắn đậu ở ba làn
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
 NOT USED
 Tangle Kelp are aquatic plants that pull <lf>the first zombie that nears them <lf>underwater.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Usage:{STAT} single use, on contact<lf>{AQUATIC}Must be planted in water<lf>{SHORTLINE}<lf>{FLAVOR}"I'm totally invisible," Tangle Kelp thinks <lf>to himself. "I'll hide here just below the <lf>surface and nobody will see me."
