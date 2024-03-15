@@ -1,0 +1,98 @@
+main ui
+oam: 1296092948.NCER
+tile: 0033642963.NCGR & 2138484118.NCGR
+pal: 1965815229.NCLR & 2625795165.NCLR
+
+main ui#2
+oam: 2770534732.NCER
+tile: 2531208310.NCGR & 3953711155.NCGR
+pal: 
+
+almanac ui
+oam:
+tile: 4254001889.NCGR
+pal:
+
+ingame text
+oam:
+tile: 0868529625.NCGR & 1320370588.NCGR
+pal: 
+
+oam:
+tile: 1422487518.NCGR
+pal: 
+
+pause ui
+oam:
+tile: 1641244359.NCGR
+pal: 
+
+oam: 
+tile: 2163809956.NCGR
+pal: 
+
+
+oam:
+tile: 2164614525.NCGR
+pal: 
+
+puzzle banner
+oam:
+tile: 2203142825.NCGR
+pal: 
+
+
+oam:
+tile: 2256593130.NCGR
+pal: 
+
+vs mode ui
+oam: 
+tile: 2716158135.NCGR & 3313393986.NCGR
+pal: 
+
+more ui
+oam: 
+tile: 2821255814.NCGR & 3579774659.NCGR
+pal: 
+
+
+oam: 
+tile: 3169863966.NCGR & 3246898523.NCGR
+pal: 
+
+pvz title
+tile: 3468706814.NCGR
+pal: 
+
+
+tile: 3486868728.NCGR
+pal: 
+
+letter #1
+tile: 2426991360.NCGR
+pal:
+
+letter #2
+tile: 3227869875.NCGR
+pal:
+
+letter # 3
+tile: 3714077195.NCGR
+pal: 
+
+nintendo
+tile: 3850217876.NCGR
+pal: 
+
+crazy dave bg
+tile: 3893043242.NCGR
+pal: 
+
+rating:
+tile: 2698247429.NCGR
+pal: 
+
+main tile:
+tile: 4283891624.NCGR
+pal: 
