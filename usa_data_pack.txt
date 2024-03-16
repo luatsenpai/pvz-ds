@@ -252,7 +252,7 @@ nscr: 0965699227.NSCR & 2266798556.NSCR
 pvz big title
 tile: 0789990573.NCGR
 pal: 3437401446.NCLR
-nscr: 
+nscr: 1465658073.NSCR
 
 crazy dave bg
 tile: 3893043242.NCGR
@@ -263,3 +263,8 @@ pvz help letter
 tile: 3714077195.NCGR
 pal: 1049922496.NCLR
 nscr: 2771006591.NSCR
+
+letter 1
+tile: 1190203421.NCGR
+pal: 2768619990.NCLR
+nscr: 1052472937.NSCR 
