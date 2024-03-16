@@ -150,7 +150,7 @@ Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời g
 Đậu Băng Giá sẽ bắn đậu băng và làm <lf>chậm kẻ thù.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
 Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói{FLAVOR}"Đó cũng chỉ là công việc mà thôi".
 Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
@@ -173,10 +173,10 @@ Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau k
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
 {FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
-{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì.{FLAVOR}Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
 Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
 Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? Tôi muốn<lf>ra trận!"
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? {FLAVOR}Tôi muốn ra trận!"
 Đậu Ba Làn bắn đậu ở ba làn
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
 Tangle Kelp are aquatic plants that pull <lf>the first zombie that nears them <lf>underwater.
