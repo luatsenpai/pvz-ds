@@ -1,0 +1,1786 @@
+C
+$
+{CURRENCY_SYMBOL}{AMOUNT}
+Đậu Hà Lan
+Bắn đậu vào kẻ địch
+Hoa Hướng Dương
+Sản sinh thêm mặt trời
+Bom Sơri
+Nổ tung toàn bộ thây ma<lf>trong một khu vực.
+Tường Hạt
+Ngăn chặn thây ma và<lf>bảo vệ cây khác.
+Đậu Đôi
+Bắn 2 đậu cùng lúc
+Mìn Khoai Tây
+Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian thiết đặt.
+Đậu Băng Giá
+Bắn đậu băng và làm chậm<lf>kẻ thù.
+Hoa Ăn Thịt
+Nuốt chửng thây ma,<lf>nhưng cần thời gian tiêu hóa.
+Nấm Bào Tử
+Bắn bào tử trong cự ly ngắn<lf>vào kẻ thù.
+Nấm Mặt Trời
+Tạo ra mặt trời nhỏ trước,<lf>sau đó là mặt trời thường.
+Nấm Khói
+Bắn khói có thể xuyên qua kẻ thù<lf>và cửa.
+Nấm Bào Mộ
+Trồng nó lên mộ để bào mộ.
+Nấm Thôi Miên
+Khiến thây ma về phe bạn.
+Nấm Nhát Gan
+Bắn tầm xa nhưng sẽ trốn<lf>khi kẻ thù đến gần.
+Nấm Băng Giá
+Làm bất động tạm thời toàn bộ<lf>thây ma trên màn hình.
+Nấm Thanh Trừng
+Phá hủy một khu vực rộng,<lf>để lại hố sau khi nổ.
+Bè Lá Sen
+Giúp trồng cây không phải<lf>cây thủy sinh ở trên nó.
+Bí Đè
+Đè bẹp thây ma.
+Đậu Ba Làn
+Bắt đậu cả 3 làn.
+Bèo Ma Da
+Loại cây thủy sinh sẽ kéo chân<lf>thây ma xuống đáy hồ.
+Ớt Bùng Cháy
+Tiêu diệt toàn bộ thây ma trên 1 làn.
+Có Gai
+Làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó.
+Gỗ Đuốc
+Hạt đậu khi bay qua nó sẽ bốc cháy.
+Tường Hạt Cao
+Bức tường kiên cố<lf>không thể vượt qua.
+Nấm Thủy Sinh
+Cây thủy sinh bắn bào tử nấm<lf>ở cự ly gần.
+Đèn Lồng
+Thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù.
+Xương Rồng
+Bắn gai có thể làm vỡ bóng bay
+Cỏ Lốc
+Thổi bay toàn bộ thây ma bóng bay<lf>và sương mù.
+Đậu Hạt Chia
+Bắt đậu phía trước lẫn sau.
+Khế Sao
+Bắn sao 5 hướng.
+Giáp Bí
+Bảo vệ cây nằm trong<lf>lớp giáp.
+Nấm Nam Châm
+Loại bỏ mũ<lf>và vật thể kim loại từ thây ma.
+Hất Cải
+Hất bắp cải vào kẻ thù.
+Chậu Hoa
+Giúp trồng cây trên mái nhà.
+Hất Bắp
+Hất hạt bắp và bơ<lf>vào thây ma.
+Tỏi Xa Lánh
+Khiến thây ma đi vào làn khác.
+Cây Tản Ô
+Bảo vệ cây ở gần khỏi<lf>người nhện và máy ném.
+Hoa Kim Tiền
+Sản sinh ra đồng bạc và vàng.
+Hất Dưa
+Gây sát thương lớn cho<lf>một nhóm thây ma.
+Đậu Lục Quân
+Bắn 4 đậu cùng lúc<lf>(cần Đậu Đôi).
+Hướng Dương Đôi
+Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương).
+Nấm Đa Diện
+Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói).
+Bèo Đuôi Mèo
+Tất công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen).
+Hất Dưa Băng
+Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa).
+Nấm Hút Kim
+Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm).
+Cỏ Gai Đá
+Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>(cần Cỏ Gai).
+Đại Bác Bắp
+Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô).
+Đậu Biến Thân
+Cho phép trồng 2 loại cây giống nhau.
+Cà Phê
+Để nó lên nấm để đánh thức.
+Hạt Nổ
+Phát nổ khi va chạm.
+Đại Hồ Đào
+Mầm Cây
+Mầm Kim Tiền
+Thây Ma
+Thây Ma Cầm Cờ
+Thây Ma<lf>Đội Chốt
+Thây Ma<lf>Đội Xô
+Thây Ma<lf>Phóng Lao
+Thây Ma Đọc Báo
+Thây Ma<lf>Ôm Cửa
+Thây Ma Bóng Đá
+Thây Ma Nhảy
+Thây Ma Phụ Đạo
+Thây Ma<lf>Phao Vịt
+Thây Ma Thợ Lặn
+Thây Ma Xe Tuyết
+Đội Xe Trượt
+Thây Ma<lf>Phóng Cá
+Thây Ma<lf>Bất Ngờ
+Thây Ma Bóng Bay
+Thây Ma Thợ Mỏ
+Thây Ma Pogo
+Thây Ma<lf>Người Tuyết
+Thây Ma<lf>Người Nhện
+Thây Ma<lf>Ôm Thang
+Thây Ma Máy Ném
+Thây Ma Cự Nhân
+Đại Cự Nhân
+Tiểu Yêu
+Ts. Trùm
+Thây Ma Dắt Chó
+Thây Ma Chó
+Thây Ma Chong Chóng
+Đậu Hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan đáp: <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
+Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
+Tường Hạt có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hạt<lf>đáp: "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
+Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực vừa<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói: "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói: "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
+Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
+{FLAVOR}<lf>Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
+Đậu Đôi bắn 2 đậu cùng lúc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
+Đậu Băng Giá sẽ bắn đậu băng và làm <lf>chậm kẻ thù.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
+Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
+Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
+{FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
+Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
+Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
+{FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá.
+Trồng Nấm Bào Mộ lên mộ để bào mộ.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt<lf>{KEYWORD}{STAT}trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
+{FLAVOR}Anh ta nói: "Tôi chỉ làm những việc<lf>nên làm".
+Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định: "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
+{FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
+Nấm Nhát Gan bắn tầm xa nhưng sẽ <lf>trốn khi kẻ thù đến gần.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi: "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
+Nấm Băng Giá bất động tạm thời <lf>toàn bộ thây ma trên màn hình.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực nhẹ, đóng băng thây ma<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên màn hình<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Băng Giá luôn cau có, không phải vì<lf>anh ta không vui hay đang bực mình, mà<lf>là do chấn thương từ thuở bé khiến dây<lf>thần kinh mặt bị tê liệt.
+Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
+{FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
+Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
+Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
+Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? Tôi muốn<lf>ra trận!"
+Đậu Ba Làn bắn đậu ở ba làn
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
+Tangle Kelp are aquatic plants that pull <lf>the first zombie that nears them <lf>underwater.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Usage:{STAT} single use, on contact<lf>{AQUATIC}Must be planted in water<lf>{SHORTLINE}<lf>{FLAVOR}"I'm totally invisible," Tangle Kelp thinks <lf>to himself. "I'll hide here just below the <lf>surface and nobody will see me."
+{FLAVOR}His friends tell him they can see him <lf>perfectly well, but he'll never change.
+Jalapenos destroy an entire lane of <lf>zombies.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a lane<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{SHORTLINE}<lf>{FLAVOR}"NNNNNGGGGGG!!!!!!!!" Jalapeno says. He's <lf>not going to explode, not this time. But <lf>soon. Oh, so soon. It's close. He knows it, <lf>he can feel it, his whole life's been <lf>leading up to this moment.
+Spikeweeds pop tires and hurt any <lf>zombies that step on them.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} all zombies that walk over it<lf>{KEYWORD}Special:{STAT} can't be eaten by zombies<lf>{SHORTLINE}<lf>{FLAVOR}Hockey is Spikeweed's obsession. He's got <lf>box seat season tickets. He keeps close <lf>track of his favorite players. And he <lf>consistently cleans up in the office <lf>hockey pool.
+{FLAVOR}Just one problem: he's terrified of pucks.
+Torchwoods turn peas that pass through <lf>them into fireballs that deal twice as <lf>much damage.
+{SHORTLINE}<lf>{KEYWORD}Special:{STAT} doubles the damage of peas that <lf>{KEYWORD}{STAT}pass through it.  Fireballs deal damage<lf>{KEYWORD}{STAT}to nearby zombies on impact<lf>{SHORTLINE}<lf>{FLAVOR}Everybody likes and respects Torchwood. <lf>They like him for his integrity, for his <lf>steadfast friendship, for his ability to <lf>greatly maximize pea damage.
+{FLAVOR}But Torchwood has a secret:<lf>he can't read.
+Tall-nuts are heavy-duty wall plants <lf>that can't be vaulted over.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} very high<lf>{KEYWORD}Special:{STAT} can't be vaulted or jumped over<lf>{SHORTLINE}<lf>{FLAVOR}People wonder if there's a rivalry <lf>between Wall-nut and Tall-nut. Tall-nut <lf>laughs a rich, baritone laugh. "How could <lf>there be anything between us? We are <lf>brothers. If you knew what Wall-nut has <lf>done for me..."
+{FLAVOR}Tall-nut's voice trails off  and he smiles<lf>knowingly.
+Sea-shrooms are aquatic plants that <lf>shoot short ranged spores.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} short<lf>{AQUATIC}Must be planted in water<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Sea-shroom has never seen the sea. It's in <lf>his name, he's heard loads about it, but <lf>he's just never found the time. One day, <lf>though, it'll go down.
+Planterns light up an area, letting you <lf>see through fog.
+{SHORTLINE}<lf>{KEYWORD}Range:{STAT} one lane<lf>{KEYWORD}Special:{STAT} lets you see through fog<lf>{SHORTLINE}<lf>{FLAVOR}Plantern defies science. He just does. <lf>Other plants eat light and excrete <lf>oxygen; Plantern eats darkness and <lf>excretes light. Plantern's cagey about <lf>how he does it. "I'm not gonna say <lf>'sorcery,'
+{FLAVOR}I wouldn't use the term 'dark <lf>forces,' I just... I think I've said enough."
+Cactuses shoot spikes that can hit both <lf>ground and air targets.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} ground and air<lf>{SHORTLINE}<lf>{FLAVOR}She's prickly, sure, but Cactus's spikes <lf>belie a spongy heart filled with love and <lf>goodwill. She just wants to hug and be <lf>hugged. Most folks can't hang with that, <lf>but Cactus doesn't mind.
+{FLAVOR}She's been seeing an armadillo for a while<lf>and it really seems to be working out.
+Blovers blow away all balloon zombies <lf>and fog.
+{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} blows away all balloon zombies<lf>{SHORTLINE}<lf>{FLAVOR}When Blover was five he got a shiny new <lf>birthday cake. Blover made his wish, <lf>huffed and puffed, but was able to <lf>extinguish only 60% of the candles. 
+{FLAVOR}Instead of giving up, though, he's used <lf>that early defeat as a catalyst to push <lf>himself harder ever since.
+Split Peas shoot peas forward and <lf>backwards.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} forward and backwards<lf>{KEYWORD}Firing Speed:{STAT} 1x forward, 2x backwards<lf>{SHORTLINE}<lf>{FLAVOR}"Yeah, I'm a Gemini," says Split Pea. "I <lf>know, big surprise. But having two heads <lf>--or really, one head with a large <lf>head-like growth on the back-- pays off <lf>big in my line of work."
+Starfruits shoot stars in 5 directions.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} 5 directions<lf>{SHORTLINE}<lf>{FLAVOR}"Aw, man," says Starfruit. "I went to the <lf>dentist the other day and he said I have <lf>four cavities. I've got --count it-- ONE <lf>tooth! Four cavities in one tooth? <lf>How does this happen?"
+Pumpkins protect plants that are within <lf>their shells.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high<lf>{KEYWORD}Special:{STAT} can be planted over another plant<lf>{SHORTLINE}<lf>{FLAVOR}Pumpkin hasn't heard from his cousin <lf>Renfield lately. Apparently Renfield's a <lf>big star, some kind of... what was it... <lf>sports hero? Peggle Master? Pumpkin <lf>doesn't really get it. He just does his job.
+Magnet-shrooms remove helmets and <lf>other metal objects from zombies.
+{SHORTLINE}<lf>{KEYWORD}Range:{STAT} nearby zombies<lf>{KEYWORD}Special:{STAT} removes metal objects from <lf>{KEYWORD}{STAT}zombies<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Magnetism is a powerful force. Very <lf>powerful. Sometimes it scares <lf>Magnet-shroom a little.
+{FLAVOR}He's not sure if <lf>he can handle that kind of responsibility.
+Cabbage-pults hurl cabbages at the <lf>enemy.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} lobbed<lf>{SHORTLINE}<lf>{FLAVOR}Cabbage-pult is okay with launching <lf>cabbages at zombies. It's what he's paid <lf>for, after all, and he's good at it. He just <lf>doesn't understand how the zombies get <lf>up on the roof in the first place.
+Flower Pots let you plant on the roof.
+{SHORTLINE}<lf>{KEYWORD}Special:{STAT} allows you to plant on the roof<lf>{SHORTLINE}<lf>{FLAVOR}"I'm a pot for planting. Yet I'm also a <lf>plant. HAS YOUR MIND EXPLODED YET?"
+Kernel-pults fling corn kernels and <lf>butter at zombies.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} light (kernel), normal (butter)<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} butter immobilizes zombies<lf>{SHORTLINE}<lf>{FLAVOR}Kernel-Pult is the eldest of the Pult <lf>brothers. Of the three of them, Kernel is <lf>the only one who consistently remembers <lf>the others' birthdays. He bugs them about <lf>it a little, too.
+Use Coffee Beans to wake up sleeping <lf>mushrooms.
+{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} can be planted over another <lf>{KEYWORD}{STAT}plant, wakes up mushrooms<lf>{SHORTLINE}<lf>{FLAVOR}"Hey, guys, hey!" says Coffee Bean. "Hey! <lf>What's up? Who's that? Hey! Didja see <lf>that thing? What thing? Whoa! Lions!" <lf>Yep, Coffee Bean sure does get excited.
+Garlic diverts zombies into other lanes.
+{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} on contact<lf>{KEYWORD}Special:{STAT} diverts zombies into other lanes<lf>{SHORTLINE}<lf>{FLAVOR}Lane-diversion isn't just Garlic's <lf>profession. It's his passion. He carries an <lf>advanced Doctorate in Redirection from <lf>the Brussels University. He'll talk all day <lf>about lane vectors and repulse arrays.
+{FLAVOR}He even pushes things into alternate<lf>avenues at home. Somehow his wife puts<lf>up with it.
+Umbrella Leaves protect nearby plants <lf>from bungees and catapults.
+{SHORTLINE}<lf>{KEYWORD}Special:{STAT} protects adjacent plants from <lf>{KEYWORD}{STAT}bungees and catapults<lf>{SHORTLINE}<lf>{FLAVOR}"SPROING!" says Umbrella Leaf. "Didja <lf>like that? I can do it again. SPROING! <lf>Woo! That's me popping up to protect <lf>stuff around me. Yeah. Just like that. <lf>EXACTLY like that. Believe it."
+Marigolds give you silver and gold coins.
+{SHORTLINE}<lf>{KEYWORD}Special:{STAT} gives coins<lf>{SHORTLINE}<lf>{FLAVOR}Marigold spends a lot of time deciding <lf>whether to spit out a silver coin or a <lf>gold one. She thinks about it, weighs the <lf>angles. She does solid research and keeps <lf>up with current publications. That's how <lf>winners stay ahead.
+Melon-pults do heavy damage to groups <lf>of zombies.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} melons damage nearby enemies on <lf>{KEYWORD}{STAT}impact<lf>{SHORTLINE}<lf>{FLAVOR}There's no false modesty with Melon-pult. <lf>"Sun-for-damage, I deliver the biggest <lf>punch on the lawn," he says. "I'm not <lf>bragging. Run the numbers. You'll see."
+Gatling Peas shoot four peas at a time.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal (for each pea)<lf>{KEYWORD}Firing Speed:{STAT} 4x<lf>{KEYWORD}Must be planted on repeaters<lf>{SHORTLINE}<lf>{FLAVOR}Gatling Pea's parents were concerned <lf>when he announced his intention to join <lf>the military. "But honey, it's so <lf>dangerous!" they said in unison. Gatling <lf>Pea refused to budge. 
+{FLAVOR}"Life is dangerous," <lf>he replied, eyes glinting with steely <lf>conviction.
+Twin Sunflowers give twice as much sun <lf>as a normal sunflower.
+{SHORTLINE}<lf>{KEYWORD}Sun production:{STAT} double<lf>{KEYWORD}Must be planted on sunflowers<lf>{SHORTLINE}<lf>{FLAVOR}It was a crazed night of forbidden science <lf>that brought Twin Sunflower into <lf>existence. Thunder crashed overhead, <lf>strange lights flickered, even the very <lf>roaring wind seemed to hiss its angry <lf>denial. But to no avail.
+{FLAVOR}Twin Sunflower was alive, ALIVE!
+Gloom-shrooms release heavy fumes in an <lf>area around themselves.
+{SHORTLINE}<lf>{KEYWORD}Must be planted on fume-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"I've always enjoyed releasing heavy <lf>fumes," says Gloom Shroom. "I know a lot <lf>of people aren't cool with that. They say <lf>it's rude or that it smells bad. All I can <lf>say is, would you rather have your brain <lf>eaten by zombies?"
+Cattails can attack any lane and shoot <lf>down balloon zombies too.
+{SHORTLINE}<lf>{KEYWORD}Must be planted on lily pads<lf>{SHORTLINE}<lf>{FLAVOR}"Woof!" says Cattail. "Woof woof woof! <lf>Does this confuse you? Do you expect me <lf>to say 'Meow' like a cat just because the <lf>word 'cat' is in my name and I also look <lf>like a cat? That's not how things work <lf>around here. I refuse to be pigeonholed."
+Winter Melons do heavy damage and slow <lf>groups of zombies.
+{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} very heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Firing Speed:{STAT} 1/2x<lf>{KEYWORD}Special:{STAT} melons damage and freeze nearby <lf>{KEYWORD}{STAT}enemies on impact<lf>{KEYWORD}Must be planted on melon-pults<lf>{SHORTLINE}<lf>{FLAVOR}Winter Melon tries to calm his nerves. He <lf>hears the zombies approach.
+{FLAVOR}Will he make it?<lf>Will anyone make it?
+Gold Magnets collect coins and diamonds <lf>for you.
+{SHORTLINE}<lf>{KEYWORD}Must be planted on magnet-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"How did I end up here?" asks Gold <lf>Magnet. "I was on the fast track --corner <lf>office, full benefits, stock options. I was <lf>gonna be Vice President of Midwestern <lf>Operations. Now I'm here, on this lawn, in <lf>serious danger of being eaten to death. <lf>Ooh! A coin!"
+Press <A> on the Cob Cannon to launch deadly cobs <lf>of corn.
+{SHORTLINE}<lf>{KEYWORD}Must be planted on 2 side-by-side <lf>{KEYWORD}kernel-pults<lf>{SHORTLINE}<lf>{FLAVOR}What's the deal with Cob Cannon,<lf>anyway? He went to Harvard. He<lf>practices law in a prestigious New York<lf>firm. He can explode whole areas of<lf>zombies with a single corn-launch.<lf>All this is common knowledge.
+{FLAVOR}But deep inside,<lf>what really makes him tick?
+Imitaters let you use two of the same <lf>plant during a level!
+{SHORTLINE}<lf>{FLAVOR}"I remember the Zombie Wars back in <lf>'76," says Imitater in a raspy, old-man's <lf>voice. "Back then, we didn't have all <lf>these fancy peashooters and jalapenos. <lf>All we had was guts. Guts and a spoon."
+Spikerocks pop multiple tires and damage <lf>zombies that walk over it.
+{SHORTLINE}<lf>{KEYWORD}Must be planted on spikeweeds<lf>{SHORTLINE}<lf>{FLAVOR}Spikerock just got back from a trip to <lf>Europe. He had a great time, met some <lf>wonderful people, really broadened his <lf>horizons. He never knew they made <lf>museums so big, or put so many paintings <lf>in them. That was a big surprise for him.
+Regular Garden-variety Zombie
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}This zombie loves brains. Can't get enough. <lf>Brains, brains, brains, day in and night out. <lf>Old and stinky brains? Rotten brains? <lf>Brains clearly past their prime? Doesn't <lf>matter. Regular zombie wants 'em. 
+Flag Zombie marks the arrival of a huge <lf>pile or "wave" of zombies.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Make no mistake, Flag Zombie loves brains. <lf>But somewhere down the line he also <lf>picked up a fascination with flags. Maybe <lf>it's because the flags always have brains <lf>on them. Hard to say.
+His traffic cone headpiece makes him <lf>twice as tough as normal zombies.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {640}<lf>{SHORTLINE}<lf>{FLAVOR}Conehead Zombie shuffled mindlessly <lf>forward like every other zombie.<lf>But something made him stop, made him <lf>pick up a traffic cone and stick it on his <lf>head. Oh yeah. He likes to party.
+His bucket hat makes him extremely <lf>resistant to damage.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1370}<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Buckethead Zombie always wore a bucket. <lf>Part of it was to assert his uniqueness <lf>in an uncaring world. Mostly he just forgot <lf>it was there in the first place.
+Pole Vaulting Zombie vaults with a pole.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then normal (after jump)<lf>{KEYWORD}Special:{STAT} jumps the first plant he runs into<lf>{SHORTLINE}<lf>{FLAVOR}Some zombies take it further, aspire more, <lf>push themselves beyond the <lf>normal into greatness.<lf>That's Pole Vaulting Zombie<lf>right there. That is so him.
+His newspaper provides limited defense.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Newspaper Toughness:{STAT} low {150}<lf>{KEYWORD}Speed:{STAT} normal, then fast (after losing <lf>{KEYWORD}{STAT}newspaper)<lf>{SHORTLINE}<lf>{FLAVOR}Newspaper Zombie was *this* close to <lf>finishing his sudoku puzzle. No wonder he's <lf>freaking out.
+His screen door is an effective shield.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Screen Door Toughness:{STAT} high {1100}<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He got his screen door from the last <lf>inexpertly defended home he visited,<lf>after he ATE THE HOMEOWNER'S BRAINS.
+Football Zombie makes the big plays.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} very high {1670}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Football Zombie gives 110 percent <lf>whenever he's on the field. He's a team <lf>player who delivers both offensively and <lf>defensively.<lf>He has no idea what a football is.
+Any resemblance between Dancing Zombie <lf>and persons living or dead is purely <lf>coincidental.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} summons back-up dancers<lf>{SHORTLINE}<lf>{FLAVOR}Dancing Zombie's latest album, <lf>"GrarrBRAINSarblarbl," is already rocketing <lf>up the undead charts.
+These zombies appear in sets of four <lf>whenever Dancing Zombie rocks out.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Backup Dancer Zombie spent six years <lf>perfecting his art at the Chewliard <lf>Performing Arts School in Zombie <lf>New York City.
+The ducky tube allows this zombie<lf>to float on water.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}It takes a certain kind of zombie to be a <lf>Ducky Tuber. Not every zombie can handle <lf>it. Some crack. They can't take it. They <lf>walk away and give up on brains forever.
+Snorkel zombies can swim underwater.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} submerges to avoid attacks<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}Zombies don't breathe.<lf>They don't need air.<lf>So why does Snorkel Zombie need<lf>a snorkel to swim underwater?<lf>Answer: peer pressure.
+The Zomboni applies ice, steam and <lf>pressure to your plants.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} crushes plants, leaves an ice trail<lf>{SHORTLINE}<lf>{FLAVOR}Not to be mistaken for a Zamboni® brand <lf>ice resurfacing machine.  Zamboni® and <lf>the image of the ice-resurfacing machine <lf>are registered trademarks of Frank J. <lf>Zamboni & Co., Inc., and "Zomboni" is used<lf>with permission.<lf>For all your non-zombie-related ice<lf>resurfacing needs, visit www.zamboni.com!
+These zombies appear in teams of four.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low (each zombie) {270}<lf>{KEYWORD}Bobsled Toughness:{STAT} low {300}<lf>{KEYWORD}Special:{STAT} only appears on ice<lf>{SHORTLINE}<lf>{FLAVOR}Zombie Bobsled Team worked hard to get <lf>where they are. They live together, eat <lf>brains together and train together to <lf>become a cohesive zombie unit.
+Dolphin Rider Zombies use dolphins to <lf>exploit weaknesses in your pool defense.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow (after jump)<lf>{KEYWORD}Special:{STAT} jumps over the first plant he runs <lf>{KEYWORD}{STAT}into<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}The dolphin is also a zombie.
+A rare and curious creature.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} runs away after a short while<lf>{SHORTLINE}<lf>{FLAVOR}Little is known about the Zombie Yeti <lf>other than his name, birth date, social <lf>security number, educational history, past <lf>work experience and sandwich preference <lf>(roast beef and Swiss).
+This zombie carries an explosive surprise.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYWORD}Special:{STAT} jack-in-the-box explodes<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}This zombie shivers, not because he's cold <lf>but because he's crazy.
+Balloon Zombie floats above the fray, <lf>immune to most attacks.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} flying<lf>{KEYWORD}Weakness:{STAT} cactus and blover<lf>{SHORTLINE}<lf>{FLAVOR}Balloon Zombie really lucked out. <lf>The balloon thing really works and none of <lf>the other zombies have picked up on it.
+This zombie digs to bypass your defenses.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {370}<lf>{KEYWORD}Speed:{STAT} fast, then slow<lf>{KEYWORD}Special:{STAT} tunnels underground and appears <lf>{KEYWORD}{STAT}on the left side of the lawn<lf>{KEYWORD}Weakness:{STAT} split pea{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Digger Zombie spends three days a week <lf>getting his excavation permits in order.
+Pogo Zombie hops to bypass your defenses.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} hops over plants<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Sproing! Sproing! Sproing! That's the sound <lf>of a powerful and effective zombie doing <lf>what he does best.
+Bungee Zombie attacks from above.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {400}<lf>{KEYWORD}Special:{STAT} descends from the sky and steals <lf>{KEYWORD}{STAT}a plant<lf>{SHORTLINE}<lf>{FLAVOR}Bungee Zombie loves to take risks. After <lf>all, what's the point of being dead if you <lf>don't live a little?
+Ladder Zombie climbs over obstacles.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Ladder Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow <lf>{KEYWORD}{STAT}(after placing ladder)<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He picked the ladder up for $8.99.
+Catapult Zombie operates heavy <lf>machinery.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {850}<lf>{KEYWORD}Special:{STAT} lobs basketballs at your plants<lf>{SHORTLINE}<lf>{FLAVOR}Of all the things Catapult Zombie could <lf>launch with his catapult, basketballs <lf>seemed like the best and most obvious <lf>choice.
+Gargantuar is a gigantic zombie.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} extremely high {3000}<lf>{SHORTLINE}<lf>{FLAVOR}When Gargantuar walks, the earth <lf>trembles. When he moans, other zombies <lf>fall silent. He is the zombie other zombies <lf>dream they could be. But he still can't <lf>find a girlfriend. 
+Imps are tiny zombies hurled by <lf>Gargantuar deep into your defenses.
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Imp may be small, but he's wiry. He's <lf>proficient in zombie judo, zombie karate <lf>and zombie bare-knuckle brawling. He also <lf>plays the melodica.
+Dr. Zomboss rules them all.
+{SHORTLINE}<lf>{KEYWORD}Toughness (in Zombot shell):{STAT} extreme<lf>{SHORTLINE}<lf>{FLAVOR}Edgar George Zomboss achieved his <lf>Doctorate in Thanatology in only two <lf>years. Quickly mastering thanatological <lf>technology, he built his fearsome Zombot <lf>and set about establishing absolute <lf>dominance of his local subdivision.
+Dog Walking Zombie description
+Dog Zombie description
+Propeller Zombie description
+Evening, {PLAYER_NAME}.
+Those zombies just<lf>won't let up, will they?
+You'll notice that fighting zombies at night is different than<lf>in the day.
+For one, you won't get<lf>any sun falling from<lf>the sky.
+You can still get sun<lf>from sunflowers,<lf>though.
+And lucky for you, you<lf>got yourself some<lf>puff-shrooms.
+Plant as many of those as you can and you'll be A-O-GOOD.
+Hey, you found my car key!
+You know what that means...
+Crazy Dave's Twiddydinkies is open for business! {MOUTH_SMALL_SMILE}
+Have a look!<lf>See if you can't find<lf>something you like! {MOUTH_SMALL_SMILE}
+Ever play a game called Whack-a-Zombie?
+It's just like huntin' squirbos.
+You know, those furry little rodents that dig holes in your lawn?
+Yeah, just like that, but instead of squirbos, it's zombies.
+{SHOW_HAMMER}And instead of a shovel,<lf>it's a mallet.
+And instead of ME,<lf>it's YOU! {MOUTH_BIG_SMILE} {SCREAM}
+Looks like the zombies gave up attacking your front yard.
+Now they're trying your backyard.
+And to top it all off, you can't even use your mushrooms!
+'cause they'll fall asleep during the day!
+Well isn't that just dandy!
+YOU FOUND MY MAGIC TACO!! {SCREAM2}
+{SHOW_MONEYBAG}I must have it! I'll give you $1000!
+YES!  THE TACO IS MINE! {SCREAM}
+Why'd I give you so much money for a taco?
+{SHAKE}BECAUSE I'M CRAAAAZY!!!! {MOUTH_BIG_SMILE}
+Take a look around<lf>my shop!<lf>You'll notice I got some<lf>new items in stock!
+Funny thing about the zombie process. Sometimes it makes 'em come out real little.
+Real little and REAL MEAN!
+Defend your shins! {SCREAM}
+You know, they used to call me "Fog Man"
+cause I would hang out in<lf>the fog and<lf>JUMP OUT AT PEOPLE! {MOUTH_BIG_SMILE}
+Ah, those were the days. {MOUTH_SMALL_SMILE}
+Why'd it get so dark<lf>all of a sudden?
+This can't be good.
+Oh well, hope you<lf>survive the night!
+Whoa! They even found a way onto your roof!
+Those are some persistent zombies, dude.
+You'll need to use cabbage-pults here due to your roof's angle.
+Remember that, and you're good to go!
+Zen Garden is<lf>pretty nifty, huh?
+You can visit it any time from the main menu.
+But enough of that!<lf>It's time to defend<lf>your house!
+I have to warn you...
+You are going to hate this next level.
+Why?<lf>Because it's non-stop<lf>bungee zombie<lf>after bungee zombie.
+I hate those confounded bungees!!! {SCREAM2}
+I hate them!!
+Hate them with a passion!
+And a vengeance!
+A-Whoop-a-dee-doo! Here come those idiots now!
+Hey, you've collected {MONEY} in coins so far!
+When you collect {UPGRADE_COST},<lf>I'll sell you something<lf>really neat-o!
+Hey! Wanna buy an extra seed slot?
+It'll cost you {UPGRADE_COST}, but you'll be able to choose 7 seeds per level instead of 6!
+{NO_CLICK}How's that sound?
+All right! And hey, when you save up to {UPGRADE_COST}, I'll sell you the 8-seed slot upgrade!
+Check you later!
+Bummer, dude!
+Hey! Wanna buy an extra seed slot?
+It'll cost you {UPGRADE_COST},<lf>but you'll be able to<lf>choose 8 seeds per level<lf>instead of 7!
+{NO_CLICK}How's that sound?
+All right!
+Bummer, dude!
+Upgrade to {SLOTS} seed slots?
+Man, those zombies just keep a-comin'!
+This time around, I wanna pick some seeds for you!
+I choose... these three!
+{NO_CLICK}I'll give you ${SELL_PRICE}<lf>for that {PLANT_TYPE}!
+{NO_SOUND}{NO_CLICK}Plant these on your<lf>repeaters to turn them<lf>into gatling peas!<lf>Gatling peas shoot four<lf>peas at a time!
+{NO_SOUND}{NO_CLICK}Plant these on your sunflowers to turn them into twin sunflowers! Twin sunflowers give twice as much sun as a sunflower!
+{NO_SOUND}{NO_CLICK}Plant these on your fume-shrooms to turn them into gloom-shrooms! Gloom-shrooms do rapid attacks in a small area!
+{NO_SOUND}{NO_CLICK}Plant these on your<lf>lily pads to turn them<lf>into cattails!<lf>Cattails can attack any<lf>lane and take down<lf>balloon zombies!
+{NO_SOUND}{NO_CLICK}Plant these on your melon-pults to turn them into winter melons! Winter melons do heavy damage and slow groups of zombies!
+{NO_SOUND}{NO_CLICK}Plant these on your magnet-shrooms to turn them into gold magnets! Gold magnets collect coins and diamonds for you!
+{NO_SOUND}{NO_CLICK}Plant these on your<lf>spikeweeds to turn<lf>them into spikerocks!<lf>Spikerocks do twice the<lf>damage and are<lf>extremely durable!
+{NO_SOUND}{NO_CLICK}Plant these on your kernel-pults to turn them into cob cannons! Press <A> on a cob cannon to launch a deadly attack!
+{NO_SOUND}{NO_CLICK}This Imitater lets you have two of the same plant during a level!
+{NO_SOUND}{NO_CLICK}This extra mower will give you another line of defense after a lawn mower is used!
+{NO_SOUND}{NO_CLICK}This Marigold Sprout goes in your Zen Garden! Grow it to full-size, and it'll reward you nicely!
+{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>7 plants per level!
+{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>8 plants per level!
+{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>9 plants per level!
+{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>10 plants per level!
+{NO_CLICK}All twiddydinkies are<lf>priced to move!!
+{NO_CLICK}ACT NOW! I'M CRRRRRAAAZY!! {SCREAM}
+{NO_CLICK}Our prices are<lf>unbelievable!!!
+{NO_CLICK}I eat food off the floor!
+{NO_SOUND}{NO_CLICK}The Golden Watering Can lets you water several plants at once!
+{NO_SOUND}{NO_CLICK}Your Zen Garden plants need fertilizer to grow!
+{NO_SOUND}{NO_CLICK}This Phonograph lets you play music for your Zen Garden plants! It keeps them happy for an entire day!
+{NO_SOUND}{NO_CLICK}Zen Garden plants require Bug Spray from time to time! It keeps them happy for an entire day!
+{NO_SOUND}{NO_CLICK}The Gardening Glove lets you move your Zen Garden plants around!
+{NO_SOUND}{NO_CLICK}You'll need this Wheel Barrow to transport your Zen Garden plants between gardens!
+{NO_SOUND}{NO_CLICK}Stinky the Snail helps you pick up coins in your Zen Garden!
+{NO_SOUND}{NO_CLICK}These Pool Cleaners add an extra line of defense on levels with a pool!
+{NO_SOUND}{NO_CLICK}These Roof Cleaners add an extra line of defense for those difficult roof levels!
+{NO_SOUND}{NO_CLICK}This Garden Rake takes out the first zombie that steps on it! It lasts for 3 levels!
+{NO_SOUND}{NO_CLICK}This Aquarium Garden is a place you can keep your aquatic Zen Garden plants!
+{NO_SOUND}{NO_CLICK}The Tree of Wisdom will tell you valuable tips and secrets if you grow it tall enough!
+{NO_SOUND}{NO_CLICK}Purchase some tree food to grow your Tree of Wisdom nice and tall!
+{NO_SOUND}{NO_CLICK}This Mushroom Garden is a place you can keep your Zen Garden plants that fall asleep during the day!
+{NO_SOUND}{NO_CLICK}Wall-nut First Aid lets you plant fresh new wall-nuts over damaged ones!  Works for tall-nuts and pumpkins too!
+{NO_SOUND}{NO_CLICK}Get more levels, more plants, and more zombies in the full version of this game!
+{NO_SOUND}{NO_CLICK}For a low price, I'll change your house on the leaderboards screen!
+{NO_SOUND}{NO_CLICK}Normal House Blueprints let you trick out your suburban dream home on the leaderboards screen!
+{NO_SOUND}{NO_CLICK}Scary House Blueprints let you terrify your neighbors on the leaderboards screen!
+{NO_SOUND}{NO_CLICK}FuturHaus Blueprints are your spaceway to amazing on the leaderboards screen!
+{NO_SOUND}{NO_CLICK}These Trailer Blueprints may not awe your neighbors on the leaderboards screen but at least they're cheap!
+{NO_SOUND}{NO_CLICK}CLOWN HOUSE! CLOWNY-CLOWN CLOWN HOUSE! BIG SHOES!
+Hey, check it out, you found a watering can!
+In honor of this<lf>occasion I present you:<lf>Your very own Zen Garden!
+Hey, I'll even start you off with a couple of sprouts!
+Grow them to full-size, and they'll reward you nicely!
+Have fun!
+The zombies asked me to help them practice invading houses.
+I told them it'd be okay as long as no plants were harmed.
+So, I put a bunch of cardboard cut-outs on your lawn.
+Have fun!
+Uh oh, he's here.
+Better get ready.
+It's gonna be one heckuva fight!
+Listen, though, I know what his weakness is:
+You have to hit him in the pancreas!
+No, that was a different guy...
+You have to... um... kick him<lf>in the...
+Hmm...
+You have to press up up down down left right...
+er...
+Wait, I remember! It's... {MOUTH_SMALL_OH}
+Greetings, neighbor!
+The name's Crazy Dave.
+But you can just call me Crazy Dave.
+Listen, I've got a surprise for you.
+But first, I'll need you to clear your lawn.
+Use your shovel and dig up those plants!
+LET THE DIGGING COMMENCE!{MOUTH_SMALL_OH} {SCREAM}
+Ok goody, now for the surprise...
+We're going BOWLING!{MOUTH_SMALL_SMILE}
+{SHOW_WALLNUT}HERE, TAKE THIS WALL-NUT!!
+Why'd I put a wall-nut in your hand?{MOUTH_SMALL_OH}
+{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}
+NOW GO! BOWL ME A WINNER!{MOUTH_BIG_SMILE} {SCREAM}
+Me and my buddy Harvey Flaxcaster used to break vases when we were bored.
+Well Harvey's outta town,<lf>so you're coming with me,<lf>Harvey #2!
+BREAK IT LIKE YOU MEAN IT, HARVEY! {SCREAM}
+Hey, welcome to the Zen Garden section of my shop!
+{SHOW_FERTILIZER}I'll give you some fertilizer for stopping by!
+Take a look around and see if there's anything else you like!
+Man, you broke those vases nice and good!
+Broke 'em like the time I broke my back digging through those trash cans!
+Here, I brought you some more vases.
+Gotta be careful about breaking them too fast, though.
+You don't wanna end up with more zombies than you can handle, huh huh.
+All right!
+This should be the last<lf>of 'em.
+Break these,<lf>and you'll be all done!
+This here is Vasebreaker.
+Some of these levels are really difficult.
+Good luck!
+Hey neighbor! Got some new items for sale!
+{SHOW_TREE_FOOD}Hey {PLAYER_NAME}! This here is your Tree of Wisdom! I brought you some tree food to get you started.
+{TIME_275}End of the line, buddy!{DELAY_50}
+{TIME_275}Yup, you knew this talk was coming.{DELAY_50}
+{TIME_325}You wanna go further? You gotta get the FULL GAME.{DELAY_50}
+{TIME_275}Ok, I'll level with ya, sassafras...{DELAY_50}
+{TIME_325}If you get the FULL GAME, I'll give you more PLANTS!{DELAY_25}
+{TIME_175}{SCREAM}{HANDING}LIKE THIS ONE!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}AND THIS ONE!{DELAY_50}
+{TIME_275}{HANDING}and later on, I'll even throw in THIS ONE!{DELAY_50}
+{TIME_125}{SHORT_SOUND}{HANDING}Why?{DELAY_50}
+{TIME_225}{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
+{TIME_150}And hey...{DELAY_50}
+{TIME_175}You want action?{DELAY_50}
+{TIME_200}{SCREAM}I'LL GIVE YOU ACTION!{DELAY_300}
+{TIME_300}{SCREAM2}44 MORE LEVELS OF ACTION!{DELAY_300}
+{TIME_300}{SCREAM}40 MINI-GAMES & PUZZLES!{DELAY_50}
+{TIME_200}TERRA COTTA!!!{DELAY_100}
+{TIME_300}{SCREAM2}IT'S ENOUGH TO BLOW YOUR MIND TO MARS AND BACK!!{DELAY_300}
+{TIME_150}Well, what are you waiting for?
+{NO_CLICK}To use Wall-nut First Aid, simply plant a fresh new Wall-nut over the damaged one!
+Hey-howdy, neighbor!
+Wanna pick a wacky theme for your dwelling?
+It'll change how your house looks on the leaderboard!
+Do it before I lose my pants again!
+Whoo!  I can't wait for you to see it!
+Menu
+More zombies approaching!
+More vases incoming!<lf>Current Streak: {STREAK}
+TEMP - Dave put more vases on your lawn!<lf>{STREAK} of 5 waves cleared
+More vases incoming!<lf>{STREAK} of 3 waves cleared
+Longest<lf>Streak: {STREAK}
+Good job!<lf>Current Streak: {STREAK}
+Move over to the falling sun to collect it!
+Grave busters can only be planted on graves
+Lily pads can only be planted in water
+Tangle kelp can only be planted in water
+Sea-shrooms can only be planted in water
+Potato mines can't be planted on lily pads
+Place your wall-nut to the left<lf>of the bowling line
+Place the zombie on the right side<lf>of the line
+Place the bungee zombie<lf>on the left side of the line
+Can only be planted on repeaters
+Can only be planted on melon-pults
+Can only be planted on sunflowers
+Can only be planted on spikeweeds
+Can only be planted on a pair of kernel-pults
+Can only be planted on magnet-shrooms
+Can only be planted on fume-shrooms
+Can only be planted on lily pads
+You can only plant<lf>{SEED} seeds there
+You can only plant in flower pots
+Plant a flower pot first
+You can't plant on graves
+You can't plant on craters
+You can't plant there
+Plant a lily pad first
+Coffee beans can only be planted on<lf>sleeping mushrooms
+Spikeweeds can only be planted on<lf>solid ground
+The more sunflowers you have,<lf>the faster you can grow plants!
+The shovel needs time to refresh before<lf>digging again
+A HUGE WAVE OF ZOMBIES IS APPROACHING!
+Plant another peashooter<lf>when you have enough sun!
+Sunflowers are an extremely<lf>important plant!
+Try to plant at least 3 of them!
+Planting at least 3 sunflowers improves<lf>your chances of surviving a zombie attack!
+Try to plant at least 3 sunflowers!
+Planting sunflowers will improve your<lf>chances of surviving the zombie attack!
+Use the <L> and <R> buttons to select a seed packet!
+Excellent! You've collected<lf>enough for your next plant!
+Press <A> on the grass to plant your seed!
+Nicely done!
+Don't let the zombies reach your house!
+Position your cursor over the plant you want to dig up<lf>then press and hold <B> to dig!
+Keep digging until<lf>your lawn is clear of plants!
+Can you survive for {FLAGS} flags?
+How many flags can you survive?
+Fill in all the outlined spaces with wall-nuts!
+Fill in all the outlined spaces!
+Fill in all the outlined spaces with starfruit!
+Hold <X> and move plants to make matches of 3
+Press <X> to twist plants to make matches of 3
+Make {SCORE} matches to pass the level
+No possible moves!
+The zombies ate one of your plants!
+Spend some sun to fill in the crater!
+Save up sun to upgrade your plants!
+Press <X> to pull handle!
+<X> To Spin Again!
+Get {SCORE} sun to pass the level
+Costs 25 sun for pull
+Three of a kind! 3 free plants!
+Two of a kind! Free plant!
+Two of a kind! Bonus sun!
+Two of a kind! Diamonds!
+Sun Jackpot!
+Diamond Jackpot!
+Sun
+Diamond
+Bungees incoming!!!
+Keep on collecting sun!<lf>You'll need it to grow more plants!
+Save up money to purchase cool stuff!
+Seeds need time to refresh before<lf>planting again
+You need more sun to do that!
+Plant a repeater first!
+Plant a winter melon first!
+Plant a sunflower first!
+Plant a spikeweed first!
+Plant a pair of kernel-pults first!
+Plant a magnet-shroom first!
+Plant a fume-shroom first!
+Plant a lily pad first!
+{PLAYER}'s House
+{PLAYER}'s Backyard
+{PLAYER}'s Roof!
+Portal Relocating...
+Are you sure?
+Sell this plant to Crazy Dave?
+Warning
+Oh no! Your garden is too full!
+OK
+CANCEL
+YES
+NO
+Ok
+Cancel
+Yes
+No
+YOU GOT A NEW PLANT!
+NEXT LEVEL!
+Continue
+Leaderboards
+Achievements
+View Almanac
+Exit Game
+MAIN MENU
+Re-pick
+Shovel
+You got the shovel!
+Lets you dig up a plant<lf>to make room for<lf>another plant
+You found a note:
+Suburban Almanac
+You found a suburban almanac!
+Keeps track of all plants<lf>and zombies you encounter
+Crazy Dave's Car Key
+You found Crazy Dave's car key!
+Now you can visit<lf>Crazy Dave's shop!
+Mysterious Vase
+You found a Mysterious Vase!
+Now you can play<lf>Vasebreaker Mode!
+Watering Can
+You found a watering can!
+Now you can play<lf>Zen Garden Mode!
+Taco
+You found a taco!
+What are you going to do<lf>with a taco?
+water a plant
+fertilize a plant
+give tree food
+bug spray
+play music for a plant
+chocolate
+move a plant
+sell a plant
+holds plant for transporting
+visit other garden
+remove a plant
+Upgrade all your peashooters to repeaters
+Upgrade all your puff-shrooms to fume-shrooms
+Upgrade all your wall-nuts to tall-nuts
+Shuffle plants
+Refill crater
+Purchased
+No craters to fill
+Free Planting Cheat
+recharging...
+not enough sun
+requires repeater
+requires melon-pult
+requires sunflower
+requires spikeweed
+requires 2 kernel-pults
+requires magnet-shroom
+requires fume-shroom
+requires lily pad
+waiting to refresh
+LET'S ROCK!
+VIEW LAWN
+Almanac
+Shop
+CLOSE
+ALMANAC INDEX
+View Plants
+View Zombies
+Back to Menu
+Roll Credits!
+PAGE {PAGE}
+Restart
+RESTART
+New Game
+LEAVE
+Quit
+Register
+Are you sure you wish to <lf>quit the game?
+Quit
+AWW YEAH!
+NAH!
+More seeds?
+Would you like to be able to plant more kinds of seeds?
+NEXT LEVEL
+MAIN MENU
+GO BACK
+BACK
+Are you sure you want to use the<lf>{UPGRADE_TO} without<lf>the {UPGRADE_FROM}?
+Are you sure you want to play<lf>this level without starfruit?
+Are you sure you want to play<lf>this level without lily pads?
+Are you sure you want to play<lf>this level without wall-nuts?
+Are you sure you want to play<lf>this level without starfruit, umbrella<lf>leaf, and wall-nut seeds??
+You haven't chosen any plants that<lf>fight off balloon zombies, are you<lf>sure you want to continue?
+You haven't chosen any sun producing<lf>plants, are you sure you want to<lf>continue?
+Now that it's nighttime, you need<lf>sunflowers more than ever. Are you<lf>sure you want to play the level<lf>without them?
+This level will be extremely difficult<lf>without puff-shrooms. Are you sure<lf>you wish to continue without them?
+Are you sure want to play this level<lf>without any water plants?
+Are you sure want to play this level<lf>without flower pots?
+Almost there!
+5 matches to go!
+Buy Snorkel Zombie
+Buy Trophy
+Press <X> on tank to feed zombies
+Get {SCORE} sun to pass the level
+All your pet zombies<lf>have perished!
+You lost all your zombies!
+Purchase the trophy to complete the level!
+Press <A> to buy more snorkel zombies!
+Try again
+1 flag
+{COUNT} flags
+You survived for {FLAGS}<lf>before dying a<lf>GRUESOME ZOMBIE DEATH!!!
+You made it to a streak of {STREAK}
+Streak: {STREAK}
+Level
+GAME OVER
+Survival
+Mini-Games
+Complete 1 more mini-game to unlock
+Earn 1 more vasebreaker trophy to unlock
+Earn 1 more I, Zombie trophy to unlock
+Earn 1 more survival trophy to unlock
+Earn 10 survival trophies to unlock
+Finish adventure mode to unlock
+Survival: Day
+Survival: Night
+Survival: Pool
+Survival: Fog
+Survival: Roof
+Survival: Day (Hard)
+Survival: Night (Hard)
+Survival: Pool (Hard)
+Survival: Fog (Hard)
+Survival: Roof (Hard)
+Survival: Day (Endless)
+Survival: Night (Endless)
+Survival: Endless
+Survival: Fog (Endless)
+Survival: Roof (Endless)
+ZomBotany
+Seeing Stars
+Can You Dig It?
+Vasebreaker
+To the Left
+Third Vase
+Chain Reaction
+M is for Metal
+Scary Potter
+Hokey Pokey
+Another Chain Reaction
+Ace of Vase
+Vasebreaker Facebreaker
+Vasebreaker Endless
+Puzzle
+Portal Combat
+Beghouled
+Beghouled Twist
+Wall-nut Bowling
+Grave Danger
+I, Zombie
+Whack a Zombie
+Slot Machine
+Zombiquarium
+Big Trouble Little Zombie
+Bobsled Bonanza
+It's Raining Seeds
+Invisi-ghoul
+Air Raid
+Column Like You See 'Em
+Bungee Blitz
+Pogo Party
+Dr. Zomboss's Revenge
+Last Stand
+Art Challenge Wall-nut
+Sunny Day
+Unsodded
+Big Time
+Art Challenge Sunflower
+Zombie Nimble Zombie Quick
+Ice Level
+Zen Garden 
+High Gravity
+ZomBotany 2
+I, Zombie 2
+Wall-nut Bowling 2
+You got the Gold Sunflower Trophy
+Wow! You got all the trophies! <lf>Now it's time to play more<lf>Endless Games! And don't forget<lf>to tend your Zen Garden!
+Gold Sunflower<lf>Trophy
+Silver Sunflower<lf>Trophy
+You have defeated the Boss Zombie!
+Congratulations!  You have most triumphantly fended off the zombie<lf>attack!  Your lawn is safe... for now!
+You got a Trophy!
+Trophy
+Now you can play<lf>{MODE}!
+You've unlocked a new mini-game!
+Keep on collecting those trophies!
+Sun
+Matches
+Locked!
+Play more Adventure to <lf>unlock Survival Mode.
+Play more Adventure to <lf>unlock the Mini-games.
+Play more Adventure to <lf>unlock Puzzle Mode.
+Press <A> to Start!
+LOADING...
+Credits
+Resume Game
+Restart Level
+Select the watering can to use it!
+Press <A> on a sprout to water it! 
+Keep watering your plants<lf>when they get thirsty!
+Your plants need fertilizer to grow!<lf>Visit the shop to pick up some fertilizer!
+Now fertilize your plants and watch<lf>them grow!
+You need to fertilize both plants!<lf>Here, have some more fertilizer!
+That's all you can do for now!<lf>Check back later when your plants<lf>need more nurturing!
+Choose a Seed to Copy
+Not allowed on this level
+Full game only
+Get the full version of this game <lf>to use this awesome plant!
+Full Game Only
+Get Full Game
+Would you like the purchase the full game?
+Get Full Game
+Maybe Later
+This item is only available in the <lf>full version of the game!
+Crazy Dave chose this
+Nocturnal - sleeps during day
+Not recommended for level
+CHOOSE YOUR PLANTS!
+Press <X> on a vase to see what's inside!
+Destroy all zombies and vases to finish<lf>the level!
+Suburban Almanac - Index
+Suburban Almanac - Plants
+Suburban Almanac - Zombies
+Page {PAGE} of {NUM_PAGES}
+{SLOTS}<lf>slots
+Eat all the brains to pass the level!
+Do not be alarmed<lf>Plants are not real
+Squirrels
+{COUNT} more squirrel to go!
+{COUNT} more squirrels to go!
+Oh no! Find all the squirrels before <lf>the zombie makes it to your house!
+Brains Eaten
+Cost
+Recharge
+fast
+slow
+very slow
+One of your peashooters died!<lf>Try planting them further to the left!
+You found a plant for your Zen Garden!
+You found some Chocolate!<lf>Feed it to Stinky to speed him up for a while!
+Stinky the Snail fell asleep! <lf>Get him wet to wake him up!
+Start Onslaught
+Continue Onslaught
+You survived for<lf>{FLAGS}!!
+Successfully defended {FLAGS}
+{FLAGS} completed
+{FLAGS} completed
+I, Zombie
+I, Zombie Too
+Can You Dig It?
+Totally Nuts
+Dead Zeppelin
+Me Smash!
+ZomBoogie
+Three Hit Wonder
+All your brainz r belong to us
+I, Zombie Endless
+You've unlocked a new<lf>I, Zombie level!
+You've unlocked a new<lf>Vasebreaker level!
+Earn more survival trophies to<lf>unlock the final survival mode
+You've unlocked a new survival mode!
+You've unlocked the endless<lf>survival mode!
+???
+?
+(not encountered yet)
+Press <A> to continue
+Sold Out
+Coming Soon
+You can only keep aquatic plants here.<lf>It's under water!
+Restart Level?
+Restart Puzzle?
+Restart Challenge?
+Restart Survival?
+Do you want to try this level <lf>again from the beginning?
+Do you want to try this puzzle<lf>again from the beginning?
+Do you want to try this challenge<lf>again from the beginning?
+Do you want to try this survival <lf>level again from the beginning?
+Collect all the trophies in<lf>mini-games, puzzle, & survival<lf>to get the Gold Sunflower Trophy!
+You've finished <lf>adventure 1 time!
+You've finished <lf>adventure %d times!
+Thank you for feeding me! Keep giving me food and I'll give you valuable information!
+Chompers and wall-nuts work exceedingly well together. It's no surprise, considering they were roommates in college.
+If you ever listen to<lf>anything I say,<lf>listen to this:<lf>you want two columns<lf>of sunflowers.<lf>I'm dead serious here.
+Snorkel zombies. I hate 'em. How do I deal? Wall-nuts on lily pads, that's how.
+If you enter some button commands like say LB RB LT RT during a game, I'll bet you'd be able to do some cool stuff.
+How many cherry bombs<lf>does it take to take<lf>down a Gargantuar?<lf>Here's a hint: more than<lf>one, fewer than three.<lf>Here's a more explicit<lf>hint: Two.
+If you're looking for mushroom plants for your Zen Garden, you'll have better luck playing on levels where it's nighttime.
+I wouldn't worry about permanently damaging your lawn with doom-shrooms. In time the earth heals itself.
+Pssst! Enter that secret code and try typing 'future' while playing to experience zombies... from the FUTURE!
+Legend has it that frozen zombies eat slower. I'm here to tell that legend has its facts straight.
+Have you heard of the<lf>elusive Yeti Zombie?<lf>Some say he likes hiding<lf>where it's pitch black.
+What's cheaper than free? Nothing! That's why puff-shrooms are essential on all night levels! 
+Are you hoping to find water plants for your Zen Garden? I bet my phloem you'll have the most luck searching in pool levels.
+Have you noticed that<lf>Gargantuars sometimes<lf>use OTHER ZOMBIES to<lf>bash your plants?<lf>Whatever works, I guess.
+Stinky the Snail sure<lf>loves his chocolate.<lf>Maybe loves it a little too<lf>much, you know? He<lf>won't sit still for an hour<lf>after he's had some.
+If you think playing survival<lf>'endless' mode only drops<lf>pool-style plants for your<lf>Zen Garden, think again!<lf>It drops everything-style.
+Often the question<lf>is asked: where do you find<lf>chocolate? A better<lf>question would be:<lf>where DON'T you find<lf>chocolate? It drops in<lf>every game mode!
+Grave Busters, eh? Pick 'em only when you can see graves on the right side of the screen along with the zombies. That's what I do.
+I've heard that Buckethead zombies take five times as many hits as regular ones.
+I hear that entering that code and putting in 'mustache' brings about a terrifying transformation in the undead!
+Do multiple Snow-peas in a row slow zombies down more than just one? The sad but truthful answer is 'Nay.'
+You know that zombies<lf>emerge from gravestones,<lf>right? So what's stopping<lf>you from using grave<lf>busters to get rid of them<lf>in Survival night?<lf>Is it pride?
+If you're looking for the<lf>inside info on how long a<lf>level's going to be,<lf>count the flags on the<lf>level meter. That'll set<lf>you up real nice.
+Roof cleaners.<lf>Classic items. Can't<lf>recommend them highly<lf>enough. Best thing about<lf>them? They give you<lf>a shot at beating Pogo Party.
+If you're wondering if feeding a hypno-shroom to a dancer zombie compels him to summon backup dancers for you, bet it all on 'Yes.'
+Make Money Fast! By Playing Survival Endless! Then E-mail Me Your Bank Account Number!
+You'd think torchwoods<lf>would douse snow peas.<lf>And you'd be correct,<lf>because you, my friend,<lf>are one smart cookie.
+Those hateful ZomBotany zombies! Who do they think they are, shooting at your plants? It's a good thing wall-nuts stop 'em cold.
+The Pogo Party and Bobsled<lf>Bonanza mini-games are<lf>really, really, really<lf>difficult. Wanna drop<lf>one of the 'reallys'<lf>off that description?<lf>Use the squash.
+Just when you thought jalapenos couldn't be any more useful, a Tree of Wisdom lets you know that they also destroy the Zomboni's ice trails! BAM!
+Once you buy the imitater, try selecting the little drawing in the upper left corner of your Almanac to access the entry on that sucker.
+The number of coins you receive in Wall-nut Bowling is proportional to how cool you are as measured by how many ricochets per nut you can pull off.
+Please do not tap on the glass! Or actually, go ahead; Press <Y> on your Aquarium Garden or during Zombiquarium to deafen your underwater creatures.
+When I was just an acorn<lf>my grampa told me,<lf>'Son, Vasebreaker puzzles<lf>are much easier if you<lf>break the vases on the<lf>right side first.' 
+Dancers in I, Zombie may<lf>seem expensive, but in the<lf>right situation they're<lf>worth every penny.
+I had a dream. In it, cattail<lf>spikes popped balloons and<lf>dropped zombies to the<lf>ground. I don't know<lf>what it means.
+Growing aquatic plants in your Zen Garden is pretty much impossible without the Aquarium Garden. Just saying.
+Digger zombies violate the<lf>natural order with their<lf>subterranean ways.<lf>It's only fair to use<lf>magnet-shrooms to<lf>steal their mining picks.
+Every day brings<lf>new challenges and<lf>opportunities. Oh,<lf>and new marigolds in<lf>Crazy Dave's shop.
+Mushroom Garden! Huh! What is it good for? Absolutely nothin'! Except growing mushrooms, that is.
+Tired? Depressed? Ladders on tall-nuts getting you down? A quick magnet-shroom will whisk your cares away!
+The tallness of tall-nuts earns widespread acclaim due to their effectiveness vs. Dolphin Riders and Pogo Zombies.
+The explosive force of a cherry bomb or jalapeno is more than capable of dislodging a ladder from a Wall-nut.
+It's tempting to feed<lf>all your chocolate to<lf>Stinky the Snail.<lf>He's such a chocolate hog.<lf>But remember:<lf>Zen Garden plants<lf>like chocolate too!
+Torchwood fire is hotter than rage, but Zombonis, screen doors, ladders and catapults can take the heat.
+If you rely on upgrade plants in Survival: Endless, be acutely aware that they get more expensive the more you have on your lawn.
+The Imps in I, Zombie seem<lf>weak. But they're speedy<lf>and great for fetching<lf>that last brain when<lf>you've cleared the rest<lf>of the opposition.
+If you enter 'trickedout,' don't be surprised if you see something wacky happen to your lawnmowers. Don’t forget to press LB RB LT RT first.  You forgot didn’t you?
+Thank you for feeding me!<lf>I'm out of new wisdom<lf>for now, but I might have<lf>more if you grow<lf>me tall enough!
+Mmmm, I could sure use<lf>some yummy fertilizer!
+I think I've seen<lf>that cloud before.
+Don't mind me. I'll just be over here, growing.
+I'm metabolizing like crazy!
+I'll never get why you<lf>animals spend all day<lf>moving around like<lf>you do.
+I experience time<lf>at a vastly slower<lf>rate than you!
+I think I'm perennial!
+My xylem is tingling!
+You can get a lot of wisdom just by standing around.
+So I've heard about this "winter" dealie. Can't say I'm looking forward to it.
+Mmmm... sunlight is DELICIOUS!
+Oops, sorry...<lf>I just gave off<lf>some oxygen.
+Gosh, I can grow leaves!
+I feel a spurt coming on! 
+At this stage I lack<lf>worldly knowledge!
+I really appreciate all the cash you're spending on fertilizer!
+That cloud looks just like a vast aggregation of water droplets!
+Have you met my cousin Yggdrasil? Very big in Sweden. Lots of fans.
+I'm taking sociology at an online college. I'm really learning a lot.
+After careful observation<lf>I've deduced that it is the<lf>Earth that revolves around<lf>the sun and not<lf>the reverse as it appears.
+When you've been around as long as I have, you sleep less and hallucinate more.
+If you're mistaking the forest for the trees, just remember: A forest is a collection of individual trees and not the other way around.
+History repeats itself<lf>but it always gets<lf>the details wrong.
+If the past, present <lf>and future all <lf>simultaneously exist <lf>as "block time",<lf>surely the experience<lf>of "now" can only be<lf>an elaborate illusion?
+Courage is easy; dedication costs extra.
+Here's some wisdom that bears repeating...
+Tree food, please!
+Hey, I'm 100 feet tall! Celebrate with me by inputting 'daisies' to get the zombies to leave tiny daisies behind when they die.  
+Whoa! I'm 500 feet tall! This calls for some dancing!  Type 'dance' after entering the code to get the zombies to boogie on down! 
+WOW! I'm 1000 feet tall! Celebrate with me by typing 'pinata' to make zombies spit out candy when destroyed!
+Thank you for feeding me! I've given you all my wisdom, but you can still grow me taller!
+{HEIGHT} Feet Tall
+Mini-games unlocked!<lf>Play them from the main menu!
+Puzzle mode unlocked!<lf>Play it from the main menu!
+Survival mode unlocked!<lf>Play it from the main menu!
+PLANTS VS. ZOMBIES
+{CREDITS1}GEORGE FAN<lf>TOD SEMPLE<lf>RICH WERNER<lf>LAURA SHIGIHARA<lf>ENRIQUE CORTS<lf>MATT HOLMBERG<lf>STEPHEN NOTLEY
+{CREDITS1}GAME DESIGN<lf>PROGRAMMING<lf>ART<lf>MUSIC & SOUND<lf>BACKGROUND ART<lf>UI ART<lf>WRITING
+{CREDITS2}SUKHBIR SIDHU<lf>MIKE RACIOPPI<lf>SHAWN CONARD, ED MILLER, ADAM MACDONNELL<lf>BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON<lf>DAVID P. WYCLIFF<lf>JASON KAPALKA, JOHN VECHEY, DAVE HAAS, DAVE ROBERTS, ED BROWN, LINDSEY KURZ, <lf>JEFF GATES, MYSTICSAGE, DAVE ROHRL, POPCAP BETA TESTERS
+{CREDITS2}STUDIO DIRECTOR<lf>QA LEAD<lf>QA TESTING<lf>POPCAP FRAMEWORK<lf>MARMOT SALESMAN<lf>SPECIAL THANKS
+XBLA CREDITS
+PROGRAMMERS
+DON WURSTER, MATTHEW SMITH, KURT PFEIFER
+SENIOR PRODUCER
+MATTHEW LEE JOHNSTON
+ASSOCIATE TO THE PRODUCER
+TY ROBERTS
+ART DIRECTOR
+RICK SCHMITZ
+ARTISTS
+MISAEL ARMENDARIZ, DAVID PAUL, MARK BARRETT,<lf>RICH WERNER, JIM ABRAHAM, MONTE MICHAELIS
+QUALITY ASSURANCE
+MIKE RACIOPPI, BOB CHURCH, SHAWN CONARD, DAVID CHAN
+BUSINESS DEVELOPMENT
+REX SIKORA
+MARKETING
+JOHN DONGELMANS, JESSIE ZHOU, XUYEN NGUYEN
+LOCALIZATION
+POPCAP DUBLIN, POPCAP TOKYO, KEYWORDS INTL, U-TRAX M.M.L. 
+CUSTOMER SUPPORT
+AOIFE BRENNAN, ROGER HENTY, DANA SWEENEY
+ADDITIONAL SOUND DESIGN
+RONNIE VAN ZANT
+RATINGS WRANGLERS
+NICK TOMLINSON, DAN LANDECK
+CREATIVE LABS
+YVETTE CAMACHO, DAN NEIDECKER, GLENN MITSUI
+LEGAL
+NICOLE LEMASTER
+SPECIAL THANKS
+DAVE HAAS, SUKHBIR SIDHU, DAN BANAY, JACOB VANWINGEN, <lf>T. CARL KWOH, NOAH MAAS, DAVE ROBERTS, JASON KAPALKA, <lf>JOHN VECHEY, BRIAN FIETE, KIRK SCOTT, HEATHER HAZEN,<lf>BEN AHRONI, MICHAEL SANTORA, JOE MOBLEY, BEN LYON,<lf>TYSEN HENDERSON, CHENELLE BREMONT, SANDRA CONGDON,<lf>GEORGE FAN, TOD SEMPLE, STEPHEN NOTLEY, DAVE ROBERTS,<lf>GINGER ROBERTS, LAURIE THORNTON, KIRK SCOTT, <lf>HEATHER HAZEN, BEN AHRONI, MICHAEL SANTORA,<lf>DAVID SHAW, PATRICK MENDENALL, JOHN SMITH, PHIL SPENCER
+CHIEF OF WORLDWIDE GAME STUDIO 
+ED ALLARD
+c2009, 2010 PopCap Games, Inc.  All rights reserved.  The PopCap logo and all other trademarks used herein that are listed on the trademark page on www.popcap.com are owned by PopCap Games, Inc. or its licensors and may be registered in some countries.  Other company and product names used herein may be trademarks of their respective owners and are used for the benefit of those owners.
+FMOD Sound System, copyright c Firelight Technologies Pty, Ltd., 1994-2010.<lf>Audio engine : FMOD Sound System by Firelight Technologies
+THANK YOU FOR PLAYING!
+No personal relationships, game producers' sleep schedules,<lf>programmers' bug count records, or artists' wills to live<lf>were harmed in the making of this product.
+REPLAY
+MAIN MENU
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+Visit Tree?
+Do you want to visit<lf>the Tree of Wisdom now?
+CREDITS PAUSED
+Press button to resume the credits. 
+Resume Credits
+Get Full Game
+PAUSED
+Press button to resume to continue. 
+Resume
+PopCap Games Presents
+You don't have a tall enough Tree of Wisdom for that!
+Adventure Complete
+More Mini-Games, Puzzle, and<lf>Survival Modes have been<lf>unlocked! Also, check out the<lf>new items in Crazy Dave's shop!
+To move your plants between gardens,<lf>purchase a wheelbarrow from the shop!
+This plant is only available in the FULL GAME!
+Replay level?
+Do you wish to replay level 3-4?
+Rename
+Delete
+(Create a New User)
+WHO ARE YOU?
+GAME PAUSED
+Press <A> to resume game
+Resume Game
+Invalid Code
+The license code you entered is not valid for that name.
+Please enter your name to create a new user profile for storing high score data and game progress.
+Enter Your Name
+Name Conflict
+The name you entered is already being used.  Please enter a unique player name.
+Are You Sure?
+This will permanently remove '%s' from the player roster!
+RENAME USER
+NEW USER
+Please enter your name:
+Store
+No Windowed Mode
+Windowed mode is only available if your desktop was running in either<lf>16 bit or 32 bit color mode when you started the game.
+Not Supported
+Hardware Acceleration cannot be enabled on this computer.
+Your video card may not fully support this feature.
+Please open the following URL in your browser
+Open Browser
+Opening Browser
+Not enough money
+You can't afford this item yet.<lf>Earn more coins by killing zombies!
+Buy this item?
+Are you sure you want to buy<lf>this item?
+Now you can choose to take %d seeds<lf>with you per level!
+More slots!
+Are you sure that you want to restart the level?
+New Game?
+Are you sure that you want to start a new game?
+Leave Game?
+Do you want to return<lf>to the main menu?
+Do you want to return<lf>to the main menu?
+PLEASE REGISTER!
+Your trial version of ZomBotany has expired!
+Music
+Sound FX
+3D Acceleration
+Full Screen
+Limbo Page
+Almanac
+CONTINUE GAME?
+Do you want to continue your current game or restart the level?
+Do you want to continue your current game or start a new game?
+%d/%d %s
+%d/%d
+%s - %s
+%s!
+x%d
+Squirrel
+Tree of Wisdom
+Upsell
+Intro
+Imitater {PLANT}
+Game Design
+Programming
+Art
+Music & Sound
+You have NO new messages!
+Saving...
+Loading...
+Bad Game File
+The saved game file is corrupted.  Would you like to delete it?
+No Device Selected
+You have not selected a device to save the game to, so any progress since the beginning of this level will be lost.  Proceed without saving?
+Select
+Back
+Done
+NOT USED
+NOT USED
+NOT USED
+Profile Changed
+A sign-in change occurred. You are now being returned to the title screen.
+Change storage
+Music
+Sound Effects
+Save game out of date
+The saved game on this storage device is from an earlier level.  You will be updated to your profile's current level.
+Defend your rightful property against zombies.
+Defend your rightful property against zombies.
+Additional games await your wonderment.
+Here reside the splendors of your home.
+Achievements.
+Help & Options.
+Unlock Full Game.
+Return to Game Library.
+Sometimes things don't all fit on one screen.
+Return to what was being looked at before.
+Attack other people in this fun conflict.
+Defeat death with buddy alliance.
+Zombies have many strange ways to be.
+The hunger of the dead knows no easing.
+Basically we're talking about puzzles, here.
+Other screens have worthy content, too.
+Spend virtual money on fictional items.
+Relax in the blissful peace of planthood.
+Learn greatly about your defenders and offenders.
+Receive letters and whatnot from zombies of acquaintance.
+Download content and contentment.
+Select
+Heavy Weapon
+Customize
+Funhouse
+Scary House
+Space House
+Truck House
+Regular House
+Player Profile Error
+The device your profile is stored on has been removed, or does not have enough free space.<lf>Would you like to try to load your profile again?
+Saved game updated
+Your saved game file was out of date and has been updated to the latest version.
+Select Second Player
+Player 2<lf>Please turn on a controller and press <A>
+Player 2 successfully joined!
+VS Battle (Day)
+VS Battle (Night)
+VS Battle Pool (Day)
+VS Battle Pool (Night)
+VS Battle Roof
+VS Mode
+x{COUNT}
+VS MODE
+Co-Op Day
+Co-Op Night
+Co-Op Pool
+Co-Op Roof
+Co-Op Bowling
+Co-Op Hard Day
+Co-Op Hard Night
+Co-Op Hard Pool
+Co-Op Hard Roof
+Co-Op Zomboss
+Co-Op Endless
+Move both cursors over double sun to pick it up!
+Pik ur Zombies
+View gamer card
+Change Filter
+This leaderboard is empty.
+You are not yet ranked on this leaderboard.
+Loading...
+This leaderboard has experienced an error.
+Rank
+Gamertag
+Flags
+Friends
+My Score
+Overall
+OK
+Not Connected
+You've unlocked the Co-Op Challenges and VS Mode!<lf>Play them from the Main Menu!
+You must be connected to Xbox LIVE to view your friends' houses!
+You must be connected to Xbox LIVE to view the endless leaderboard!
+Zombies won!
+Scroll down
+Player Profile Error
+Your player profile was not saved properly.<lf>Would you like to try to save it again?
+The selected device does not have enough memory left.  Please select a new storage device to continue.
+Change pages
+Enter cheat code
+Pick Sides
+Quick<lf>Play
+Custom Battle
+Random Battle
+Sudden Death!
+Play<lf>Again
+Main<lf>Menu
+Co-Op
+Player 2<lf>Press <S> to join!
+Player 2 joined!
+%d Win Streak
+Player %d
+<X> Unlock Full Game
+<B> Main Menu
+<B> Return to Game Library
+<X> Xbox LIVE Marketplace
+DEMO
+Feed Tree
+{ZOMBIES} Zombies Buried
+{PLANTS} Plants Recycled
+Go to Zen Garden
+Go to Mushroom Garden
+Go to Aquarium Garden
+Water Plant
+Fertilize Plant
+Spray Plant
+Play Phonograph
+Move Plant
+Transport Plant
+Sell Plant
+Drop Plant
+Feed Stinky
+Go to Tree of Wisdom
+Tap on Glass
+Help & Options
+How to Play
+Controls
+NOT USED
+Settings
+Feed Chocolate
+Play more Adventure to unlock<lf>Co-Op Challenges.
+LEVEL %d-%d
+How To Play
+Move your cursor over sun to pick it up.
+Place plants to defend<lf>your lawn!
+Don't let the zombies reach<lf>your house!
+Controls
+<l> Move Cursor
+<L><R>Select Seed Packet
+<S>Start Game
+<B> Dig
+<A> Plant
+<X> Butter, Mallet
+Vs. Mode
+Each player takes turns selecting seed packets.  Press <S> to enter gameplay.
+As Plants:<lf>Defend the lawn to the<lf>left of the red line.   <lf>Resist the Zombie<lf>onslaught with<lf>sun-powered plants. <lf>Knock out 3 targets to<lf>get the zombies off your<lf>lawn for good.
+As Zombies:<lf>Place gravestones<lf>to generate brainpower.<lf>Select zombies for<lf>attack and defense.<lf>If one zombie gets in<lf>the house, you eat<lf>brains and win.
+Co-Op Mode
+Play with a friend! Pick a Challenge to choose your own seeds, or just play Adventure with your friends!
+If you see a double sun appear, both you and your co-op partner must move your cursors over the sun at the same time for it to count.
+Apply Butter!  Press and hold <X> while you have any zombie highlighted to butter him up.
+Close
+Page 1/5
+Page 2/5
+Page 3/5
+Page 4/5
+Co-Op
+Error
+There was an error writing achievements.  Would you like to retry?
+Saving
+Writing to Leaderboards...
+Writing Remote Files...
+Error
+There was an error writing to leaderboards.  Would you like to retry?
+Mail
+Inbox
+Read Messages
+Switch House
+Level {LEVEL}
+Select House
+Confirm
+Cancel
+Press <Y> to begin the onslaught!
+VS Results
+P2 Drop Out
+Reconnect Controller %d
+Your House
+Welcome to your house!  Crazy Dave will renovate it every so often as you get better at defending your lawn!  See your XBox LIVE friends' houses with <l>.
+The zombies you've vanquished and the plants that have valiantly given of themselves get piled in the bins here!
+Every time you earn an achievement, Crazy Dave gets excited.  Excited enough that he puts weird ornaments on your lawn!
+Page 5/5
+Move your lawnmower with <l>!  Fire with <r>!
+Trash Can Zombie
+A can of trash makes him slower but<lf>stronger.
+Unlock the full game!
+Concede Match
+Are you sure?
+Conceding the match will give your opponent a win.  Are you sure you want to concede?
+Concede
+Are you sure?
+Quitting seed selection will revert your current selections.  Are you sure you want to quit seed selection?
+Zombie Gravestone
+Produces brains, protects target<lf>zombies.  Mmmm... Buying power.
+Press <Y> to return to adventure mode!
+Place this unit on your side of the line
+Game Saving Error
+Your game could not be saved properly.<lf>Would you like to choose another device to save to?
+Play more Adventure to<lf>unlock VS Mode.
+Error
+There was an error saving your house data.  Would you like to retry?
+Your storage device is full.<lf>Would you like to choose another device to save to?
+Not Signed In
+You must be signed in to a Gamer Profile to view Achievements.
+Saving content. Please don't turn off your console.
+Loading P2 Profile
+Player 2 Profile Error
+An error occured loading player 2's profile.<lf>Would you like to retry?
+Change View
+View Gamer Card
+Saving Profile...
+Select Mail
+Mark as Read
+Switch to Read Mail
+Switch to Inbox
+Saving Xbox LIVE Content
+Writing to Leaderboards
+Xbox LIVE Marketplace
+Game Loading Error
+Your game could not be loaded properly.<lf>The game will restart from the beginning of the current level.
+Play more Adventure mode to unlock
+Achievement Unlocked!
+If you had the full game, you'd have an achievement by now!  Would you like to go to the Marketplace?
+You have NO read messages!
+Unlock Full Game
+You must be signed in to a Gamer Profile to view the Xbox LIVE Marketplace.
+Please purchase the full game from the Xbox LIVE Marketplace to unearth all that is wonderful about Plants vs. Zombies.
+NOT USED
+NOT USED
+NOT USED
+NOT USED
+NOT USED
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+{NO_SOUND}{NO_CLICK}This is your Zen Garden!
+{NO_SOUND}{NO_CLICK}This is your nighttime mushroom garden!
+{NO_SOUND}{NO_CLICK}Don't tap on the glass!
+{NO_SOUND}{NO_CLICK}This tree keeps growing!<lf>It also won't shut up!
+{NO_SOUND}{NO_CLICK}Minigames are a fun way<lf>to while away your day!
+{NO_SOUND}{NO_CLICK}Brain-benders and<lf>troublesome tasks aplenty<lf>in the Puzzles!
+{NO_SOUND}{NO_CLICK}How long can you hold out?<lf>Try a Survival game<lf>and find out!
+{NO_SOUND}{NO_CLICK}Your best record is <lf>{COUNT} consecutive homeruns!
+NOTEXT
+{NO_SOUND}{NO_CLICK}The High Score is<lf>{COUNT} points!
+{NO_SOUND}{NO_CLICK}You blew <lf>{COUNT} zombies up at once!
+{NO_SOUND}{NO_CLICK}You caught<lf>{COUNT} zombies at one time!
+This will delete all data from the save file.<lf>The deleted data cannot be restored.<lf>Would you like to proceed?
+YES
+NO
+Are you sure?
+Deleting...<lf>Do not turn off the power.
+Please wait...<lf>Do not turn off the power.
+The Game Card is not<lf>inserted properly.<lf>Please turn off the power.
+The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
+Corrupted data was encountered<lf>and will be deleted. Press the<lf>A Button to continue.
+The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
+NOTEXT
+NOTEXT
+NOTEXT
+Saving...<lf>Do not turn off the power or<lf>remove the Game Card.
+NOTEXT
+NOTEXT
+File 1
+File 2
+File 3
+Tap here to change save block.
+File select
+New Game
+DS Download Play
+DS Wireless Play
+Waiting for an opponent...
+Would you like to disconnect
+YES
+NO
+Begin download
+Loading...
+Waiting for Player 1
+Disconnected.<lf>Press A button to return to the main menu.
+NOTEXT
+Disconnected.<lf>Press A button to turn off the power.
+Make a room
+Enter a room
+START
+Waiting for opponent...
+Would you like to play<lf>this opponent?
+Please wait
+It's hotter than a baked armadillo today!<lf>Your plants are having a hard time, what with the heat!
+These ones here are the only ones with any energy left!<lf>And even they run out of steam sometimes!
+Then, you'd better yell out "Hey!" to build up the fighting spirit in those prostrate plants.
+Touch to collect the falling sun.
+Hold a seed packet with the stylus!
+Then slide on to the grass to plant!
+Touch the shovel and drag it to the<lf>plant you want to dig up!
+Touch a plant to remove it!
+Slide plants to make matches of 3.
+Touch to twist plants to make matches of 3.
+Touch the handle to pull!
+Touch to Spin Again!
+Achievements
+Touch screen to feed zombies
+Touch the trophy to complete the level!
+Buy more snorkel zombies!
+Endless
+Endless
+Touch to Start!
+Touch a sprout to water it! 
+Touch a vase to see what's inside!
+Stinky the Snail fell asleep! <lf>Get him wet to wake him up!
+Touch to continue
+Collect all the trophies in<lf>mini-games to get the<lf>Gold Sunflower Trophy!
+Have you tried touching the flowers on the main menu? Give it a shot! I'll wait here.
+If you've played PvZ before, you might not have checked out the minigames screen. Now's your chance!
+If your friend already<lf>has a PvZ Cartridge,<lf>when you battle them in<lf>versus mode you'll have a<lf>smoother time!
+Have you ever seen the<lf>Gargantuar with red eyes?<lf>If not, continue to play<lf>Survival: Endless.<lf>You'll get no sympathy<lf>from me if you regret it.
+Don't ask me about mustache mode.<lf>Seriously, don't.
+Hey, I'm 100 feet tall!<lf>You can keep feeding me if you like!
+Whoa! I'm 500 feet tall!<lf>Don't ask me about mustache mode. Don't!
+WOW! I'm 1000 feet tall!<lf>You are truly a steward of nature!<lf>If I was not stuck in the ground by <lf>a vast root system, I would dance!
+Touch to resume the credits. 
+Touch to resume to continue. 
+Touch to resume game
+Are You Sure?<lf>This will permanently remove<lf>%s from the player file!
+Touch sun to pick it up.
+Place plants to defend<lf>your lawn!
+Each player takes turns<lf>selecting seed packets,<lf>then enter gameplay.
+Touch to begin the onslaught!
+More
+Resolute Homeowner 
+Complete Adventure mode
+Attention Deficit 
+Earn a trophy in each minigame
+Think Hard
+Earn a trophy<lf>in each puzzle mode
+Tough Beans 
+Get a trophy<lf>in each survival mode
+Shopping Spree
+Spend $25,000<lf>in Crazy Dave's store
+Book Learner 
+Fill out the Almanac
+Greenhouser
+Raise 10 plants to full growth<lf>in the Zen Garden.
+NOTEXT
+NOTEXT
+Cerebral Canopy
+Grow the Tree of Wisdom<lf>to 100 ft
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+Demolitioneer
+Blow up 10 zombies at once<lf>with a single cherry bomb
+Photosensitive
+Beat a night level<lf>without picking up any sun
+Don't Drink the Water 
+Beat a pool level<lf>without using any aquatic plants
+Nebulaphile
+Beat an extremely foggy level<lf>without disturbing any fog
+Unsiege Mentality 
+Complete a roof level<lf>without using<lf>any catapult plants
+Street Team 
+Play Download-Play<lf>Multiplayer at least once
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+Resolute Homeowner
+Complete Adventure mode
+Attention Deficit
+Earn a trophy in each minigame
+Shopping Spree 
+Spend $25,000<lf>in Crazy Dave's store
+Book Learner
+Fill out the Almanac
+Demolitioneer
+Blow up 10 zombies at once<lf>with a single cherry bomb
+Photosensitive
+Beat a night level<lf>without picking up any sun
+Don't Drink the Water
+Beat a pool level<lf>without using any aquatic plants
+Nebulaphile
+Beat an extremely foggy level<lf>without disturbing any fog
+Unsiege Mentality
+Complete a roof level<lf>without using<lf>any catapult plants
+NOTEXT
+NOTEXT
+Zombie Trap
+Homerun Derby
+Air Raid
+NOTEXT
+NOTEXT
+Heat Wave
+NOTEXT
+BOMB all together!
+Zombie Trap
+Slide plants around to fend off zombies!
+Cheer them up by yelling out into<lf>the microphone when they get tired.
+Move the Flying Gatling Pea with the stylus!<lf>Avoid wrenches!  Attack the robot!
+BOMB
+You need {SCORE} homeruns to complete the level.
+Swipe the ball with the stylus to bat!
+Get {COUNT} zombies captured together to<lf>increase the number of Brains and<lf>of times that you can drop the cage.
+If you run out of cage drops,<lf>you're on your own!
+Catch {COUNT} zombies before<lf>they stop coming!
+NOTEXT
+NOTEXT
+Bomb-plants are limited.
+To complete the level, destroy all of<lf>the zombies before the plants run out.
+Slide brains to attract zombies!
+Get them to the center, and touch the<lf>"Cage" panel in the upper right!
+Catch {COUNT} zombies to win!<lf>Don't let the zombies reach your house!
+NOTEXT
+NOTEXT
+NOT USED
+Homerun Derby
+Air Raid
+NOTEXT
+NOTEXT
+Heat Wave
+NOTEXT
+BOMB all together!
+NOT USED
+You've unlocked Vs. Mode!<lf>Select it from the Main Menu!
+NOT USED
+VS
+Options
+HELP
+Music
+Sound Effects
+NOT USED
+Ready…
+Set…
+PLANT!
+FINAL WAVE
+THE ZOMBIES ATE YOUR BRAINS!
+CRAZY DAVE'S TWIDDY DINKIES
+PREV
+NEXT
+ZOMBATAR! MAKE YOUR OWN ZOMBIE!
+PORTRAIT
+SKIN
+HAIR
+FACIAL HAIR
+TIDBITS
+EYEWEAR
+CLOTHES
+ACCESSORIES
+HATS
+BACKDROPS
+ALL RESET
+TO GET STARTED, CHOOSE YOUR ZOMBIE'S<lf>SKIN COLOR BELOW.<lf><lf>WHEN YOU'RE READY TO CHANGE OTHER PARTS,<lf>TOUCH THE CATEGORIES ON THE PREVIOUS PAGE.
+COLORS
+Color cannot be applied to this item.
+Please select a Zombatar item above.
+ZOMBATAR
+Achievement
+NOTEXT
+NOTEXT
+Play ball
+NOTEXT
+Homerun
+Touch Cob Cannon to launch<lf>deadly cobs of corn.
+{NO_SOUND}{NO_CLICK}Plant this on your kernel-pults to turn them into cob cannons! Touch a cob cannon to launch a deadly attack!
+Great!!
+Too Bad!!
+There's a zombie on your lawn
+There's a zombie on your lawn
+There's a zombie on your lawn
+We don't want zombies on the lawn
+I know your type: tall, dark, and dead
+You want to bite all the petals off of my head
+And then eat the brains of
+the one who planted me here
+I'm just a sunflower but see
+me power an entire infantry
+You like the taste of brains
+we don't like zombies
+"I used to play football"
+"Road cones protect my head"
+"I have a screen-door shield"
+"We are the undead!"
+There's a zombie on your lawn
+There's a zombie on your lawn
+There's a zombie on your lawn
+We don't want zombies on the lawn
+Maybe it's time to reevaluate
+I know you have a lot of food on your plate
+Brains are quite rich in cholesterol
+You're dead so it doesn't matter,
+Instead we'll use this solar power
+to make a lawn defense at any hour
+"I like your tricycle"
+"There's butter on my head"
+"I'm gonna eat your brains!"
+"We are the undead!"
+There's a zombie on your lawn
+There's a zombie on your lawn
+There's a zombie on your lawn
+We don't want zombies on the lawn
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+PLANTS VS. ZOMBIES
+Plants vs Zombies DS Adaptation
+Producer
+Shigenori Araki
+Associate Producer
+Matthew Smith
+Additional Production
+Ty Roberts
+Art
+Rick Schmitz<lf>Rich Werner
+QA Lead
+Sharon Bruhn 
+QA Testing
+Bob Church<lf>Michael Guillory<lf>David Chan<lf>Tim Chamberlain
+Ratings Wrangler
+Nick Tomlinson
+Business Development
+Giordano Contestabile
+Vice President, Studio
+Ed Allard
+Vice President, Asia/Pacific
+James Gwertzman
+Special Thanks
+George Fan<lf>Tod Semple<lf>Dan Banay<lf>David Franzi
+Localization Director
+Jonathon Young
+Business Development Europe Director
+Mark Cochrane
+Localization Project Manager
+Shinobu Koiwa 
+Localization Testers
+Lorenzo Penati (Lead - PopCap)
+Translator
+U-TRAX M.M.L.
+Progress Management
+Atsuo Kawarabayashi
+Director
+Hiroyuki Ikenaga
+Design
+Akio Imai
+Coordination
+Shingo Yamashita<lf>Ayaka Takahashi
+Art Lead
+Ryosuke Kusada
+Artists
+Yuki Ikeshita<lf>Tsuyoshi Ganeko<lf>Ryo Okawa<lf>Yuki Yamasita
+Lead Programmer
+Kenta Egami
+Programmers
+Hideyuki Kuroda<lf>Kazuya Watanabe<lf>Takahiro Furukawa<lf>Kouichi Kitano
+Sound Composer
+Morihiro Iwamoto
+Translation
+Hiroshi Honjyo
+Testing
+Motoki Konishi<lf>Seiichi Sata
+Plants vs Zombies Original Game
+Game Design
+George Fan
+Programming
+Tod Semple
+Art
+Rich Werner
+Music & Sound
+Laura Shigihara
+Background Art
+Enrique Corts
+UI Art
+Matt Holmberg
+Words
+Stephen Notley
+Studio Director
+Sukhbir Sidhu
+QA Lead
+Michael Racioppi
+QA Testing
+Shawn Conard<lf>Ed Miller<lf>Adam MacDonnell
+PopCap Framework
+Brian Fiete<lf>Chris Hargrove<lf>David Parton
+Marmot Salesman
+David P. Wycliff
+Special Thanks
+Jason Kapalka<lf>John Vechey<lf>Dave Haas<lf>Dave Roberts<lf>Ed Brown<lf>Lindsey Kurz<lf>Jeff Gates<lf>Mysticsage<lf>Dave Rohl<lf>PopCap beta testers
+c2009, 2011 PopCap Games, Inc.<lf>All rights reserved.The PopCap logo<lf>and all other trademarks used herein<lf>that are listed on the trademark<lf>page on www.popcap.com are owned<lf>by PopCap Games, Inc. or its licensors<lf>and may be registered in some countries.<lf>Other company and product names used<lf>herein may be trademarks of their<lf>respective owners and are used<lf>for the benefit of those owners.
+THANK YOU FOR PLAYING!
+No personal relationships,<lf>game producers' sleep schedules,<lf>programmers' bug count records,<lf>or artists' wills to live<lf>were harmed in the making of this product.
+Destroy three targets, plants win! Eat brains, Zombies win!
+Press Start for Menu
+Your best is<lf>Streak: {COUNT} 
+You survived 1 Flag!
+You survived {COUNT} Flags!
+Bacon
+You found bacon!
+What are you going to do with bacon?
+YOU FOUND MY BACON!! {SCREAM2}
+My sweet, oily bacon!
+{SHOW_MONEYBAG}$1,000 for that slice!
+HAHAHA!! Ahhhhh... ha! {MOUTH_BIG_SMILE}
+Enjoy the money!
+Now I'm gonna rub bacon ALL OVER MY FACE!{MOUTH_BIG_SMILE}
+You've unlocked a new mini-game!<lf>Also, check out the<lf>new items in Crazy Dave's shop!
+Wow!<lf>You got all the trophies! 
+Select the language.
+English
+Français
+Italiano 
+Deutsch
+Español
+Nederlands
+日本語
+The System Memory has been damaged.<lf>For details please see the Nintendo DSi<lf>Operations Manual.
+Detected an error.<lf>Now formatting save data.<lf>Please do not turn off the power.
+SPROING!!
+POW!!
+DOOM!!
+SPUDOW!!
+POWIE!!
+NOT USED
+TOP
+MORE
+Plants
+Zombies
+WIN
+{NO_SOUND}{NO_CLICK}You blew <lf>1 zombie up at once!
+{NO_SOUND}{NO_CLICK}You caught<lf>1 zombie at one time!
+Manual
+SHOUT!
+More...
+ADVENTURE
+VS
+c2009, 2011 PopCap Games, Inc. All rights reserved.
+Language
