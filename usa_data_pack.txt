@@ -208,3 +208,58 @@ vs mode help
 oam: 3460625338.NCER
 tile: 4235366712.NCGR
 pal: 0528894195.NCLR 
+
+choose plant & zombie
+oam: 0039713803.NCER
+tile: 1293707980.NCGR & 0812359305.NCGR
+pal: 3550431042.NCLR
+
+heat minigame
+oam: 2546107131.NCER
+tile: 3632469052.NCGR & 2784288889.NCGR
+pal: 1174419890.NCLR
+
+cazy dave shop icon
+oam: 0461961497.NCER
+tile: 1422487518.NCGR & 0700357531.NCGR
+pal: 3393864272.NCLR
+
+final letter
+tile: 1644052949.NCGR
+pal: 2181732382.NCLR
+nscr:
+
+final letter #2
+tile: 2426991360.NCGR
+pal: 1935420107.NCLR
+nscr: 3907163508.NSCR 
+
+main title topscreen bg
+tile: 1022500774.NCGR & 3468706814.NCGR
+pal: 0758422069.NCLR & 3741763181.NCLR
+nscr: 1152940498.NSCR & 1152940498.NSCR
+
+loading screen bottowscreen
+tile: 3486868728.NCGR
+pal: 0740408627.NCLR 
+nscr: 
+
+main title bottowscreen
+tile: 1103429871.NCGR & 4283891624.NCGR 
+pal: 0480388707.NCLR & 2721175844.NCL
+nscr: 0965699227.NSCR & 2266798556.NSCR 
+
+pvz big title
+tile: 0789990573.NCGR
+pal: 3437401446.NCLR
+nscr: 
+
+crazy dave bg
+tile: 3893043242.NCGR
+pal: 0201325025.NCLR
+nscr: 2420196958.NSCR
+
+pvz help letter
+tile: 3714077195.NCGR
+pal: 1049922496.NCLR
+nscr: 2771006591.NSCR
