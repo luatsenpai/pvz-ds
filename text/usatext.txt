@@ -143,19 +143,19 @@ Tường Hạt có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khá
 Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực vừa<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói: "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói: "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
 Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
-{FLAVOR}<lf>Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
+{FLAVOR}Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
 Đậu Đôi bắn 2 đậu cùng lúc.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
 Đậu Băng Giá sẽ bắn đậu băng và làm <lf>chậm kẻ thù.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
 Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
 Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
 Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
-{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
 Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
 {FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá.
@@ -173,7 +173,7 @@ Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau k
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
 {FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
-{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
 Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
 Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? Tôi muốn<lf>ra trận!"
