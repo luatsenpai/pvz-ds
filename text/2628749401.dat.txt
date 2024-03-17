@@ -1,6 +1,5 @@
-NOT USED
 C
-€
+$
 {CURRENCY_SYMBOL}{AMOUNT}
 Đậu Hà Lan
 Bắn đậu vào kẻ địch
@@ -136,36 +135,30 @@ Thây Ma Dắt Chó
 Thây Ma Chó
 Thây Ma Chong Chóng
 Đậu Hà Lan là tuyến phòng thủ<lf>đầu tiên của bạn.<lf>Chúng bắn đậu vào thây ma.
-<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan đáp: <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
-NOT USED
-Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!<lf>{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
-NOT USED
-Tường Hạt có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.<lf>{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}"Mọi người hay thắc mắc rằng tôi cảm thấy<lf>thế nào khi bị thây ma bào", Tường Hạt<lf>đáp: "Bào thế này không ăn thua so với<lf>các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
-NOT USED
-Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực vừa<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói: "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói: "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Làm sao bạn có thể phát triển và bắn<lf>đậu nhanh vậy? Đậu Hà Lan đáp: <lf>"Cần cù bù siêng năng, có làm mới có ăn,<lf>ăn sáng lành mạnh và nên thường xuyên<lf>ra ngoài chạm cỏ."
+Hoa Hướng Dương rất cần thiết để sản<lf>sinh thêm mặt trời. Hãy trồng càng<lf>nhiều càng tốt!
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thường<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Hướng Dương không thể ngừng quẩy<lf>theo bài hát. Bài hát gì mà tẩm đá<lf>vậy? Thì ra đó là bài Đoạn Tuyệt<lf>Nàng Đi thường được các cao thủ múa<lf>Florentino cân 5 hay nghe.
+Tường Hạt có lớp vỏ cứng dùng<lf>để bảo vệ cây trồng khác.
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{SHORTLINE}<lf>{FLAVOR}<lf>"Mọi người hay thắc mắc rằng tôi cảm <lf>thấy thế nào khi bị thây ma bào", Tường<lf>Hạt đáp: "Bào thế này không ăn thua so<lf>với các hốc trưởng vùng cao đâu, tôi còn<lf>sướng hơn số học sinh vùng cao đấy."
+Bom Sơri có thể nổ tung toàn bộ thây ma<lf>trong một khu vực. Chúng cần thời gian <lf>ngắn trước khi kích nổ gần thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} số thây ma trong khu vực vừa<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Sơri #1 nói: "Nổ banh nóc nào". Anh<lf>trai Sơri #2 nói: "Không hãy nổ banh<lf>nhà lầu". Sau khi tuyên bố hùng hồn,<lf>cả hai cùng nhau nổ.
 Mìn Khoai Tây có sức công phá mạnh mẽ <lf>nhưng cần một thời gian để thiết lập.<lf>Hãy trồng chúng trước mặt thây ma.<lf>Chúng sẽ phát nổ khi tiếp xúc.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
-{FLAVOR}<lf>Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu nhỏ<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần thiết lập<lf>{SHORTLINE}<lf>{FLAVOR}Có người nói Mìn Khoai Tây rất lười,<lf>cậu ta toàn để đến khi nước đến chân<lf>mới chịu nhảy. 
+{FLAVOR}Mìn Khoai Tây không nói gì, vì cậu ta đang<lf>bận nghiên cứu Triết Học Mác Lênin.
 Đậu Đôi bắn 2 đậu cùng lúc.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 2x<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Đôi là một trai phố bụi bặm chính<lf>hiệu. Cậu ta không nể ai kể cả đó là<lf>cây hay thây ma, cậu ta bắn đậu để<lf>giữ khoảng cách. Tuy nhiên cậu có bí <lf>mật thấm kín là khao khát tình yêu.
 Đậu Băng Giá sẽ bắn đậu băng và làm <lf>chậm kẻ thù.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một chàng<lf>"lạnh lùng boy" hoặc "Hàn Thiên Lãnh".<lf>Đậu Băng Giá chỉ đảo mắt. Cậu ta<lf>âm thầm ghim hết.
-NOT USED
-Hoa Ăn Thịt có thể nuốt chũng cả một<lf>con thây ma, nhưng cần thời gian<lf>tiêu hóa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói<lf>"Đó cũng chỉ là công việc mà thôi".
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, làm chậm thây ma<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người hay nói Đậu Băng Giá là một<lf>chàng "lạnh lùng boy" hay là con người<lf>"lạnh giá". Đậu Băng Giá chỉ đảo mắt. <lf>Cậu ta âm thầm ghim hết.
+Hoa Ăn Thịt có thể nuốt chửng cả một con<lf> thây ma, nhưng cần thời gian tiêu hóa.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} cực ngắn<lf>{KEYWORD}Đặc biệt:{STAT} tiêu hóa lâu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Ăn Thịt suýt được đóng các pha hành<lf>động trong Đất Rừng Vân Nam. Tuy nhiên,<lf>Trấn Lột đã bành trướng xuất chiếu. Hoa<lf>Ăn Thịt cũng không phàn nàn gì chỉ nói "Đó<lf> cũng chỉ là công việc mà thôi".
 Nấm Bào Tử rẻ, nhưng chỉ có thể bắn <lf>cự ly ngắn.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường <lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Bào Tử nói: "gần đây tôi mới biết là<lf>thây ma có thật, cũng như các loài nấm <lf>khác, chúng tôi nghĩ chúng chỉ có trong<lf>phim Cười Lao Xuống Sông.
 {FLAVOR}Trải nghiệm này khiến tôi mở mang <lf>tầm mắt.
 Nấm Mặt Trời tạo ra mặt trời nhỏ<lf>trước, sau đó là mặt trời thường.
-{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}
-<lf>Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể cậu<lf>ta thì cậu ta sẽ nhả nó ra ngay lập tức.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Sản lượng:{STAT} thấp đến thường<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Mặt Trời rất ghét mặt trời, ghét tới<lf>mức khi ánh nắng tích tụ trong cơ thể<lf>cậu ta thì cậu ta sẽ nhả nó ra ngay.<lf>Cậu ta không thể chịu được nó. Trong mắt<lf>cậu ta, mặt trời thật tàn nhẫn.
 Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma".
-{FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma.
+{FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá".
 Trồng Nấm Bào Mộ lên mộ để bào mộ.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt<lf>{KEYWORD}{STAT}trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
 {FLAVOR}Anh ta nói: "Tôi chỉ làm những việc<lf>nên làm".
@@ -174,28 +167,23 @@ Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
 {FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
 Nấm Nhát Gan bắn tầm xa nhưng sẽ <lf>trốn khi kẻ thù đến gần.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi: "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
-NOT USED
 Nấm Băng Giá bất động tạm thời <lf>toàn bộ thây ma trên màn hình.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực nhẹ, đóng băng thây ma<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên màn hình<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Băng Giá luôn cau có, không phải vì<lf>anh ta không vui hay đang bực mình, mà<lf>là do chấn thương từ thuở bé khiến dây<lf>thần kinh mặt bị tê liệt.
-NOT USED
 Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
 {FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
-{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}<lf>Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng chăng?
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng?
 Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
 Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi!<lf>Triển ngay đi! Để cho tôi! Không ai<lf>phù hợp hơn tôi! Tôi là lựa chọn tốt<lf>nhất! Nào! Còn chờ gì nữa? Tôi muốn<lf>ra trận!"
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi! Triển<lf>ngay đi! Để cho tôi! Không ai phù hợp <lf>hơn tôi! Tôi là lựa chọn tốt nhất! Nào!<lf>Còn chờ gì nữa? Tôi muốn ra trận!"
 Đậu Ba Làn bắn đậu ở ba làn
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
-NOT USED
 Tangle Kelp are aquatic plants that pull <lf>the first zombie that nears them <lf>underwater.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Usage:{STAT} single use, on contact<lf>{AQUATIC}Must be planted in water<lf>{SHORTLINE}<lf>{FLAVOR}"I'm totally invisible," Tangle Kelp thinks <lf>to himself. "I'll hide here just below the <lf>surface and nobody will see me."
 {FLAVOR}His friends tell him they can see him <lf>perfectly well, but he'll never change.
 Jalapenos destroy an entire lane of <lf>zombies.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a lane<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{SHORTLINE}<lf>{FLAVOR}"NNNNNGGGGGG!!!!!!!!" Jalapeno says. He's <lf>not going to explode, not this time. But <lf>soon. Oh, so soon. It's close. He knows it, <lf>he can feel it, his whole life's been <lf>leading up to this moment.
-NOT USED
 Spikeweeds pop tires and hurt any <lf>zombies that step on them.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} all zombies that walk over it<lf>{KEYWORD}Special:{STAT} can't be eaten by zombies<lf>{SHORTLINE}<lf>{FLAVOR}Hockey is Spikeweed's obsession. He's got <lf>box seat season tickets. He keeps close <lf>track of his favorite players. And he <lf>consistently cleans up in the office <lf>hockey pool.
 {FLAVOR}Just one problem: he's terrified of pucks.
@@ -207,7 +195,6 @@ Tall-nuts are heavy-duty wall plants <lf>that can't be vaulted over.
 {FLAVOR}Tall-nut's voice trails off  and he smiles<lf>knowingly.
 Sea-shrooms are aquatic plants that <lf>shoot short ranged spores.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} short<lf>{AQUATIC}Must be planted in water<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Sea-shroom has never seen the sea. It's in <lf>his name, he's heard loads about it, but <lf>he's just never found the time. One day, <lf>though, it'll go down.
-NOT USED
 Planterns light up an area, letting you <lf>see through fog.
 {SHORTLINE}<lf>{KEYWORD}Range:{STAT} one lane<lf>{KEYWORD}Special:{STAT} lets you see through fog<lf>{SHORTLINE}<lf>{FLAVOR}Plantern defies science. He just does. <lf>Other plants eat light and excrete <lf>oxygen; Plantern eats darkness and <lf>excretes light. Plantern's cagey about <lf>how he does it. "I'm not gonna say <lf>'sorcery,'
 {FLAVOR}I wouldn't use the term 'dark <lf>forces,' I just... I think I've said enough."
@@ -219,40 +206,30 @@ Blovers blow away all balloon zombies <lf>and fog.
 {FLAVOR}Instead of giving up, though, he's used <lf>that early defeat as a catalyst to push <lf>himself harder ever since.
 Split Peas shoot peas forward and <lf>backwards.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} forward and backwards<lf>{KEYWORD}Firing Speed:{STAT} 1x forward, 2x backwards<lf>{SHORTLINE}<lf>{FLAVOR}"Yeah, I'm a Gemini," says Split Pea. "I <lf>know, big surprise. But having two heads <lf>--or really, one head with a large <lf>head-like growth on the back-- pays off <lf>big in my line of work."
-NOT USED
 Starfruits shoot stars in 5 directions.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} 5 directions<lf>{SHORTLINE}<lf>{FLAVOR}"Aw, man," says Starfruit. "I went to the <lf>dentist the other day and he said I have <lf>four cavities. I've got --count it-- ONE <lf>tooth! Four cavities in one tooth? <lf>How does this happen?"
-NOT USED
 Pumpkins protect plants that are within <lf>their shells.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high<lf>{KEYWORD}Special:{STAT} can be planted over another plant<lf>{SHORTLINE}<lf>{FLAVOR}Pumpkin hasn't heard from his cousin <lf>Renfield lately. Apparently Renfield's a <lf>big star, some kind of... what was it... <lf>sports hero? Peggle Master? Pumpkin <lf>doesn't really get it. He just does his job.
-NOT USED
 Magnet-shrooms remove helmets and <lf>other metal objects from zombies.
 {SHORTLINE}<lf>{KEYWORD}Range:{STAT} nearby zombies<lf>{KEYWORD}Special:{STAT} removes metal objects from <lf>{KEYWORD}{STAT}zombies<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Magnetism is a powerful force. Very <lf>powerful. Sometimes it scares <lf>Magnet-shroom a little.
 {FLAVOR}He's not sure if <lf>he can handle that kind of responsibility.
 Cabbage-pults hurl cabbages at the <lf>enemy.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} lobbed<lf>{SHORTLINE}<lf>{FLAVOR}Cabbage-pult is okay with launching <lf>cabbages at zombies. It's what he's paid <lf>for, after all, and he's good at it. He just <lf>doesn't understand how the zombies get <lf>up on the roof in the first place.
-NOT USED
 Flower Pots let you plant on the roof.
 {SHORTLINE}<lf>{KEYWORD}Special:{STAT} allows you to plant on the roof<lf>{SHORTLINE}<lf>{FLAVOR}"I'm a pot for planting. Yet I'm also a <lf>plant. HAS YOUR MIND EXPLODED YET?"
-NOT USED
 Kernel-pults fling corn kernels and <lf>butter at zombies.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} light (kernel), normal (butter)<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} butter immobilizes zombies<lf>{SHORTLINE}<lf>{FLAVOR}Kernel-Pult is the eldest of the Pult <lf>brothers. Of the three of them, Kernel is <lf>the only one who consistently remembers <lf>the others' birthdays. He bugs them about <lf>it a little, too.
-NOT USED
 Use Coffee Beans to wake up sleeping <lf>mushrooms.
 {SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} can be planted over another <lf>{KEYWORD}{STAT}plant, wakes up mushrooms<lf>{SHORTLINE}<lf>{FLAVOR}"Hey, guys, hey!" says Coffee Bean. "Hey! <lf>What's up? Who's that? Hey! Didja see <lf>that thing? What thing? Whoa! Lions!" <lf>Yep, Coffee Bean sure does get excited.
-NOT USED
 Garlic diverts zombies into other lanes.
 {SHORTLINE}<lf>{KEYWORD}Usage:{STAT} on contact<lf>{KEYWORD}Special:{STAT} diverts zombies into other lanes<lf>{SHORTLINE}<lf>{FLAVOR}Lane-diversion isn't just Garlic's <lf>profession. It's his passion. He carries an <lf>advanced Doctorate in Redirection from <lf>the Brussels University. He'll talk all day <lf>about lane vectors and repulse arrays.
 {FLAVOR}He even pushes things into alternate<lf>avenues at home. Somehow his wife puts<lf>up with it.
 Umbrella Leaves protect nearby plants <lf>from bungees and catapults.
 {SHORTLINE}<lf>{KEYWORD}Special:{STAT} protects adjacent plants from <lf>{KEYWORD}{STAT}bungees and catapults<lf>{SHORTLINE}<lf>{FLAVOR}"SPROING!" says Umbrella Leaf. "Didja <lf>like that? I can do it again. SPROING! <lf>Woo! That's me popping up to protect <lf>stuff around me. Yeah. Just like that. <lf>EXACTLY like that. Believe it."
-NOT USED
 Marigolds give you silver and gold coins.
 {SHORTLINE}<lf>{KEYWORD}Special:{STAT} gives coins<lf>{SHORTLINE}<lf>{FLAVOR}Marigold spends a lot of time deciding <lf>whether to spit out a silver coin or a <lf>gold one. She thinks about it, weighs the <lf>angles. She does solid research and keeps <lf>up with current publications. That's how <lf>winners stay ahead.
-NOT USED
 Melon-pults do heavy damage to groups <lf>of zombies.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} melons damage nearby enemies on <lf>{KEYWORD}{STAT}impact<lf>{SHORTLINE}<lf>{FLAVOR}There's no false modesty with Melon-pult. <lf>"Sun-for-damage, I deliver the biggest <lf>punch on the lawn," he says. "I'm not <lf>bragging. Run the numbers. You'll see."
-NOT USED
 Gatling Peas shoot four peas at a time.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal (for each pea)<lf>{KEYWORD}Firing Speed:{STAT} 4x<lf>{KEYWORD}Must be planted on repeaters<lf>{SHORTLINE}<lf>{FLAVOR}Gatling Pea's parents were concerned <lf>when he announced his intention to join <lf>the military. "But honey, it's so <lf>dangerous!" they said in unison. Gatling <lf>Pea refused to budge. 
 {FLAVOR}"Life is dangerous," <lf>he replied, eyes glinting with steely <lf>conviction.
@@ -261,103 +238,72 @@ Twin Sunflowers give twice as much sun <lf>as a normal sunflower.
 {FLAVOR}Twin Sunflower was alive, ALIVE!
 Gloom-shrooms release heavy fumes in an <lf>area around themselves.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on fume-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"I've always enjoyed releasing heavy <lf>fumes," says Gloom Shroom. "I know a lot <lf>of people aren't cool with that. They say <lf>it's rude or that it smells bad. All I can <lf>say is, would you rather have your brain <lf>eaten by zombies?"
-NOT USED
 Cattails can attack any lane and shoot <lf>down balloon zombies too.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on lily pads<lf>{SHORTLINE}<lf>{FLAVOR}"Woof!" says Cattail. "Woof woof woof! <lf>Does this confuse you? Do you expect me <lf>to say 'Meow' like a cat just because the <lf>word 'cat' is in my name and I also look <lf>like a cat? That's not how things work <lf>around here. I refuse to be pigeonholed."
-NOT USED
 Winter Melons do heavy damage and slow <lf>groups of zombies.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} very heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Firing Speed:{STAT} 1/2x<lf>{KEYWORD}Special:{STAT} melons damage and freeze nearby <lf>{KEYWORD}{STAT}enemies on impact<lf>{KEYWORD}Must be planted on melon-pults<lf>{SHORTLINE}<lf>{FLAVOR}Winter Melon tries to calm his nerves. He <lf>hears the zombies approach.
 {FLAVOR}Will he make it?<lf>Will anyone make it?
 Gold Magnets collect coins and diamonds <lf>for you.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on magnet-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"How did I end up here?" asks Gold <lf>Magnet. "I was on the fast track --corner <lf>office, full benefits, stock options. I was <lf>gonna be Vice President of Midwestern <lf>Operations. Now I'm here, on this lawn, in <lf>serious danger of being eaten to death. <lf>Ooh! A coin!"
-NOT USED
 Press <A> on the Cob Cannon to launch deadly cobs <lf>of corn.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on 2 side-by-side <lf>{KEYWORD}kernel-pults<lf>{SHORTLINE}<lf>{FLAVOR}What's the deal with Cob Cannon,<lf>anyway? He went to Harvard. He<lf>practices law in a prestigious New York<lf>firm. He can explode whole areas of<lf>zombies with a single corn-launch.<lf>All this is common knowledge.
 {FLAVOR}But deep inside,<lf>what really makes him tick?
 Imitaters let you use two of the same <lf>plant during a level!
 {SHORTLINE}<lf>{FLAVOR}"I remember the Zombie Wars back in <lf>'76," says Imitater in a raspy, old-man's <lf>voice. "Back then, we didn't have all <lf>these fancy peashooters and jalapenos. <lf>All we had was guts. Guts and a spoon."
-NOT USED
 Spikerocks pop multiple tires and damage <lf>zombies that walk over it.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on spikeweeds<lf>{SHORTLINE}<lf>{FLAVOR}Spikerock just got back from a trip to <lf>Europe. He had a great time, met some <lf>wonderful people, really broadened his <lf>horizons. He never knew they made <lf>museums so big, or put so many paintings <lf>in them. That was a big surprise for him.
-NOT USED
 Regular Garden-variety Zombie
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}This zombie loves brains. Can't get enough. <lf>Brains, brains, brains, day in and night out. <lf>Old and stinky brains? Rotten brains? <lf>Brains clearly past their prime? Doesn't <lf>matter. Regular zombie wants 'em. 
-NOT USED
 Flag Zombie marks the arrival of a huge <lf>pile or "wave" of zombies.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Make no mistake, Flag Zombie loves brains. <lf>But somewhere down the line he also <lf>picked up a fascination with flags. Maybe <lf>it's because the flags always have brains <lf>on them. Hard to say.
-NOT USED
 His traffic cone headpiece makes him <lf>twice as tough as normal zombies.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {640}<lf>{SHORTLINE}<lf>{FLAVOR}Conehead Zombie shuffled mindlessly <lf>forward like every other zombie.<lf>But something made him stop, made him <lf>pick up a traffic cone and stick it on his <lf>head. Oh yeah. He likes to party.
-NOT USED
 His bucket hat makes him extremely <lf>resistant to damage.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1370}<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Buckethead Zombie always wore a bucket. <lf>Part of it was to assert his uniqueness <lf>in an uncaring world. Mostly he just forgot <lf>it was there in the first place.
-NOT USED
 Pole Vaulting Zombie vaults with a pole.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then normal (after jump)<lf>{KEYWORD}Special:{STAT} jumps the first plant he runs into<lf>{SHORTLINE}<lf>{FLAVOR}Some zombies take it further, aspire more, <lf>push themselves beyond the <lf>normal into greatness.<lf>That's Pole Vaulting Zombie<lf>right there. That is so him.
-NOT USED
 His newspaper provides limited defense.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Newspaper Toughness:{STAT} low {150}<lf>{KEYWORD}Speed:{STAT} normal, then fast (after losing <lf>{KEYWORD}{STAT}newspaper)<lf>{SHORTLINE}<lf>{FLAVOR}Newspaper Zombie was *this* close to <lf>finishing his sudoku puzzle. No wonder he's <lf>freaking out.
-NOT USED
 His screen door is an effective shield.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Screen Door Toughness:{STAT} high {1100}<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He got his screen door from the last <lf>inexpertly defended home he visited,<lf>after he ATE THE HOMEOWNER'S BRAINS.
-NOT USED
 Football Zombie makes the big plays.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} very high {1670}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Football Zombie gives 110 percent <lf>whenever he's on the field. He's a team <lf>player who delivers both offensively and <lf>defensively.<lf>He has no idea what a football is.
-NOT USED
 Any resemblance between Dancing Zombie <lf>and persons living or dead is purely <lf>coincidental.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} summons back-up dancers<lf>{SHORTLINE}<lf>{FLAVOR}Dancing Zombie's latest album, <lf>"GrarrBRAINSarblarbl," is already rocketing <lf>up the undead charts.
-NOT USED
 These zombies appear in sets of four <lf>whenever Dancing Zombie rocks out.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Backup Dancer Zombie spent six years <lf>perfecting his art at the Chewliard <lf>Performing Arts School in Zombie <lf>New York City.
-NOT USED
 The ducky tube allows this zombie<lf>to float on water.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}It takes a certain kind of zombie to be a <lf>Ducky Tuber. Not every zombie can handle <lf>it. Some crack. They can't take it. They <lf>walk away and give up on brains forever.
-NOT USED
 Snorkel zombies can swim underwater.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} submerges to avoid attacks<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}Zombies don't breathe.<lf>They don't need air.<lf>So why does Snorkel Zombie need<lf>a snorkel to swim underwater?<lf>Answer: peer pressure.
-NOT USED
 The Zomboni applies ice, steam and <lf>pressure to your plants.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} crushes plants, leaves an ice trail<lf>{SHORTLINE}<lf>{FLAVOR}Not to be mistaken for a Zamboni® brand <lf>ice resurfacing machine.  Zamboni® and <lf>the image of the ice-resurfacing machine <lf>are registered trademarks of Frank J. <lf>Zamboni & Co., Inc., and "Zomboni" is used<lf>with permission.
-{FLAVOR}For all your non-zombie-related ice<lf>resurfacing needs, visit www.zamboni.com!
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} crushes plants, leaves an ice trail<lf>{SHORTLINE}<lf>{FLAVOR}Not to be mistaken for a Zamboni® brand <lf>ice resurfacing machine.  Zamboni® and <lf>the image of the ice-resurfacing machine <lf>are registered trademarks of Frank J. <lf>Zamboni & Co., Inc., and "Zomboni" is used<lf>with permission.<lf>For all your non-zombie-related ice<lf>resurfacing needs, visit www.zamboni.com!
 These zombies appear in teams of four.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low (each zombie) {270}<lf>{KEYWORD}Bobsled Toughness:{STAT} low {300}<lf>{KEYWORD}Special:{STAT} only appears on ice<lf>{SHORTLINE}<lf>{FLAVOR}Zombie Bobsled Team worked hard to get <lf>where they are. They live together, eat <lf>brains together and train together to <lf>become a cohesive zombie unit.
-NOT USED
 Dolphin Rider Zombies use dolphins to <lf>exploit weaknesses in your pool defense.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow (after jump)<lf>{KEYWORD}Special:{STAT} jumps over the first plant he runs <lf>{KEYWORD}{STAT}into<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}The dolphin is also a zombie.
-NOT USED
 A rare and curious creature.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} runs away after a short while<lf>{SHORTLINE}<lf>{FLAVOR}Little is known about the Zombie Yeti <lf>other than his name, birth date, social <lf>security number, educational history, past <lf>work experience and sandwich preference <lf>(roast beef and Swiss).
-NOT USED
 This zombie carries an explosive surprise.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYWORD}Special:{STAT} jack-in-the-box explodes<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}This zombie shivers, not because he's cold <lf>but because he's crazy.
-NOT USED
 Balloon Zombie floats above the fray, <lf>immune to most attacks.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} flying<lf>{KEYWORD}Weakness:{STAT} cactus and blover<lf>{SHORTLINE}<lf>{FLAVOR}Balloon Zombie really lucked out. <lf>The balloon thing really works and none of <lf>the other zombies have picked up on it.
-NOT USED
 This zombie digs to bypass your defenses.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {370}<lf>{KEYWORD}Speed:{STAT} fast, then slow<lf>{KEYWORD}Special:{STAT} tunnels underground and appears <lf>{KEYWORD}{STAT}on the left side of the lawn<lf>{KEYWORD}Weakness:{STAT} split pea{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Digger Zombie spends three days a week <lf>getting his excavation permits in order.
-NOT USED
 Pogo Zombie hops to bypass your defenses.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} hops over plants<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Sproing! Sproing! Sproing! That's the sound <lf>of a powerful and effective zombie doing <lf>what he does best.
-NOT USED
 Bungee Zombie attacks from above.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {400}<lf>{KEYWORD}Special:{STAT} descends from the sky and steals <lf>{KEYWORD}{STAT}a plant<lf>{SHORTLINE}<lf>{FLAVOR}Bungee Zombie loves to take risks. After <lf>all, what's the point of being dead if you <lf>don't live a little?
-NOT USED
 Ladder Zombie climbs over obstacles.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Ladder Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow <lf>{KEYWORD}{STAT}(after placing ladder)<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He picked the ladder up for €8.99.
-NOT USED
+{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Ladder Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow <lf>{KEYWORD}{STAT}(after placing ladder)<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He picked the ladder up for $8.99.
 Catapult Zombie operates heavy <lf>machinery.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {850}<lf>{KEYWORD}Special:{STAT} lobs basketballs at your plants<lf>{SHORTLINE}<lf>{FLAVOR}Of all the things Catapult Zombie could <lf>launch with his catapult, basketballs <lf>seemed like the best and most obvious <lf>choice.
-NOT USED
 Gargantuar is a gigantic zombie.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} extremely high {3000}<lf>{SHORTLINE}<lf>{FLAVOR}When Gargantuar walks, the earth <lf>trembles. When he moans, other zombies <lf>fall silent. He is the zombie other zombies <lf>dream they could be. But he still can't <lf>find a girlfriend. 
-NOT USED
 Imps are tiny zombies hurled by <lf>Gargantuar deep into your defenses.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Imp may be small, but he's wiry. He's <lf>proficient in zombie judo, zombie karate <lf>and zombie bare-knuckle brawling. He also <lf>plays the melodica.
-NOT USED
 Dr. Zomboss rules them all.
 {SHORTLINE}<lf>{KEYWORD}Toughness (in Zombot shell):{STAT} extreme<lf>{SHORTLINE}<lf>{FLAVOR}Edgar George Zomboss achieved his <lf>Doctorate in Thanatology in only two <lf>years. Quickly mastering thanatological <lf>technology, he built his fearsome Zombot <lf>and set about establishing absolute <lf>dominance of his local subdivision.
-NOT USED
 Dog Walking Zombie description
 Dog Zombie description
 Propeller Zombie description
@@ -384,7 +330,7 @@ And to top it all off, you can't even use your mushrooms!
 'cause they'll fall asleep during the day!
 Well isn't that just dandy!
 YOU FOUND MY MAGIC TACO!! {SCREAM2}
-{SHOW_MONEYBAG}I must have it! I'll give you €1000!
+{SHOW_MONEYBAG}I must have it! I'll give you $1000!
 YES!  THE TACO IS MINE! {SCREAM}
 Why'd I give you so much money for a taco?
 {SHAKE}BECAUSE I'M CRAAAAZY!!!! {MOUTH_BIG_SMILE}
@@ -430,7 +376,7 @@ Upgrade to {SLOTS} seed slots?
 Man, those zombies just keep a-comin'!
 This time around, I wanna pick some seeds for you!
 I choose... these three!
-{NO_CLICK}I'll give you €{SELL_PRICE}<lf>for that {PLANT_TYPE}!
+{NO_CLICK}I'll give you ${SELL_PRICE}<lf>for that {PLANT_TYPE}!
 {NO_SOUND}{NO_CLICK}Plant these on your<lf>repeaters to turn them<lf>into gatling peas!<lf>Gatling peas shoot four<lf>peas at a time!
 {NO_SOUND}{NO_CLICK}Plant these on your sunflowers to turn them into twin sunflowers! Twin sunflowers give twice as much sun as a sunflower!
 {NO_SOUND}{NO_CLICK}Plant these on your fume-shrooms to turn them into gloom-shrooms! Gloom-shrooms do rapid attacks in a small area!
@@ -1444,7 +1390,7 @@ NO
 Are you sure?
 Deleting...<lf>Do not turn off the power.
 Please wait...<lf>Do not turn off the power.
-The DS Card has been removed.<lf>Please shut down the console and<lf>reinsert the DS Card.
+The Game Card is not<lf>inserted properly.<lf>Please turn off the power.
 The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
 Corrupted data was encountered<lf>and will be deleted. Press the<lf>A Button to continue.
 The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
@@ -1463,23 +1409,23 @@ New Game
 DS Download Play
 DS Wireless Play
 Waiting for an opponent...
-Would you like to disconnect?
+Would you like to disconnect
 YES
 NO
 Begin download
 Loading...
 Waiting for Player 1
-Disconnected.<lf>Press A Button to return to the main menu.
+Disconnected.<lf>Press A button to return to the main menu.
 NOTEXT
-Disconnected.<lf>Press A Button to turn off the power.
+Disconnected.<lf>Press A button to turn off the power.
 Make a room
 Enter a room
 START
 Waiting for opponent...
 Would you like to play<lf>this opponent?
 Please wait
-It's hotter than a baked armadillo today! Your plants are having a hard time, what with the heat!
-These ones here are the only ones with any energy left! And even they run out of steam sometimes!
+It's hotter than a baked armadillo today!<lf>Your plants are having a hard time, what with the heat!
+These ones here are the only ones with any energy left!<lf>And even they run out of steam sometimes!
 Then, you'd better yell out "Hey!" to build up the fighting spirit in those prostrate plants.
 Touch to collect the falling sun.
 Hold a seed packet with the stylus!
@@ -1504,7 +1450,7 @@ Touch to continue
 Collect all the trophies in<lf>mini-games to get the<lf>Gold Sunflower Trophy!
 Have you tried touching the flowers on the main menu? Give it a shot! I'll wait here.
 If you've played PvZ before, you might not have checked out the minigames screen. Now's your chance!
-If your friend already<lf>has a PvZ Nintendo DS Game Card,<lf>when you battle them in<lf>versus mode you'll have a<lf>smoother time!
+If your friend already<lf>has a PvZ Cartridge,<lf>when you battle them in<lf>versus mode you'll have a<lf>smoother time!
 Have you ever seen the<lf>Gargantuar with red eyes?<lf>If not, continue to play<lf>Survival: Endless.<lf>You'll get no sympathy<lf>from me if you regret it.
 Don't ask me about mustache mode.<lf>Seriously, don't.
 Hey, I'm 100 feet tall!<lf>You can keep feeding me if you like!
@@ -1528,7 +1474,7 @@ Earn a trophy<lf>in each puzzle mode
 Tough Beans 
 Get a trophy<lf>in each survival mode
 Shopping Spree
-Spend €25,000<lf>in Crazy Dave's store
+Spend $25,000<lf>in Crazy Dave's store
 Book Learner 
 Fill out the Almanac
 Greenhouser
@@ -1554,7 +1500,7 @@ Beat an extremely foggy level<lf>without disturbing any fog
 Unsiege Mentality 
 Complete a roof level<lf>without using<lf>any catapult plants
 Street Team 
-Play a Download Play game at<lf>least one time
+Play Download-Play<lf>Multiplayer at least once
 NOTEXT
 NOTEXT
 NOTEXT
@@ -1564,7 +1510,7 @@ Complete Adventure mode
 Attention Deficit
 Earn a trophy in each minigame
 Shopping Spree 
-Spend €25,000<lf>in Crazy Dave's store
+Spend $25,000<lf>in Crazy Dave's store
 Book Learner
 Fill out the Almanac
 Demolitioneer
@@ -1619,7 +1565,7 @@ You've unlocked Vs. Mode!<lf>Select it from the Main Menu!
 NOT USED
 VS
 Options
-HINT
+HELP
 Music
 Sound Effects
 NOT USED
@@ -1707,7 +1653,7 @@ NOTEXT
 NOTEXT
 NOTEXT
 PLANTS VS. ZOMBIES
-Plants vs Zombies<lf>Nintendo DS Adaptation
+Plants vs Zombies DS Adaptation
 Producer
 Shigenori Araki
 Associate Producer
@@ -1724,12 +1670,12 @@ Ratings Wrangler
 Nick Tomlinson
 Business Development
 Giordano Contestabile
-Chief of Worldwide Studios
+Vice President, Studio
 Ed Allard
-General Manager, APAC
+Vice President, Asia/Pacific
 James Gwertzman
 Special Thanks
-George Fan<lf>Tod Semple<lf>Dan Banay<lf>David Franzi<lf>Yuko Ando
+George Fan<lf>Tod Semple<lf>Dan Banay<lf>David Franzi
 Localization Director
 Jonathon Young
 Business Development Europe Director
@@ -1737,9 +1683,9 @@ Mark Cochrane
 Localization Project Manager
 Shinobu Koiwa 
 Localization Testers
-Lorenzo Penati (Lead)<lf>Jean De Mérey <lf>Jessica Schuster<lf>Antonio Perez
+Lorenzo Penati (Lead - PopCap)
 Translator
-U-TRAX M.M.L. (Translation)<lf>Sebastiaan de Witte (PM)<lf>Ida Lill Schjærin (PM)<lf><lf>U-TRAX QA<lf>Nuno Silvestre (PM)<lf>Jelle de Vaal (PM)<lf>Mendel Bouman<lf>Mathieu Sauvan<lf>Giulia Lampis<lf>Marvin Kobold<lf>Guillaume Nunez
+U-TRAX M.M.L.
 Progress Management
 Atsuo Kawarabayashi
 Director
@@ -1789,11 +1735,11 @@ Marmot Salesman
 David P. Wycliff
 Special Thanks
 Jason Kapalka<lf>John Vechey<lf>Dave Haas<lf>Dave Roberts<lf>Ed Brown<lf>Lindsey Kurz<lf>Jeff Gates<lf>Mysticsage<lf>Dave Rohl<lf>PopCap beta testers
-c2009, 2011 PopCap Games, Inc.<lf>All rights reserved.The PopCap logo<lf>and all other trademarks used herein<lf>that are listed on the trademark page <lf>on the PopCap website are owned<lf>by PopCap Games, Inc. or its licensors<lf>and may be registered in some countries.<lf>Other company and product names used<lf>herein may be trademarks of their<lf>respective owners and are used<lf>for the benefit of those owners.<lf>
+c2009, 2011 PopCap Games, Inc.<lf>All rights reserved.The PopCap logo<lf>and all other trademarks used herein<lf>that are listed on the trademark<lf>page on www.popcap.com are owned<lf>by PopCap Games, Inc. or its licensors<lf>and may be registered in some countries.<lf>Other company and product names used<lf>herein may be trademarks of their<lf>respective owners and are used<lf>for the benefit of those owners.
 THANK YOU FOR PLAYING!
 No personal relationships,<lf>game producers' sleep schedules,<lf>programmers' bug count records,<lf>or artists' wills to live<lf>were harmed in the making of this product.
 Destroy three targets, plants win! Eat brains, Zombies win!
-Press START for Menu
+Press Start for Menu
 Your best is<lf>Streak: {COUNT} 
 You survived 1 Flag!
 You survived {COUNT} Flags!
@@ -1802,7 +1748,7 @@ You found bacon!
 What are you going to do with bacon?
 YOU FOUND MY BACON!! {SCREAM2}
 My sweet, oily bacon!
-{SHOW_MONEYBAG}€1,000 for that slice!
+{SHOW_MONEYBAG}$1,000 for that slice!
 HAHAHA!! Ahhhhh... ha! {MOUTH_BIG_SMILE}
 Enjoy the money!
 Now I'm gonna rub bacon ALL OVER MY FACE!{MOUTH_BIG_SMILE}
@@ -1831,15 +1777,10 @@ Zombies
 WIN
 {NO_SOUND}{NO_CLICK}You blew <lf>1 zombie up at once!
 {NO_SOUND}{NO_CLICK}You caught<lf>1 zombie at one time!
-Help
+Manual
 SHOUT!
 More...
 ADVENTURE
 VS
 c2009, 2011 PopCap Games, Inc. All rights reserved.
 Language
-Bob Church<lf>Michael Guillory<lf>David Chan<lf>Tim Chamberlain<lf>DJ Stiner<lf>Abi Houghton
-Saving...<lf>Do not turn off the power.
-c2009, 2011 PopCap Games, Inc.<lf>All rights reserved.The PopCap logo<lf>and all other trademarks used herein<lf>that are listed on the trademark page <lf>on the PopCap website are owned<lf>by PopCap Games, Inc. or its licensors<lf>and may be registered in some countries.<lf>Other company and product names used<lf>herein may be trademarks of their<lf>respective owners and are used<lf>for the benefit of those owners.<lf>
-Can not connect.<lf>The game is full.
-Plants vs Zombies <lf>Nintendo DSi adaptation
