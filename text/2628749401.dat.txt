@@ -49,7 +49,7 @@ Gỗ Đuốc
 Hạt đậu khi bay qua nó sẽ bốc cháy.
 Tường Hạt Cao
 Bức tường kiên cố<lf>không thể vượt qua.
-Nấm Thủy Sinh
+Nấm Thủy Thủ
 Cây thủy sinh bắn bào tử nấm<lf>ở cự ly gần.
 Đèn Lồng
 Thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù.
@@ -58,7 +58,7 @@ Bắn gai có thể làm vỡ bóng bay
 Cỏ Lốc
 Thổi bay toàn bộ thây ma bóng bay<lf>và sương mù.
 Đậu Hạt Chia
-Bắt đậu phía trước lẫn sau.
+Bắn đậu phía trước lẫn sau.
 Khế Sao
 Bắn sao 5 hướng.
 Giáp Bí
@@ -179,40 +179,40 @@ Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi! Triển<lf>ngay đi! Để cho tôi! Không ai phù hợp <lf>hơn tôi! Tôi là lựa chọn tốt nhất! Nào!<lf>Còn chờ gì nữa? Tôi muốn ra trận!"
 Đậu Ba Làn bắn đậu ở ba làn
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
-Tangle Kelp are aquatic plants that pull <lf>the first zombie that nears them <lf>underwater.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Usage:{STAT} single use, on contact<lf>{AQUATIC}Must be planted in water<lf>{SHORTLINE}<lf>{FLAVOR}"I'm totally invisible," Tangle Kelp thinks <lf>to himself. "I'll hide here just below the <lf>surface and nobody will see me."
-{FLAVOR}His friends tell him they can see him <lf>perfectly well, but he'll never change.
-Jalapenos destroy an entire lane of <lf>zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} massive<lf>{KEYWORD}Range:{STAT} all zombies in a lane<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{SHORTLINE}<lf>{FLAVOR}"NNNNNGGGGGG!!!!!!!!" Jalapeno says. He's <lf>not going to explode, not this time. But <lf>soon. Oh, so soon. It's close. He knows it, <lf>he can feel it, his whole life's been <lf>leading up to this moment.
-Spikeweeds pop tires and hurt any <lf>zombies that step on them.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} all zombies that walk over it<lf>{KEYWORD}Special:{STAT} can't be eaten by zombies<lf>{SHORTLINE}<lf>{FLAVOR}Hockey is Spikeweed's obsession. He's got <lf>box seat season tickets. He keeps close <lf>track of his favorite players. And he <lf>consistently cleans up in the office <lf>hockey pool.
-{FLAVOR}Just one problem: he's terrified of pucks.
-Torchwoods turn peas that pass through <lf>them into fireballs that deal twice as <lf>much damage.
-{SHORTLINE}<lf>{KEYWORD}Special:{STAT} doubles the damage of peas that <lf>{KEYWORD}{STAT}pass through it.  Fireballs deal damage<lf>{KEYWORD}{STAT}to nearby zombies on impact<lf>{SHORTLINE}<lf>{FLAVOR}Everybody likes and respects Torchwood. <lf>They like him for his integrity, for his <lf>steadfast friendship, for his ability to <lf>greatly maximize pea damage.
-{FLAVOR}But Torchwood has a secret:<lf>he can't read.
-Tall-nuts are heavy-duty wall plants <lf>that can't be vaulted over.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} very high<lf>{KEYWORD}Special:{STAT} can't be vaulted or jumped over<lf>{SHORTLINE}<lf>{FLAVOR}People wonder if there's a rivalry <lf>between Wall-nut and Tall-nut. Tall-nut <lf>laughs a rich, baritone laugh. "How could <lf>there be anything between us? We are <lf>brothers. If you knew what Wall-nut has <lf>done for me..."
-{FLAVOR}Tall-nut's voice trails off  and he smiles<lf>knowingly.
-Sea-shrooms are aquatic plants that <lf>shoot short ranged spores.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} short<lf>{AQUATIC}Must be planted in water<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Sea-shroom has never seen the sea. It's in <lf>his name, he's heard loads about it, but <lf>he's just never found the time. One day, <lf>though, it'll go down.
-Planterns light up an area, letting you <lf>see through fog.
-{SHORTLINE}<lf>{KEYWORD}Range:{STAT} one lane<lf>{KEYWORD}Special:{STAT} lets you see through fog<lf>{SHORTLINE}<lf>{FLAVOR}Plantern defies science. He just does. <lf>Other plants eat light and excrete <lf>oxygen; Plantern eats darkness and <lf>excretes light. Plantern's cagey about <lf>how he does it. "I'm not gonna say <lf>'sorcery,'
-{FLAVOR}I wouldn't use the term 'dark <lf>forces,' I just... I think I've said enough."
-Cactuses shoot spikes that can hit both <lf>ground and air targets.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} ground and air<lf>{SHORTLINE}<lf>{FLAVOR}She's prickly, sure, but Cactus's spikes <lf>belie a spongy heart filled with love and <lf>goodwill. She just wants to hug and be <lf>hugged. Most folks can't hang with that, <lf>but Cactus doesn't mind.
-{FLAVOR}She's been seeing an armadillo for a while<lf>and it really seems to be working out.
-Blovers blow away all balloon zombies <lf>and fog.
-{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} blows away all balloon zombies<lf>{SHORTLINE}<lf>{FLAVOR}When Blover was five he got a shiny new <lf>birthday cake. Blover made his wish, <lf>huffed and puffed, but was able to <lf>extinguish only 60% of the candles. 
-{FLAVOR}Instead of giving up, though, he's used <lf>that early defeat as a catalyst to push <lf>himself harder ever since.
-Split Peas shoot peas forward and <lf>backwards.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} forward and backwards<lf>{KEYWORD}Firing Speed:{STAT} 1x forward, 2x backwards<lf>{SHORTLINE}<lf>{FLAVOR}"Yeah, I'm a Gemini," says Split Pea. "I <lf>know, big surprise. But having two heads <lf>--or really, one head with a large <lf>head-like growth on the back-- pays off <lf>big in my line of work."
-Starfruits shoot stars in 5 directions.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} 5 directions<lf>{SHORTLINE}<lf>{FLAVOR}"Aw, man," says Starfruit. "I went to the <lf>dentist the other day and he said I have <lf>four cavities. I've got --count it-- ONE <lf>tooth! Four cavities in one tooth? <lf>How does this happen?"
-Pumpkins protect plants that are within <lf>their shells.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high<lf>{KEYWORD}Special:{STAT} can be planted over another plant<lf>{SHORTLINE}<lf>{FLAVOR}Pumpkin hasn't heard from his cousin <lf>Renfield lately. Apparently Renfield's a <lf>big star, some kind of... what was it... <lf>sports hero? Peggle Master? Pumpkin <lf>doesn't really get it. He just does his job.
-Magnet-shrooms remove helmets and <lf>other metal objects from zombies.
-{SHORTLINE}<lf>{KEYWORD}Range:{STAT} nearby zombies<lf>{KEYWORD}Special:{STAT} removes metal objects from <lf>{KEYWORD}{STAT}zombies<lf>{NOCTURNAL}Sleeps during the day<lf>{SHORTLINE}<lf>{FLAVOR}Magnetism is a powerful force. Very <lf>powerful. Sometimes it scares <lf>Magnet-shroom a little.
-{FLAVOR}He's not sure if <lf>he can handle that kind of responsibility.
+Bèo Ma Da là cây thủy sinh sẽ kéo chân<lf>thây ma gần nó nhất xuống đáy hồ.		
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tiếp xúc<lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bèo Ma Da nghĩ rằng "Tôi hoàn toàn vô hình.<lf>Tôi trốn ở đây, ngay bên dưới và không ai<lf>có thể thấy tôi."
+{FLAVOR}Đám bạn của cậu có thể nhìn thấy rõ <lf>cậu, nhưng cậu ta vẫn không đổi ý.
+Ớt Bùng Cháy sẽ tiêu diệt toàn bộ <lf>thây ma trên 1 làn.
+<lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên 1 làn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Ớt Bùng Cháy nói "XÌIIIII!!!!!!!!" Nhưng<lf>anh ta vẫn chưa bùng cháy. Chưa phải lúc<lf>này. Sắp rồi, chuẩn bị rồi, anh ta có <lf>thể cảm nhận nó, cả cuộc đời anh ta luôn<lf>hướng về nó.
+Cỏ Gai làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma dẵm phải<lf>{KEYWORD}Đặc biệt:{STAT} không bị thây ma thịt<lf>{SHORTLINE}<lf>{FLAVOR}Niềm đam mê của Cỏ Gai là khúc côn cầu.<lf>Anh ta có nguyên một hộp chứa đầy vé<lf>của cá mùa. Anh ta luôn theo dõi sát<lf>sao các cầu thủ yêu thích và anh ta<lf>thường dọn dẹp sân khúc côn cầu.
+{FLAVOR}Chỉ có điều: anh ta ghét hình tròn.
+Hạt đậu khi bay qua Gỗ Đuốc sẽ <lf>bốc cháy và gây ra sát thương gấp đôi.
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} tăng gấp đôi sát thương cho<lf>{KEYWORD}{STAT}hạt đậu bay qua, Cầu lửa sẽ gây sát<lf>{KEYWORD}{STAT}thương cho thây ma gần nhất<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người luôn yêu thích và kính trọng <lf>Gỗ Đuốc. Họ thích anh ấy vì sự chính<lf>trực, tình bạn kiên định và khả năng<lf>tăng sát thương cho hạt đậu.
+<lf>{FLAVOR}Nhưng Gỗ Đuốc có bí mật:<lf>anh ta mù chữ.
+Tường Hạt Cao là bức tường kiên cố<lf>không thể vượt qua.
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} rất cao<lf>{KEYWORD}Đặc biệt:{STAT} không thể vượt hay nhảy qua<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người thắc mắc có gì khác nhau giữa<lf>Tường Hạt và Tường Hạt Cao. Tường Hạt Cao<lf>phì cười, nói: "Làm gì có chuyện khác<lf>nhau? Chúng tôi là anh em. Các người<lf> biết Tường hạt đã làm những gì cho<lf>tôi không..."
+{FLAVOR}Giọng Tường Hạt Cao nhỏ dần và <lf>mỉm cười đầy ẩn ý.
+Nấm Thủy Thủ bắn bào tử nấm<lf>ở cự ly gần.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{AQUATIC}Cần trồng trên nước<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thủy Thủ chưa từng thấy biền, dù tên<lf>cậu ấy là Thủy Thủ. Chỉ là cậu ta chưa<lf>có thời gian, cậu ta nhất định phải đến<lf>đó vào một ngày nào đó.
+Đèn Lồng thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù.
+{SHORTLINE}<lf>{KEYWORD}Phạm vi:{STAT} một làn<lf>{KEYWORD}Đặc biệt:{STAT} cho nhìn xuyên sương mù<lf>{SHORTLINE}<lf>{FLAVOR}Đèn Lồng phản bác khoa học. Các cây<lf>khác hấp thụ ánh sáng thải ra khí<lf>ô xi; Đèn Lồng hấp thụ bóng tối sản<lf>sinh ra anh sáng. Đèn Lồng luôn giữ<lf>bí mật về cách tạo ra ánh sáng. "Tôi<lf>không nói đó là 'phép màu',
+<lf>{FLAVOR}Tôi không dùng 'tà thuật', tôi chỉ... <lf>Tôi nghĩ nói thế đủ rồi."
+Xương Rồng Bắn gai tấn công mục tiêu <lf>mặt đất lẫn trên không.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} mặt đất và trên không<lf>{SHORTLINE}<lf>{FLAVOR}Cô ấy là một người gai góc, nhưng những<lf>chiếc gai đó lại phản ánh lên tình yêu<lf>thương người vô bờ bến. Cô ấy muốn ôm<lf>mọi người. Hầu hết mọi người không<lf>thích, nhưng Xương Rồng không quan tâm.
+{FLAVOR}Cô ấy từng ôm con tatu rất lâu và có vẻ <lf>cô ấy đã thỏa lòng mong ước.
+Cỏ Lốc thổi bay toàn bộ thây ma <lf>bóng bay và sương mù.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệc:{STAT} thổi bay thây ma bóng bay<lf>{SHORTLINE}<lf>{FLAVOR}Khi Cỏ Lốc lên 5, cậu ấy nhận được<lf>một chiếc bánh kem xinh xắn,cậu đã<lf>dùng hết sức bình sinh để thổi nến,<lf>nhưng chỉ 60% số nến bị tắt.
+{FLAVOR}Tuy nhiên, thay vì bỏ cuộc, cậu ấy lấy<lf>nó l;m động lực để thúc đẩy bản thân<lf>vượt lên chính mình. 
+Đậu Hạt Chia bắn đậu phía trước<lf> lẫn phía sau.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} trước và sau<lf>{KEYWORD}Tốc độ bắn:{STAT} 1x trước, 2x sau<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Hạt Chia nói "Tôi cung Song Tử, tôi<lf>biết đó là tin chấn động. Có hai đầu<lf>vậy chứ thực ra chỉ có một cái và một<lf>cái giống đầu mọc ở phía sau giúp bảo<lf>vệ sau lưng tôi rất nhiều."
+Khế Sao bắn sao 5 hướng.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} 5 hướng<lf>{SHORTLINE}<lf>{FLAVOR}Khế Sao nói: "Tin nổi không, khi tôi đến<lf>nha sĩ thì ổng bảo tôi có 4 chiếc răng <lf>sâu, Khi tôi --đếm lại-- thì chỉ có 1<lf>chiếc răn sâu thôi! Bốn lỗ sâu răng<lf>trên một chiếc răng? Chuyện quái gì<lf>đang xảy ra vậy?"
+Giáp Bí bảo vệ cây nằm trong<lf>lớp giáp.
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{KEYWORD}Đặc biệt:{STAT} có thể trồng trên cây khác<lf>{SHORTLINE}<lf>{FLAVOR}Giáp Bí gần đây không còn nghe tin tức<lf>gì về người anh họ Renfield. Có lẽ do<lf>Renfield là idol giới trẻ, một ngôi<lf>thể thao môn... mà môn gì ấy nhỉ?<lf>Thánh Peggle? Giáp Bí không hiểu cho<lf>lắm, anh ấy chỉ quan tâm và làm tốt<lf>công việc hiện tại.
+Nấm Nam Châm loại bỏ mũ và vật thể <lf>kim loại từ thây ma.
+{SHORTLINE}<lf>{KEYWORD}Phạm vi:{STAT} thây ma gần đó<lf>{KEYWORD}Đặc biệt:{STAT} loại bộ vật thể<lf>{KEYWORD}{STAT}kim loại khỏi thây ma<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Từ tính có sức mạnh rất khủng.<lf>Đôi khi nó khiến Nấm Nam Châm<lf>sợ hãi.
+{FLAVOR}Cậu ta không chắc có thể đảm<lf>nhiệm sức mạnh này không..
 Cabbage-pults hurl cabbages at the <lf>enemy.
 {SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} lobbed<lf>{SHORTLINE}<lf>{FLAVOR}Cabbage-pult is okay with launching <lf>cabbages at zombies. It's what he's paid <lf>for, after all, and he's good at it. He just <lf>doesn't understand how the zombies get <lf>up on the roof in the first place.
 Flower Pots let you plant on the roof.
