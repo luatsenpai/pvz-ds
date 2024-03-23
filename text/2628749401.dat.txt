@@ -65,7 +65,7 @@ Giáp Bí
 Bảo vệ cây nằm trong<lf>lớp giáp.
 Nấm Nam Châm
 Loại bỏ mũ<lf>và vật thể kim loại từ thây ma.
-Hất Cải
+Hất Bắp Cải
 Hất bắp cải vào kẻ thù.
 Chậu Hoa
 Giúp trồng cây trên mái nhà.
@@ -97,7 +97,7 @@ Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>
 Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô).
 Đậu Biến Thân
 Cho phép trồng 2 loại cây giống nhau.
-Cà Phê
+Hạt Cà Phê
 Để nó lên nấm để đánh thức.
 Hạt Nổ
 Phát nổ khi va chạm.
@@ -213,17 +213,17 @@ Giáp Bí bảo vệ cây nằm trong<lf>lớp giáp.
 Nấm Nam Châm loại bỏ mũ và vật thể <lf>kim loại từ thây ma.
 {SHORTLINE}<lf>{KEYWORD}Phạm vi:{STAT} thây ma gần đó<lf>{KEYWORD}Đặc biệt:{STAT} loại bộ vật thể<lf>{KEYWORD}{STAT}kim loại khỏi thây ma<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Từ tính có sức mạnh rất khủng.<lf>Đôi khi nó khiến Nấm Nam Châm<lf>sợ hãi.
 {FLAVOR}Cậu ta không chắc có thể đảm<lf>nhiệm sức mạnh này không..
-Cabbage-pults hurl cabbages at the <lf>enemy.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal<lf>{KEYWORD}Range:{STAT} lobbed<lf>{SHORTLINE}<lf>{FLAVOR}Cabbage-pult is okay with launching <lf>cabbages at zombies. It's what he's paid <lf>for, after all, and he's good at it. He just <lf>doesn't understand how the zombies get <lf>up on the roof in the first place.
-Flower Pots let you plant on the roof.
-{SHORTLINE}<lf>{KEYWORD}Special:{STAT} allows you to plant on the roof<lf>{SHORTLINE}<lf>{FLAVOR}"I'm a pot for planting. Yet I'm also a <lf>plant. HAS YOUR MIND EXPLODED YET?"
-Kernel-pults fling corn kernels and <lf>butter at zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} light (kernel), normal (butter)<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} butter immobilizes zombies<lf>{SHORTLINE}<lf>{FLAVOR}Kernel-Pult is the eldest of the Pult <lf>brothers. Of the three of them, Kernel is <lf>the only one who consistently remembers <lf>the others' birthdays. He bugs them about <lf>it a little, too.
-Use Coffee Beans to wake up sleeping <lf>mushrooms.
-{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} single use, instant<lf>{KEYWORD}Special:{STAT} can be planted over another <lf>{KEYWORD}{STAT}plant, wakes up mushrooms<lf>{SHORTLINE}<lf>{FLAVOR}"Hey, guys, hey!" says Coffee Bean. "Hey! <lf>What's up? Who's that? Hey! Didja see <lf>that thing? What thing? Whoa! Lions!" <lf>Yep, Coffee Bean sure does get excited.
-Garlic diverts zombies into other lanes.
-{SHORTLINE}<lf>{KEYWORD}Usage:{STAT} on contact<lf>{KEYWORD}Special:{STAT} diverts zombies into other lanes<lf>{SHORTLINE}<lf>{FLAVOR}Lane-diversion isn't just Garlic's <lf>profession. It's his passion. He carries an <lf>advanced Doctorate in Redirection from <lf>the Brussels University. He'll talk all day <lf>about lane vectors and repulse arrays.
-{FLAVOR}He even pushes things into alternate<lf>avenues at home. Somehow his wife puts<lf>up with it.
+Hất Bắp Cải hất bắp cải vào kẻ thù.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{SHORTLINE}<lf>{FLAVOR}Hất Bắp Cải không phàn nàn gì với việc ném <lf>bắp cải vào thây ma, vì anh ta được thuê<lf>làm việc đó và anh ta làm rất tốt. Chỉ là <lf>anh ta không thể hiễu bằng cách nào mà<lf>thây ma leo được lên nóc nhà.
+Chậu Hoa giúp trồng cây trên mái nhà.
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} Giúp trồng cây trên mái nhà<lf>{SHORTLINE}<lf>{FLAVOR}"Tôi là chậu cây để trồng cây đồng<lf>thời cũng là cây. NỔ NÃO CHƯA?"
+Hất Bắp hất hạt bắp và bơ<lf>vào thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát Thương:{STAT} nhẹ (hạt bắp), thường (bơ)<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{KEYWORD}Đặc biệt:{STAT} bơ làm bất động thay ma<lf>{SHORTLINE}<lf>{FLAVOR}Hất Bắp là anh cả trong dòng họ Hất.<lf>Trong ba anh em, Hất Bắp là người duy<lf>nhất nhớ sinh nhật của mọi người. Đôi<lf>khi mọi người cảm thấy phiền vì điều<lf>này.
+Dùng Hạt Cà Phê để đánh thức <lf>nấm đang ngủ.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} có thể trồng trên cây <lf>{KEYWORD}{STAT}khác, đánh thức nấm<lf>{SHORTLINE}<lf>{FLAVOR}Hạt Cà Phê  nói: "Ê, ê mấy ông! Xem kìa!<lf>Cái gì thế? Đó là ai? Ê! Ông có thấy nó <lf>không? Nó là gì? Quào! Là Sư tử!" Ừm,<lf>Hạt Cà Phê hẳn rất phấn khích.
+Tỏi Xa Lánh khiến thây ma <lf>đi vào làn khác.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} khi tiếp xúc<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma đi vào làn khác<lf>{SHORTLINE}<lf>{FLAVOR}Điều hướng không chỉ là nghề của Tỏi Xa<lf>Lánh. Mà còn là đam mê. Anh ta có bằng<lf>Tiến Sĩ cấp cao tại Đại Học Bôn Ba. Anh<lf>ta có thể dành cả ngày để luyên thuyên<lf>véc tơ điều hướng và mảng đẩy lui.
+{FLAVOR}Anh ta còn điều hướng khi ở nhà nữa.<lf>Nhưng bằng cách nào đó vợ anh ta có<lf>thể chịu được.
 Umbrella Leaves protect nearby plants <lf>from bungees and catapults.
 {SHORTLINE}<lf>{KEYWORD}Special:{STAT} protects adjacent plants from <lf>{KEYWORD}{STAT}bungees and catapults<lf>{SHORTLINE}<lf>{FLAVOR}"SPROING!" says Umbrella Leaf. "Didja <lf>like that? I can do it again. SPROING! <lf>Woo! That's me popping up to protect <lf>stuff around me. Yeah. Just like that. <lf>EXACTLY like that. Believe it."
 Marigolds give you silver and gold coins.
