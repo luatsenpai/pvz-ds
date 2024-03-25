@@ -76,7 +76,7 @@ Khiến thây ma đi vào làn khác.
 Cây Tản Ô
 Bảo vệ cây ở gần khỏi<lf>người nhện và máy ném.
 Hoa Kim Tiền
-Sản sinh ra đồng bạc và vàng.
+Sản sinh ra xu bạc và vàng.
 Hất Dưa
 Gây sát thương lớn cho<lf>một nhóm thây ma.
 Đậu Lục Quân
@@ -203,7 +203,7 @@ Xương Rồng Bắn gai tấn công mục tiêu <lf>mặt đất lẫn trên kh
 {FLAVOR}Cô ấy từng ôm con tatu rất lâu và có vẻ <lf>cô ấy đã thỏa lòng mong ước.
 Cỏ Lốc thổi bay toàn bộ thây ma <lf>bóng bay và sương mù.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệc:{STAT} thổi bay thây ma bóng bay<lf>{SHORTLINE}<lf>{FLAVOR}Khi Cỏ Lốc lên 5, cậu ấy nhận được<lf>một chiếc bánh kem xinh xắn,cậu đã<lf>dùng hết sức bình sinh để thổi nến,<lf>nhưng chỉ 60% số nến bị tắt.
-{FLAVOR}Tuy nhiên, thay vì bỏ cuộc, cậu ấy lấy<lf>nó l;m động lực để thúc đẩy bản thân<lf>vượt lên chính mình. 
+{FLAVOR}Tuy nhiên, thay vì bỏ cuộc, cậu ấy lấy<lf>nó làm động lực để thúc đẩy bản thân<lf>vượt lên chính mình. 
 Đậu Hạt Chia bắn đậu phía trước<lf> lẫn phía sau.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} trước và sau<lf>{KEYWORD}Tốc độ bắn:{STAT} 1x trước, 2x sau<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Hạt Chia nói "Tôi cung Song Tử, tôi<lf>biết đó là tin chấn động. Có hai đầu<lf>vậy chứ thực ra chỉ có một cái và một<lf>cái giống đầu mọc ở phía sau giúp bảo<lf>vệ sau lưng tôi rất nhiều."
 Khế Sao bắn sao 5 hướng.
@@ -224,20 +224,20 @@ Dùng Hạt Cà Phê để đánh thức <lf>nấm đang ngủ.
 Tỏi Xa Lánh khiến thây ma <lf>đi vào làn khác.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} khi tiếp xúc<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma đi vào làn khác<lf>{SHORTLINE}<lf>{FLAVOR}Điều hướng không chỉ là nghề của Tỏi Xa<lf>Lánh. Mà còn là đam mê. Anh ta có bằng<lf>Tiến Sĩ cấp cao tại Đại Học Bôn Ba. Anh<lf>ta có thể dành cả ngày để luyên thuyên<lf>véc tơ điều hướng và mảng đẩy lui.
 {FLAVOR}Anh ta còn điều hướng khi ở nhà nữa.<lf>Nhưng bằng cách nào đó vợ anh ta có<lf>thể chịu được.
-Umbrella Leaves protect nearby plants <lf>from bungees and catapults.
-{SHORTLINE}<lf>{KEYWORD}Special:{STAT} protects adjacent plants from <lf>{KEYWORD}{STAT}bungees and catapults<lf>{SHORTLINE}<lf>{FLAVOR}"SPROING!" says Umbrella Leaf. "Didja <lf>like that? I can do it again. SPROING! <lf>Woo! That's me popping up to protect <lf>stuff around me. Yeah. Just like that. <lf>EXACTLY like that. Believe it."
-Marigolds give you silver and gold coins.
-{SHORTLINE}<lf>{KEYWORD}Special:{STAT} gives coins<lf>{SHORTLINE}<lf>{FLAVOR}Marigold spends a lot of time deciding <lf>whether to spit out a silver coin or a <lf>gold one. She thinks about it, weighs the <lf>angles. She does solid research and keeps <lf>up with current publications. That's how <lf>winners stay ahead.
-Melon-pults do heavy damage to groups <lf>of zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Special:{STAT} melons damage nearby enemies on <lf>{KEYWORD}{STAT}impact<lf>{SHORTLINE}<lf>{FLAVOR}There's no false modesty with Melon-pult. <lf>"Sun-for-damage, I deliver the biggest <lf>punch on the lawn," he says. "I'm not <lf>bragging. Run the numbers. You'll see."
-Gatling Peas shoot four peas at a time.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} normal (for each pea)<lf>{KEYWORD}Firing Speed:{STAT} 4x<lf>{KEYWORD}Must be planted on repeaters<lf>{SHORTLINE}<lf>{FLAVOR}Gatling Pea's parents were concerned <lf>when he announced his intention to join <lf>the military. "But honey, it's so <lf>dangerous!" they said in unison. Gatling <lf>Pea refused to budge. 
-{FLAVOR}"Life is dangerous," <lf>he replied, eyes glinting with steely <lf>conviction.
-Twin Sunflowers give twice as much sun <lf>as a normal sunflower.
-{SHORTLINE}<lf>{KEYWORD}Sun production:{STAT} double<lf>{KEYWORD}Must be planted on sunflowers<lf>{SHORTLINE}<lf>{FLAVOR}It was a crazed night of forbidden science <lf>that brought Twin Sunflower into <lf>existence. Thunder crashed overhead, <lf>strange lights flickered, even the very <lf>roaring wind seemed to hiss its angry <lf>denial. But to no avail.
-{FLAVOR}Twin Sunflower was alive, ALIVE!
-Gloom-shrooms release heavy fumes in an <lf>area around themselves.
-{SHORTLINE}<lf>{KEYWORD}Must be planted on fume-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"I've always enjoyed releasing heavy <lf>fumes," says Gloom Shroom. "I know a lot <lf>of people aren't cool with that. They say <lf>it's rude or that it smells bad. All I can <lf>say is, would you rather have your brain <lf>eaten by zombies?"
+Cây Tản Ô bảo vệ cây ở gần khỏi <lf>người nhện và máy ném.
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} bảo vệ cây ở gần khỏi<lf>{KEYWORD}{STAT}người nhện và máy ném<lf>{SHORTLINE}<lf>{FLAVOR}Cây Tản Ô nói "BUMM! Bạn thích nó <lf>không? Tôi có thể làm lần nữa. BUMM!<lf>Hú! Đó là cách tôi bảo vệ những thứ<lf>xung quanh. Ừm. Như vậy đó. CHÍNH là<lf>vậy đó. Cứ tin tưởng ở tôi."
+Hoa Kim Tiền Sản sinh ra xu bạc <lf>và vàng.
+{SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} tạo ra xu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Kim Tiền dành phần lớn thời gian để<lf>quyết định tạo ra xu bạc hay vàng. Cô ấy<lf>suy nghĩ kỹ về nó theo mọi góc độ, cân<lf>nặng. Cô ấy nghiên cứu kỹ lưỡng và luôn<lf>theo kịp xu thế. Đó là cách tạo lên<lf>chiến thắng.
+Hất Dưa gây sát thương lớn cho <lf>một nhóm thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} khủng<lf>{KEYWORD}Đặc biệt:{STAT} dưa gây sát thương cho<lf>{KEYWORD}{STAT}thây ma ở gần khi va chạm<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa không giả vờ khiêm tốn. Anh ta<lf>nói: "Cú Đấm Mặt Trời, tôi tung ra sát<lf>thương mạnh mẽ trên sân. Tôi không khoe<lf>khoạng. Không tin cứ nhìn số liệu đi."
+Đậu Lục Quân Bắn 4 đậu cùng lúc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 4x<lf>{KEYWORD}Cần trông trên Đậu Đôi<lf>{SHORTLINE}<lf>{FLAVOR}Cha mẹ của Đậu Súng Máy rất lo lắng khi<lf>anh ta muốn gia nhập quân đội. Họ đồng<lf>thanh nói: "Con yêu, nó rất nguy hiểm!".<lf>Nhưng có vẻ như Đậu Súng Máy không hề<lf>lung lay. 
+{FLAVOR}Anh ta đáp "Nguy hiểm luôn rình rập <lf>trong cuộc sống" với ánh mắt đầy lóe <lf>lên ý chí sắt đá.
+Hướng Dương Đôi sản sinh ra mặt trời <lf>gấp đôi
+{SHORTLINE}<lf>{KEYWORD}Sản lượng mặt trời:{STAT} gấp đôi<lf>{KEYWORD}Cần trồng trên Hoa Hướng Dương<lf>{SHORTLINE}<lf>{FLAVOR}Sau một đêm thí nghiệm điên rồ đã sản<lf>sinh ra Hướng Dương Đôi. Sấm sét ầm ầm<lf>trên mái nhà, những ánh sáng kỳ lạ chớp<lf>nháy, ngay cả những cơn gió giường như<lf>cũng đang gào thét đầy giận giữ. Nhưng<lf>mọi thứ đều vô ích.
+{FLAVOR}Hướng Dương Đôi vẫn SỐNG!
+Nấm Đa Diện bắn làn khói mạnh <lf>xung quanh nó
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Khói<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Đa Diện nói: "Tôi bắn ra những làn<lf>khói mạnh mẽ! Tôi biết nhiều người không<lf>thích nó cho lắm. Hó nói việc đó thật thô<lf>lỗ và hôi nữa. Tôi chỉ nhẹ nhàng đáp là,<lf>vậy mọi người muốn bọn thây ma ăn não,<lf>đúng không?"
 Cattails can attack any lane and shoot <lf>down balloon zombies too.
 {SHORTLINE}<lf>{KEYWORD}Must be planted on lily pads<lf>{SHORTLINE}<lf>{FLAVOR}"Woof!" says Cattail. "Woof woof woof! <lf>Does this confuse you? Do you expect me <lf>to say 'Meow' like a cat just because the <lf>word 'cat' is in my name and I also look <lf>like a cat? That's not how things work <lf>around here. I refuse to be pigeonholed."
 Winter Melons do heavy damage and slow <lf>groups of zombies.
