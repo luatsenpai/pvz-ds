@@ -252,12 +252,12 @@ Nhấn <A> trên Đại Bác Bắp để phóng <lf>hỏa tiễn bắp chết ch
 {SHORTLINE}<lf>{FLAVOR}Đậu Biến Thân nói với giọng khàn khàn:<lf>"Ta nhớ về cuộc chiến thây ma vào những <lf>năm 76. Vào thời đó bọn ta vẫn chưa có<lf>những thứ tốt như Đậu Hà Lan hay Ớt Bùng <lf>Cháy, bọn ta chỉ có lòng dũng cảm."
 Cỏ Gai Đá làm nổ nhiều lốp xe và gây <lf>sát thương cho thây ma đi trên nó.
 {SHORTLINE}<lf>{KEYWORD}Cần trồng trên Cỏ Gai<lf>{SHORTLINE}<lf>{FLAVOR}Có gai Đá vừa trở về sau chuyến du lịch<lf>Châu Âu. Anh ta đã có khoảng thời gian <lf>tuyệt vời, gặp gỡ những người tuyệt vời<lf>và mở mang tầm mắt. Anh ta không ngờ là <lf>họ xây nhiều bảo tàng lớn hay treo nhiều<lf>tranh bên trong. Nó khiến anh ta bất ngờ.
-Regular Garden-variety Zombie
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}This zombie loves brains. Can't get enough. <lf>Brains, brains, brains, day in and night out. <lf>Old and stinky brains? Rotten brains? <lf>Brains clearly past their prime? Doesn't <lf>matter. Regular zombie wants 'em. 
-Flag Zombie marks the arrival of a huge <lf>pile or "wave" of zombies.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Make no mistake, Flag Zombie loves brains. <lf>But somewhere down the line he also <lf>picked up a fascination with flags. Maybe <lf>it's because the flags always have brains <lf>on them. Hard to say.
-His traffic cone headpiece makes him <lf>twice as tough as normal zombies.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {640}<lf>{SHORTLINE}<lf>{FLAVOR}Conehead Zombie shuffled mindlessly <lf>forward like every other zombie.<lf>But something made him stop, made him <lf>pick up a traffic cone and stick it on his <lf>head. Oh yeah. He likes to party.
+Loại Thây Ma Bình Thường
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma thích não và cự kỳ tham lam vô độ.<lf>Nảo, não, não,Ngày lẫn đêm. Bộ não già nua<lf>và hôi hám? Bộ não đã thối rữa và mục nát?<lf>Bộ não đã trải qua thời hoàng kim? Không <lf>quan trọng. Thây Ma muốn tất. 
+Thây Ma Cầm Cờ đánh giấu cho sự <lf>xuất hiện của một "đội" quân thây ma
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Đừng hiểu lầm, Thây Ma Cầm Cờ cũng yêu não.<lf>Nhưng anh ta cũng có niềm đam mê với lá cờ.<lf>Có lẽ bởi vì lá cờ có hình bộ não trên đó<lf>chăng. Ai mà biết được chứ.
+Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma bình thường. 
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
 His bucket hat makes him extremely <lf>resistant to damage.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1370}<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Buckethead Zombie always wore a bucket. <lf>Part of it was to assert his uniqueness <lf>in an uncaring world. Mostly he just forgot <lf>it was there in the first place.
 Pole Vaulting Zombie vaults with a pole.
