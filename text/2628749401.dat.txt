@@ -79,20 +79,20 @@ Hoa Kim Tiền
 Sản sinh ra xu bạc và vàng.
 Hất Dưa
 Gây sát thương lớn cho<lf>một nhóm thây ma.
-Đậu Lục Quân
+Đậu Súng Máy
 Bắn 4 đậu cùng lúc<lf>(cần Đậu Đôi).
 Hướng Dương Đôi
 Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương).
 Nấm Đa Diện
 Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói).
-Bèo Đuôi Mèo
-Tất công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen).
+Cỏ Đuôi Mèo
+Tấn công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen).
 Hất Dưa Băng
 Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa).
 Nấm Hút Kim
 Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm).
 Cỏ Gai Đá
-Làm nổ nhiều lốp xe và gây sát thương cho thây ma đi trên nó<lf>(cần Cỏ Gai).
+Làm nổ nhiều lốp xe và gây sát <lf>thương cho thây ma đi trên nó<lf>(cần Cỏ Gai).
 Đại Bác Bắp
 Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô).
 Đậu Biến Thân
@@ -230,28 +230,28 @@ Hoa Kim Tiền Sản sinh ra xu bạc <lf>và vàng.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} tạo ra xu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Kim Tiền dành phần lớn thời gian để<lf>quyết định tạo ra xu bạc hay vàng. Cô ấy<lf>suy nghĩ kỹ về nó theo mọi góc độ, cân<lf>nặng. Cô ấy nghiên cứu kỹ lưỡng và luôn<lf>theo kịp xu thế. Đó là cách tạo lên<lf>chiến thắng.
 Hất Dưa gây sát thương lớn cho <lf>một nhóm thây ma.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} khủng<lf>{KEYWORD}Đặc biệt:{STAT} dưa gây sát thương cho<lf>{KEYWORD}{STAT}thây ma ở gần khi va chạm<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa không giả vờ khiêm tốn. Anh ta<lf>nói: "Cú Đấm Mặt Trời, tôi tung ra sát<lf>thương mạnh mẽ trên sân. Tôi không khoe<lf>khoạng. Không tin cứ nhìn số liệu đi."
-Đậu Lục Quân Bắn 4 đậu cùng lúc.
+Đậu Súng Máy Bắn 4 đậu cùng lúc.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 4x<lf>{KEYWORD}Cần trông trên Đậu Đôi<lf>{SHORTLINE}<lf>{FLAVOR}Cha mẹ của Đậu Súng Máy rất lo lắng khi<lf>anh ta muốn gia nhập quân đội. Họ đồng<lf>thanh nói: "Con yêu, nó rất nguy hiểm!".<lf>Nhưng có vẻ như Đậu Súng Máy không hề<lf>lung lay. 
 {FLAVOR}Anh ta đáp "Nguy hiểm luôn rình rập <lf>trong cuộc sống" với ánh mắt đầy lóe <lf>lên ý chí sắt đá.
 Hướng Dương Đôi sản sinh ra mặt trời <lf>gấp đôi
 {SHORTLINE}<lf>{KEYWORD}Sản lượng mặt trời:{STAT} gấp đôi<lf>{KEYWORD}Cần trồng trên Hoa Hướng Dương<lf>{SHORTLINE}<lf>{FLAVOR}Sau một đêm thí nghiệm điên rồ đã sản<lf>sinh ra Hướng Dương Đôi. Sấm sét ầm ầm<lf>trên mái nhà, những ánh sáng kỳ lạ chớp<lf>nháy, ngay cả những cơn gió giường như<lf>cũng đang gào thét đầy giận giữ. Nhưng<lf>mọi thứ đều vô ích.
 {FLAVOR}Hướng Dương Đôi vẫn SỐNG!
-Nấm Đa Diện bắn làn khói mạnh <lf>xung quanh nó
+Nấm Đa Diện bắn làn khói mạnh <lf>xung quanh nó.
 {SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Khói<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Đa Diện nói: "Tôi bắn ra những làn<lf>khói mạnh mẽ! Tôi biết nhiều người không<lf>thích nó cho lắm. Hó nói việc đó thật thô<lf>lỗ và hôi nữa. Tôi chỉ nhẹ nhàng đáp là,<lf>vậy mọi người muốn bọn thây ma ăn não,<lf>đúng không?"
-Cattails can attack any lane and shoot <lf>down balloon zombies too.
-{SHORTLINE}<lf>{KEYWORD}Must be planted on lily pads<lf>{SHORTLINE}<lf>{FLAVOR}"Woof!" says Cattail. "Woof woof woof! <lf>Does this confuse you? Do you expect me <lf>to say 'Meow' like a cat just because the <lf>word 'cat' is in my name and I also look <lf>like a cat? That's not how things work <lf>around here. I refuse to be pigeonholed."
-Winter Melons do heavy damage and slow <lf>groups of zombies.
-{SHORTLINE}<lf>{KEYWORD}Damage:{STAT} very heavy<lf>{KEYWORD}Range:{STAT} lobbed<lf>{KEYWORD}Firing Speed:{STAT} 1/2x<lf>{KEYWORD}Special:{STAT} melons damage and freeze nearby <lf>{KEYWORD}{STAT}enemies on impact<lf>{KEYWORD}Must be planted on melon-pults<lf>{SHORTLINE}<lf>{FLAVOR}Winter Melon tries to calm his nerves. He <lf>hears the zombies approach.
-{FLAVOR}Will he make it?<lf>Will anyone make it?
-Gold Magnets collect coins and diamonds <lf>for you.
-{SHORTLINE}<lf>{KEYWORD}Must be planted on magnet-shrooms<lf>{SHORTLINE}<lf>{FLAVOR}"How did I end up here?" asks Gold <lf>Magnet. "I was on the fast track --corner <lf>office, full benefits, stock options. I was <lf>gonna be Vice President of Midwestern <lf>Operations. Now I'm here, on this lawn, in <lf>serious danger of being eaten to death. <lf>Ooh! A coin!"
-Press <A> on the Cob Cannon to launch deadly cobs <lf>of corn.
-{SHORTLINE}<lf>{KEYWORD}Must be planted on 2 side-by-side <lf>{KEYWORD}kernel-pults<lf>{SHORTLINE}<lf>{FLAVOR}What's the deal with Cob Cannon,<lf>anyway? He went to Harvard. He<lf>practices law in a prestigious New York<lf>firm. He can explode whole areas of<lf>zombies with a single corn-launch.<lf>All this is common knowledge.
-{FLAVOR}But deep inside,<lf>what really makes him tick?
-Imitaters let you use two of the same <lf>plant during a level!
-{SHORTLINE}<lf>{FLAVOR}"I remember the Zombie Wars back in <lf>'76," says Imitater in a raspy, old-man's <lf>voice. "Back then, we didn't have all <lf>these fancy peashooters and jalapenos. <lf>All we had was guts. Guts and a spoon."
-Spikerocks pop multiple tires and damage <lf>zombies that walk over it.
-{SHORTLINE}<lf>{KEYWORD}Must be planted on spikeweeds<lf>{SHORTLINE}<lf>{FLAVOR}Spikerock just got back from a trip to <lf>Europe. He had a great time, met some <lf>wonderful people, really broadened his <lf>horizons. He never knew they made <lf>museums so big, or put so many paintings <lf>in them. That was a big surprise for him.
+Cỏ Đuôi Mèo tấn công bất kỳ làn nào <lf>và hạ thây ma bóng bay.
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Bè Lá Sen<lf>{SHORTLINE}<lf>{FLAVOR}Cỏ Đuôi Mèo nói: "Gâu! Gâu gâu gây! Nó <lf>khiến bạn bối rối sao? Bạn đang mong đợi<lf>tôi nói "Mèo méo meo mèo meo" chỉ vì tên<lf>tôi có từ 'mèo' và tôi cũng trông giống<lf>con mèo sao? Mọi thứ đều có quy luật<lf>riêng. Tôi chẳng muốn vào chuồng tý nào."
+Hất Dưa Băng gây sát thương lớn và <lf>làm chậm nhóm thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực khủng<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{KEYWORD}Tốc độ bắn:{STAT} 1/2x<lf>{KEYWORD}Đặc biệt:{STAT} dưa hấu gây sát thương lớn và<lf>{KEYWORD}{STAT}làm chậm nhóm thây ma<lf>{KEYWORD}Cần trồng trên Hất Dưa<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa Băng đang cố bình tĩnh.<lf>Anh ta đang nghe tiếng thây ma<lf>đang tiến gần.
+{FLAVOR}Liệu anh ta sẽ hành động? <lf>Liệu ai đó sẽ hành động?
+Nấm Hút Kim thu thập xu và kim cương.
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Hút Kim hỏi: "Tại sao tôi lại ở đây?<lf>Tôi đang trên đà thăng tiến và có văn phòng<lf>ở mặt tiền, hưởng phúc lợi đầy đủ. Tôi sắp<lf>trờ thành Phó Chủ Tịch Điều Hành Trung Tây.<lf>Và giờ tôi lại ở đây, trên cái sân này, có<lf>nguy cơ hẹo vì bị thịt. A! Là xu!"
+Nhấn <A> trên Đại Bác Bắp để phóng <lf>hỏa tiễn bắp chết chóc.
+{SHORTLINE}<lf>{KEYWORD}Cần trổng trên 2 cây Hất Ngô<lf>{KEYWORD}nằm cạnh nhau<lf>{SHORTLINE}<lf>{FLAVOR}Có chuyện gì đã xảy ra với Đại Bác Bắp<lf>vậy? Anh ta đã đậu Harvard. Anh ta làm<lf>luật sư danh tiếng cho một công ty ở<lf>New York. Anh ta có thể nổ tung một khu<lf>thấy ma chỉ với 1 lần phóng pháo bắp.<lf>Tất cả mọi người đều biết điều đó.
+{FLAVOR}Nhưng ngẫm lại thì, điều gì đã truyền <lf>cảm hứng cho anh ấy?
+Đậu Biến Thân cho phép trồng 2 loại <lf>cây giống nhau trong một màn!
+{SHORTLINE}<lf>{FLAVOR}Đậu Biến Thân nói với giọng khàn khàn:<lf>"Ta nhớ về cuộc chiến thây ma vào những <lf>năm 76. Vào thời đó bọn ta vẫn chưa có<lf>những thứ tốt như Đậu Hà Lan hay Ớt Bùng <lf>Cháy, bọn ta chỉ có lòng dũng cảm."
+Cỏ Gai Đá làm nổ nhiều lốp xe và gây <lf>sát thương cho thây ma đi trên nó.
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Cỏ Gai<lf>{SHORTLINE}<lf>{FLAVOR}Có gai Đá vừa trở về sau chuyến du lịch<lf>Châu Âu. Anh ta đã có khoảng thời gian <lf>tuyệt vời, gặp gỡ những người tuyệt vời<lf>và mở mang tầm mắt. Anh ta không ngờ là <lf>họ xây nhiều bảo tàng lớn hay treo nhiều<lf>tranh bên trong. Nó khiến anh ta bất ngờ.
 Regular Garden-variety Zombie
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}This zombie loves brains. Can't get enough. <lf>Brains, brains, brains, day in and night out. <lf>Old and stinky brains? Rotten brains? <lf>Brains clearly past their prime? Doesn't <lf>matter. Regular zombie wants 'em. 
 Flag Zombie marks the arrival of a huge <lf>pile or "wave" of zombies.
