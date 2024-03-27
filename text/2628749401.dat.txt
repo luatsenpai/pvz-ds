@@ -288,8 +288,8 @@ Thây Ma này mang lại bất ngờ bùng nổ.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} Thường {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
 Thây Ma Bóng Bay trôi nổi trên không<lf>tránh hầu hết mọi tấn công
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắt thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
-This zombie digs to bypass your defenses.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {370}<lf>{KEYWORD}Speed:{STAT} fast, then slow<lf>{KEYWORD}Special:{STAT} tunnels underground and appears <lf>{KEYWORD}{STAT}on the left side of the lawn<lf>{KEYWORD}Weakness:{STAT} split pea{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Digger Zombie spends three days a week <lf>getting his excavation permits in order.
+Thây Ma này đào xuyên qua hàng <lf>phòng thủ của bạn.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thường {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
 Pogo Zombie hops to bypass your defenses.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} hops over plants<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Sproing! Sproing! Sproing! That's the sound <lf>of a powerful and effective zombie doing <lf>what he does best.
 Bungee Zombie attacks from above.
