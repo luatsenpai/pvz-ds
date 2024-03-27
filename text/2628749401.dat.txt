@@ -259,7 +259,7 @@ Thây Ma Cầm Cờ đánh giấu cho sự <lf>xuất hiện của một "đội
 Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma bình thường. 
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
 Chiếc xô sẽ tăng sức chống chịu <lf>cho anh ta.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} Cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} nấm nam châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
 Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
 Tờ báo cụng cấp mức bảo vệ nhất định.
@@ -281,19 +281,19 @@ Thây Ma Xe Tuyết dùng băng và tuyết <lf>đè bẹp cây của bạn
 Nhóm thây ma xuất hiện gồm <lf>4 thành viên.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp (mỗi thây ma) {270}<lf>{KEYWORD}Độ trâu xe trượt:{STAT} thấp {300}<lf>{KEYWORD}Đặc biệt:{STAT} chỉ xuất hiện trên băng<lf>{SHORTLINE}<lf>{FLAVOR}Đội Xe Trượt cùng nhau cố gắng để đến<lf>đích. Họ sống cùng nhau, chia sẽ não<lf>cho nhau và luyện tập cùng nhau để<lf>trở thành một đội thây ma ăn ý.
 Thây Ma Phóng Cá Heo giỏi khai thác<lf>điểm yếu tuyến phòng thủ dưới hồ bơi.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thường {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
 Một sinh vật hiếm và bí ẩn.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} bỏ chạy sau một lúc<lf>{SHORTLINE}<lf>{FLAVOR}Người ta biết rất ít về Thây Ma Người Tuyết <lf>ngoài tên, ngày sinh, số an sinh xã hội,  <lf>quá trình học tập, kinh nghiệm làm việc <lf>trong quá khứ và sở thích ăn bánh sandwich <lf>(thịt bò nướng và Thụy Sĩ).
 Thây Ma này mang lại bất ngờ bùng nổ.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} Thường {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
 Thây Ma Bóng Bay trôi nổi trên không<lf>tránh hầu hết mọi tấn công
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắt thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
 Thây Ma này đào xuyên qua hàng <lf>phòng thủ của bạn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thường {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
-Pogo Zombie hops to bypass your defenses.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} hops over plants<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Sproing! Sproing! Sproing! That's the sound <lf>of a powerful and effective zombie doing <lf>what he does best.
-Bungee Zombie attacks from above.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {400}<lf>{KEYWORD}Special:{STAT} descends from the sky and steals <lf>{KEYWORD}{STAT}a plant<lf>{SHORTLINE}<lf>{FLAVOR}Bungee Zombie loves to take risks. After <lf>all, what's the point of being dead if you <lf>don't live a little?
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
+Thây Ma Pogo nhảy qua hàng phòng thủ <lf>của bạn.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Xoạch! Xoạch! Xoạch! Đó là âm thanh mạnh<lf>mẽ và đên cuồn do thây ma này gây ra! Anh <lf>ta làm việc này rất tốt.
+Thây Ma Người Nhện tấn công từ <lf>trên không
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {400}<lf>{KEYWORD}Đặc biệt:{STAT} xuất hiện từ trên trời<lf>{KEYWORD}{STAT}và chôm cây<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Người Nhện thích những trò chơi<lf>mạo hiểm, suy cho cùng thì tại sao phải<lf>sợ chết khi bản thân không còn sống nữa?
 Ladder Zombie climbs over obstacles.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Ladder Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow <lf>{KEYWORD}{STAT}(after placing ladder)<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He picked the ladder up for $8.99.
 Catapult Zombie operates heavy <lf>machinery.
