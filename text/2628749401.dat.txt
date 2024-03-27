@@ -260,10 +260,10 @@ Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma b�
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
 Chiếc xô sẽ tăng sức chống chịu <lf>cho anh ta.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} Cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} nấm nam châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
-Pole Vaulting Zombie vaults with a pole.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then normal (after jump)<lf>{KEYWORD}Special:{STAT} jumps the first plant he runs into<lf>{SHORTLINE}<lf>{FLAVOR}Some zombies take it further, aspire more, <lf>push themselves beyond the <lf>normal into greatness.<lf>That's Pole Vaulting Zombie<lf>right there. That is so him.
-His newspaper provides limited defense.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Newspaper Toughness:{STAT} low {150}<lf>{KEYWORD}Speed:{STAT} normal, then fast (after losing <lf>{KEYWORD}{STAT}newspaper)<lf>{SHORTLINE}<lf>{FLAVOR}Newspaper Zombie was *this* close to <lf>finishing his sudoku puzzle. No wonder he's <lf>freaking out.
+Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
+Tờ báo cụng cấp mức bảo vệ nhất định.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu tờ báo:{STAT} thấp {150}<lf>{KEYWORD}Tốc độ:{STAT} thường, nhanh (sau khi<lf>{KEYWORD}{STAT}mất tờ báo)<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đọc Gần như đã giải được câu đố<lf>sudoku. tại sao anh ta lại tức giận vậy<lf>chứ.
 His screen door is an effective shield.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Screen Door Toughness:{STAT} high {1100}<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He got his screen door from the last <lf>inexpertly defended home he visited,<lf>after he ATE THE HOMEOWNER'S BRAINS.
 Football Zombie makes the big plays.
