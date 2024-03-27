@@ -118,7 +118,7 @@ Thây Ma<lf>Phao Vịt
 Thây Ma Thợ Lặn
 Thây Ma Xe Tuyết
 Đội Xe Trượt
-Thây Ma<lf>Phóng Cá
+Thây Ma<lf>Phóng Cá Heo
 Thây Ma<lf>Bất Ngờ
 Thây Ma Bóng Bay
 Thây Ma Thợ Mỏ
@@ -267,7 +267,7 @@ Tờ báo cụng cấp mức bảo vệ nhất định.
 Cánh cửa là một tấm khiên hiệu quả.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu cửa lưới:{STAT} cao {1100}<lf>{KEYWORD}Điểm yếu:{STAT} Nấm Khói{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Anh ta lấy được cánh cửa sau lần ghé<lf>qua một nhà có phòng thủ lỏng lẻo,<lf>sau khi sơi tái NÃO CỦA CHỦ NHÀ.
 Thây Ma Cầu Thủ luôn tạo ra <lf>sự bức phá.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực khủng {1670}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Trên sân, Thây Ma Cầu thủ luôn phát huy<lf>110%. Anh ta là người chơi tốt ở tấn<lf>công lẫn phòng ngự. Chỉ có điều anh ta<lf>không biết bóng bầu dục là gì.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực cao {1670}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Trên sân, Thây Ma Cầu thủ luôn phát huy<lf>110%. Anh ta là người chơi tốt ở tấn<lf>công lẫn phòng ngự. Chỉ có điều anh ta<lf>không biết bóng bầu dục là gì.
 Bất kỳ sự giống nhau nào giữa Thây Ma<lf>Nhảy và Thây Ma hay người khác thì<lf>chỉ là trùng hợp ngẫu nhiên.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề," đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
 Nhóm thây ma này thường xuất hiện gồm<lf>4 thây ma sau khi được Thây Ma Nhảy<lf>triệu hồi
@@ -279,15 +279,15 @@ Thây Ma Thợ Lặn có thể lặn dưới nước.
 Thây Ma Xe Tuyết dùng băng và tuyết <lf>đè bẹp cây của bạn
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} đè bẹp cây, để lại đường băng<lf>{SHORTLINE}<lf>{FLAVOR}Đừng nhầm lẫn tôi với máy tạo tuyết hiệu<lf>Bông Tuyết. Bông Tuyết và hình ảnh máy<lf>tạo tuyết là thương hiệu đăng ký bởi<lf>Frank J, Zamboni & Co, Inc,. và "Thây Ma <lf>Xe Tuyết được cấp phép sử dụng nó. Nếu<lf>có nhu cầu làm lạnh mà không liên quan<lf>tới thây ma, hãy truy cập<lf>www.zamboni.com!
 Nhóm thây ma xuất hiện gồm <lf>4 thành viên.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low (each zombie) {270}<lf>{KEYWORD}Bobsled Toughness:{STAT} low {300}<lf>{KEYWORD}Special:{STAT} only appears on ice<lf>{SHORTLINE}<lf>{FLAVOR}Zombie Bobsled Team worked hard to get <lf>where they are. They live together, eat <lf>brains together and train together to <lf>become a cohesive zombie unit.
-Dolphin Rider Zombies use dolphins to <lf>exploit weaknesses in your pool defense.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow (after jump)<lf>{KEYWORD}Special:{STAT} jumps over the first plant he runs <lf>{KEYWORD}{STAT}into<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}The dolphin is also a zombie.
-A rare and curious creature.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} runs away after a short while<lf>{SHORTLINE}<lf>{FLAVOR}Little is known about the Zombie Yeti <lf>other than his name, birth date, social <lf>security number, educational history, past <lf>work experience and sandwich preference <lf>(roast beef and Swiss).
-This zombie carries an explosive surprise.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYWORD}Special:{STAT} jack-in-the-box explodes<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}This zombie shivers, not because he's cold <lf>but because he's crazy.
-Balloon Zombie floats above the fray, <lf>immune to most attacks.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} flying<lf>{KEYWORD}Weakness:{STAT} cactus and blover<lf>{SHORTLINE}<lf>{FLAVOR}Balloon Zombie really lucked out. <lf>The balloon thing really works and none of <lf>the other zombies have picked up on it.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp (mỗi thây ma) {270}<lf>{KEYWORD}Độ trâu xe trượt:{STAT} thấp {300}<lf>{KEYWORD}Đặc biệt:{STAT} chỉ xuất hiện trên băng<lf>{SHORTLINE}<lf>{FLAVOR}Đội Xe Trượt cùng nhau cố gắng để đến<lf>đích. Họ sống cùng nhau, chia sẽ não<lf>cho nhau và luyện tập cùng nhau để<lf>trở thành một đội thây ma ăn ý.
+Thây Ma Phóng Cá Heo giỏi khai thác<lf>điểm yếu tuyến phòng thủ dưới hồ bơi.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thường {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
+Một sinh vật hiếm và bí ẩn.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} bỏ chạy sau một lúc<lf>{SHORTLINE}<lf>{FLAVOR}Người ta biết rất ít về Thây Ma Người Tuyết <lf>ngoài tên, ngày sinh, số an sinh xã hội,  <lf>quá trình học tập, kinh nghiệm làm việc <lf>trong quá khứ và sở thích ăn bánh sandwich <lf>(thịt bò nướng và Thụy Sĩ).
+Thây Ma này mang lại bất ngờ bùng nổ.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} Thường {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
+Thây Ma Bóng Bay trôi nổi trên không<lf>tránh hầu hết mọi tấn công
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắt thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
 This zombie digs to bypass your defenses.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {370}<lf>{KEYWORD}Speed:{STAT} fast, then slow<lf>{KEYWORD}Special:{STAT} tunnels underground and appears <lf>{KEYWORD}{STAT}on the left side of the lawn<lf>{KEYWORD}Weakness:{STAT} split pea{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Digger Zombie spends three days a week <lf>getting his excavation permits in order.
 Pogo Zombie hops to bypass your defenses.
