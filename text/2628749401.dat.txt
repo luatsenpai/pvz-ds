@@ -111,7 +111,7 @@ Thây Ma<lf>Đội Xô
 Thây Ma<lf>Phóng Lao
 Thây Ma Đọc Báo
 Thây Ma<lf>Ôm Cửa
-Thây Ma Bóng Đá
+Thây Ma Cầu Thủ
 Thây Ma Nhảy
 Thây Ma Phụ Đạo
 Thây Ma<lf>Phao Vịt
@@ -264,21 +264,21 @@ Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
 Tờ báo cụng cấp mức bảo vệ nhất định.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu tờ báo:{STAT} thấp {150}<lf>{KEYWORD}Tốc độ:{STAT} thường, nhanh (sau khi<lf>{KEYWORD}{STAT}mất tờ báo)<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đọc Gần như đã giải được câu đố<lf>sudoku. tại sao anh ta lại tức giận vậy<lf>chứ.
-His screen door is an effective shield.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Screen Door Toughness:{STAT} high {1100}<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He got his screen door from the last <lf>inexpertly defended home he visited,<lf>after he ATE THE HOMEOWNER'S BRAINS.
-Football Zombie makes the big plays.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} very high {1670}<lf>{KEYWORD}Speed:{STAT} fast<lf>{KEYMETAL}Weakness:{METAL} magnet-shroom<lf>{SHORTLINE}<lf>{FLAVOR}Football Zombie gives 110 percent <lf>whenever he's on the field. He's a team <lf>player who delivers both offensively and <lf>defensively.<lf>He has no idea what a football is.
-Any resemblance between Dancing Zombie <lf>and persons living or dead is purely <lf>coincidental.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Special:{STAT} summons back-up dancers<lf>{SHORTLINE}<lf>{FLAVOR}Dancing Zombie's latest album, <lf>"GrarrBRAINSarblarbl," is already rocketing <lf>up the undead charts.
-These zombies appear in sets of four <lf>whenever Dancing Zombie rocks out.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Backup Dancer Zombie spent six years <lf>perfecting his art at the Chewliard <lf>Performing Arts School in Zombie <lf>New York City.
-The ducky tube allows this zombie<lf>to float on water.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}It takes a certain kind of zombie to be a <lf>Ducky Tuber. Not every zombie can handle <lf>it. Some crack. They can't take it. They <lf>walk away and give up on brains forever.
-Snorkel zombies can swim underwater.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{KEYWORD}Special:{STAT} submerges to avoid attacks<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}Zombies don't breathe.<lf>They don't need air.<lf>So why does Snorkel Zombie need<lf>a snorkel to swim underwater?<lf>Answer: peer pressure.
-The Zomboni applies ice, steam and <lf>pressure to your plants.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} high {1350}<lf>{KEYWORD}Special:{STAT} crushes plants, leaves an ice trail<lf>{SHORTLINE}<lf>{FLAVOR}Not to be mistaken for a Zamboni® brand <lf>ice resurfacing machine.  Zamboni® and <lf>the image of the ice-resurfacing machine <lf>are registered trademarks of Frank J. <lf>Zamboni & Co., Inc., and "Zomboni" is used<lf>with permission.<lf>For all your non-zombie-related ice<lf>resurfacing needs, visit www.zamboni.com!
-These zombies appear in teams of four.
+Cánh cửa là một tấm khiên hiệu quả.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu cửa lưới:{STAT} cao {1100}<lf>{KEYWORD}Điểm yếu:{STAT} Nấm Khói{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Anh ta lấy được cánh cửa sau lần ghé<lf>qua một nhà có phòng thủ lỏng lẻo,<lf>sau khi sơi tái NÃO CỦA CHỦ NHÀ.
+Thây Ma Cầu Thủ luôn tạo ra <lf>sự bức phá.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực khủng {1670}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Trên sân, Thây Ma Cầu thủ luôn phát huy<lf>110%. Anh ta là người chơi tốt ở tấn<lf>công lẫn phòng ngự. Chỉ có điều anh ta<lf>không biết bóng bầu dục là gì.
+Bất kỳ sự giống nhau nào giữa Thây Ma<lf>Nhảy và Thây Ma hay người khác thì<lf>chỉ là trùng hợp ngẫu nhiên.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề," đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
+Nhóm thây ma này thường xuất hiện gồm<lf>4 thây ma sau khi được Thây Ma Nhảy<lf>triệu hồi
+{SHORTLINE}<lf>{KEYWORD}Độ trạu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Phụ Đạo đã mất 6 năm để tốt<lf>nghiệp tại trường Sân Khấu Điện Ảnh<lf>tại Thành Phố New York Thây Ma.
+Phao vịt giúp thây ma này nổi <lf>trên nước
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{AQUATIC}Chỉ xuất hiện ở hồ bơi<lf>{SHORTLINE}<lf>{FLAVOR}Chỉ có vài thây ma mới có thể dùng được<lf>Phao Vịt. Không phải thây ma nào cũng <lf>dùng được. Vài cái đã vỡ vì họ không kiểm<lf>soát được nó, sau đó rời đi và từ bỏ việc<lf>ăn não mãi mãi.
+Thây Ma Thợ Lặn có thể lặn dưới nước.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} lặn để tránh tấn công<lf>{AQUATIC}Chỉ xuất hiện ở hồ bơi<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma không cần thở.<lf>Chúng không cần không khí.<lf>Vậy tại sao Thây Ma Thợ Lặn lại<lf>đeo đồ lặn khi lặn?<lf>Trả lời: áp lực không khí.
+Thây Ma Xe Tuyết dùng băng và tuyết <lf>đè bẹp cây của bạn
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} đè bẹp cây, để lại đường băng<lf>{SHORTLINE}<lf>{FLAVOR}Đừng nhầm lẫn tôi với máy tạo tuyết hiệu<lf>Bông Tuyết. Bông Tuyết và hình ảnh máy<lf>tạo tuyết là thương hiệu đăng ký bởi<lf>Frank J, Zamboni & Co, Inc,. và "Thây Ma <lf>Xe Tuyết được cấp phép sử dụng nó. Nếu<lf>có nhu cầu làm lạnh mà không liên quan<lf>tới thây ma, hãy truy cập<lf>www.zamboni.com!
+Nhóm thây ma xuất hiện gồm <lf>4 thành viên.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low (each zombie) {270}<lf>{KEYWORD}Bobsled Toughness:{STAT} low {300}<lf>{KEYWORD}Special:{STAT} only appears on ice<lf>{SHORTLINE}<lf>{FLAVOR}Zombie Bobsled Team worked hard to get <lf>where they are. They live together, eat <lf>brains together and train together to <lf>become a cohesive zombie unit.
 Dolphin Rider Zombies use dolphins to <lf>exploit weaknesses in your pool defense.
 {SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow (after jump)<lf>{KEYWORD}Special:{STAT} jumps over the first plant he runs <lf>{KEYWORD}{STAT}into<lf>{AQUATIC}Only appears in the pool<lf>{SHORTLINE}<lf>{FLAVOR}The dolphin is also a zombie.
