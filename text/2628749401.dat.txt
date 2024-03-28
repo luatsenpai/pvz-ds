@@ -358,28 +358,28 @@ Tôi ghét đám người nhện đó!!! {SCREAM2}
 Tôi ghét chúng!!
 Ghét sự dai dẳng của chúng!
 Trả thù thôi!
-A-Whoop-a-dee-doo! Đám đần đó đến rồi!
-Hey, you've collected {MONEY} in coins so far!
-When you collect {UPGRADE_COST},<lf>I'll sell you something<lf>really neat-o!
-Hey! Wanna buy an extra seed slot?
-It'll cost you {UPGRADE_COST}, but you'll be able to choose 7 seeds per level instead of 6!
-{NO_CLICK}How's that sound?
-All right! And hey, when you save up to {UPGRADE_COST}, I'll sell you the 8-seed slot upgrade!
-Check you later!
-Bummer, dude!
-Hey! Wanna buy an extra seed slot?
-It'll cost you {UPGRADE_COST},<lf>but you'll be able to<lf>choose 8 seeds per level<lf>instead of 7!
-{NO_CLICK}How's that sound?
-All right!
-Bummer, dude!
-Upgrade to {SLOTS} seed slots?
-Man, those zombies just keep a-comin'!
-This time around, I wanna pick some seeds for you!
-I choose... these three!
-{NO_CLICK}I'll give you ${SELL_PRICE}<lf>for that {PLANT_TYPE}!
-{NO_SOUND}{NO_CLICK}Plant these on your<lf>repeaters to turn them<lf>into gatling peas!<lf>Gatling peas shoot four<lf>peas at a time!
-{NO_SOUND}{NO_CLICK}Plant these on your sunflowers to turn them into twin sunflowers! Twin sunflowers give twice as much sun as a sunflower!
-{NO_SOUND}{NO_CLICK}Plant these on your fume-shrooms to turn them into gloom-shrooms! Gloom-shrooms do rapid attacks in a small area!
+A-a-a-a! Đám đần đó đến rồi!
+Này, bạn đã kiếm được {MONEY} xu rồi!
+Khi thu thập đủ {UPGRADE_COST},<lf>Tôi sẽ bán cho bạn thứ<lf>gì đó rất tiện lợi!
+Này! Muốn mua thêm ô hạt giống chứ?
+Nó chỉ tốn {UPGRADE_COST}, nhưng bạn sẽ  được chọn <lf>7 hạt giống thay vì 6!
+{NO_CLICK}Thấy sao hả?
+Được rồi! Và này, khi bạn kiếm được {UPGRADE_COST}, tôi sẽ bán bạn nâng cấp 8 ô hạt giống!
+Gặp lại sau!
+Thất vọng quá!
+Này! Muốn mua thêm ô hạt giống chứ?
+Nó chỉ tốn {UPGRADE_COST}, nhưng bạn sẽ  được chọn <lf>8 hạt giống thay vì 7!
+{NO_CLICK}Thấy sao hả?
+Được rồi!
+Thất vọng quá!
+Nâng cấp lên {SLOTS} ô hạt giống?
+Trời, bọn thây ma lại đến kìa!
+Lần này để tôi chọn vài cây nhé!
+Tôi chọn... ba cây!
+{NO_CLICK}Tôi sẽ trả ${SELL_PRICE}<lf>cho {PLANT_TYPE}!
+{NO_SOUND}{NO_CLICK}Trồng nó lên Đậu Đôi<lf>để biến chúng thành<lf>Đậu Súng Máy!<lf>Đậu Súng Máy sẽ bắn<lf>4 đậu cùng lúc!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Hoa Hướng Dương để biến chúng thành Hướng Dương Đôi! Hướng Dương Đôi sẽ sản sinh mặt trời gấp đôi Hoa Hướng Dương!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Khói để biến chúng thành Nấm Đa Diện! Nấm Đa Diện sẽ bắn với tốc độ nhanh trong khu vực nhỏ!
 {NO_SOUND}{NO_CLICK}Plant these on your<lf>lily pads to turn them<lf>into cattails!<lf>Cattails can attack any<lf>lane and take down<lf>balloon zombies!
 {NO_SOUND}{NO_CLICK}Plant these on your melon-pults to turn them into winter melons! Winter melons do heavy damage and slow groups of zombies!
 {NO_SOUND}{NO_CLICK}Plant these on your magnet-shrooms to turn them into gold magnets! Gold magnets collect coins and diamonds for you!
