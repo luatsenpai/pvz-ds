@@ -712,98 +712,98 @@ Màn
 GAME OVER
 Sinh tồn
 Mini-Games
-Complete 1 more mini-game to unlock
-Earn 1 more vasebreaker trophy to unlock
-Earn 1 more I, Zombie trophy to unlock
-Earn 1 more survival trophy to unlock
-Earn 10 survival trophies to unlock
-Finish adventure mode to unlock
-Survival: Day
-Survival: Night
-Survival: Pool
-Survival: Fog
-Survival: Roof
-Survival: Day (Hard)
-Survival: Night (Hard)
-Survival: Pool (Hard)
-Survival: Fog (Hard)
-Survival: Roof (Hard)
-Survival: Day (Endless)
-Survival: Night (Endless)
-Survival: Endless
-Survival: Fog (Endless)
-Survival: Roof (Endless)
-ZomBotany
-Seeing Stars
-Can You Dig It?
-Vasebreaker
-To the Left
-Third Vase
-Chain Reaction
-M is for Metal
-Scary Potter
-Hokey Pokey
-Another Chain Reaction
-Ace of Vase
-Vasebreaker Facebreaker
-Vasebreaker Endless
-Puzzle
-Portal Combat
-Beghouled
-Beghouled Twist
-Wall-nut Bowling
-Grave Danger
-I, Zombie
-Whack a Zombie
-Slot Machine
-Zombiquarium
-Big Trouble Little Zombie
-Bobsled Bonanza
-It's Raining Seeds
-Invisi-ghoul
-Air Raid
-Column Like You See 'Em
-Bungee Blitz
-Pogo Party
-Dr. Zomboss's Revenge
-Last Stand
-Art Challenge Wall-nut
-Sunny Day
-Unsodded
-Big Time
-Art Challenge Sunflower
-Zombie Nimble Zombie Quick
-Ice Level
-Zen Garden 
-High Gravity
-ZomBotany 2
-I, Zombie 2
-Wall-nut Bowling 2
-You got the Gold Sunflower Trophy
-Wow! You got all the trophies! <lf>Now it's time to play more<lf>Endless Games! And don't forget<lf>to tend your Zen Garden!
-Gold Sunflower<lf>Trophy
-Silver Sunflower<lf>Trophy
-You have defeated the Boss Zombie!
-Congratulations!  You have most triumphantly fended off the zombie<lf>attack!  Your lawn is safe... for now!
-You got a Trophy!
-Trophy
-Now you can play<lf>{MODE}!
-You've unlocked a new mini-game!
-Keep on collecting those trophies!
-Sun
-Matches
-Locked!
-Play more Adventure to <lf>unlock Survival Mode.
-Play more Adventure to <lf>unlock the Mini-games.
-Play more Adventure to <lf>unlock Puzzle Mode.
-Press <A> to Start!
-LOADING...
-Credits
-Resume Game
-Restart Level
-Select the watering can to use it!
-Press <A> on a sprout to water it! 
-Keep watering your plants<lf>when they get thirsty!
+Hoàn thành thêm 1 trò chơi nhỏ để mở khóa
+Hoàn thành thêm 1 đập bình để mở khóa
+Hoàn thành thêm 1 tôi là thây ma để mở khóa
+Hoàn thành thêm 1 cúp sinh tồn để mở khóa
+Kiếm 10 cúp sinh tồn để mở khóa
+Hoàn thành chế độ phiêu lưu để mở khóa
+Sinh tồn: Ngày
+Sinh tồn: Đêm
+Sinh tồn: Hồ bơi
+Sinh tồn: Sương mù
+Sinh tồn: Mái nhà
+Sinh tồn: Ngày (khó)
+Sinh tồn: Đêm (khó)
+Sinh tồn: Hồ bơi (khó)
+Sinh tồn: Sương mù (khó)
+Sinh tồn: Mái nhà (khó)
+Sinh tồn: Ngày (vô tận)
+Sinh tồn: Đêm (vô tận)
+Sinh tồn: Hồ bơi (vô tận)
+Sinh tồn: Sương mù (vô tận)
+Sinh tồn: Mái nhà (vô tận)
+Cây Thây Ma
+Ngắm Sao
+Chiến Tranh Ngầm
+Đập Bình
+Tới Bên Trái
+Bình Thứ Ba
+Chuỗi Phản Ứng
+Cơn Sốt Kim Loại
+Chiếc Bình Nhút Nhát
+Khoảng Khắc Kỳ Lạ
+Lại Chuỗi Phản Ứng
+Chúa Tể Hủy Diệt
+Không Hối Tiếc
+Đập Bình Vô Tận
+Câu Đố
+Trận Chiến Cổng
+Mê Cung
+Mê Cung Xoắn
+Bô-ling Tường Hạt
+Nguy Hiểm Từ Mồ
+Tôi là Thây Ma
+Đập Thây Ma
+Máy Nhân Phẩm
+Bể Cá Ma
+Rắc Rối Bé Nhỏ
+Đội Trượt Tuyết
+Mưa Nặng Hạt
+Bóng Ma Vô Hình
+Không Kích
+Cột Giống Nhau
+Người Nhện Xoắn
+Tiệc Pogo
+Ts. Zomboss Trả Thù
+Vững Chắc
+Thử Thách Tường Hạt
+Ngày Đầy Nắng
+Mảnh Đất Khô Cằn
+Thời Khắc Quyết định
+Thử Thách Hướng Dương
+Thây Ma Siêu Tốc
+Bắc Cực
+Vườn Thiền
+Trọng Lực Cao
+Cây Thây Ma 2
+Tôi là Thây Ma 2
+Bô-ling Tường Hạt 2
+Bạn nhận Cúp Hướng Dương Vàng
+Chà! Bạn đã đạt toàn bộ cúp! <lf>Giờ là lúc chơi thêm Màn Bất<lf>Tận! Và đừng quên chăm sóc<lf>Vườn Thiền nhé!
+Cúp<lf>Hướng Dương Vàng
+Cúp<lf>Hướng Dương Bạc
+Bạn đã đánh bại Trùm Thây Ma!
+Chúc mừng!  Bạn đã thành công chống lại cuộc công<lf>kích từ thây ma!  Bây giờ... khu vườn sẽ an toàn!
+Bạn nhận được Cúp!
+Cúp
+Giờ bạn có thể chơi<lf>{MODE}!
+Bạn đã mở khóa trò chơi nhỏ mới!
+Tiếp tục thu thập cúp!
+Mặt rời
+Khớp
+Khóa!
+Chơi thêm Phiêu Lưu để<lf>mở khóa Sinh Tồn.
+Chơi thêm Phiêu Lưu để<lf>mở khóa Trò Chơi Nhỏ.
+Chơi thêm Phiêu Lưu để<lf>mở khóa Câu Đố.
+Nhấn <A> để bắt đầu!
+ĐANG TẢI...
+Thông tin
+Tiếp Tục Chơi
+Đặt Lại Màn
+Chọn bình tưới để sử dụng!
+Nhấn <A> trên mầm cây để tưới! 
+Tiếp tục tưới cây<lf>khi chúng khát!
 Your plants need fertilizer to grow!<lf>Visit the shop to pick up some fertilizer!
 Now fertilize your plants and watch<lf>them grow!
 You need to fertilize both plants!<lf>Here, have some more fertilizer!
@@ -929,7 +929,7 @@ The tallness of tall-nuts earns widespread acclaim due to their effectiveness vs
 The explosive force of a cherry bomb or jalapeno is more than capable of dislodging a ladder from a Wall-nut.
 It's tempting to feed<lf>all your chocolate to<lf>Stinky the Snail.<lf>He's such a chocolate hog.<lf>But remember:<lf>Zen Garden plants<lf>like chocolate too!
 Torchwood fire is hotter than rage, but Zombonis, screen doors, ladders and catapults can take the heat.
-If you rely on upgrade plants in Survival: Endless, be acutely aware that they get more expensive the more you have on your lawn.
+If you rely on upgrade plants in Sinh tồn: Endless, be acutely aware that they get more expensive the more you have on your lawn.
 The Imps in I, Zombie seem<lf>weak. But they're speedy<lf>and great for fetching<lf>that last brain when<lf>you've cleared the rest<lf>of the opposition.
 If you enter 'trickedout,' don't be surprised if you see something wacky happen to your lawnmowers. Don’t forget to press LB RB LT RT first.  You forgot didn’t you?
 Thank you for feeding me!<lf>I'm out of new wisdom<lf>for now, but I might have<lf>more if you grow<lf>me tall enough!
@@ -1451,7 +1451,7 @@ Collect all the trophies in<lf>mini-games to get the<lf>Gold Sunflower Trophy!
 Have you tried touching the flowers on the main menu? Give it a shot! I'll wait here.
 If you've played PvZ before, you might not have checked out the minigames screen. Now's your chance!
 If your friend already<lf>has a PvZ Cartridge,<lf>when you battle them in<lf>versus mode you'll have a<lf>smoother time!
-Have you ever seen the<lf>Gargantuar with red eyes?<lf>If not, continue to play<lf>Survival: Endless.<lf>You'll get no sympathy<lf>from me if you regret it.
+Have you ever seen the<lf>Gargantuar with red eyes?<lf>If not, continue to play<lf>Sinh tồn: Endless.<lf>You'll get no sympathy<lf>from me if you regret it.
 Don't ask me about mustache mode.<lf>Seriously, don't.
 Hey, I'm 100 feet tall!<lf>You can keep feeding me if you like!
 Whoa! I'm 500 feet tall!<lf>Don't ask me about mustache mode. Don't!
