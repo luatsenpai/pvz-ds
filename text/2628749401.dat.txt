@@ -495,48 +495,48 @@ Nó sẽ thay đổi ngoại hình nhà bạn trên bảng xếp hạng!
 Làm đi trước khi tôi són ra quần!
 Whoo! Tôi rất mong cho bạn xem thứ này!
 Menu
-More zombies approaching!
-More vases incoming!<lf>Current Streak: {STREAK}
-TEMP - Dave put more vases on your lawn!<lf>{STREAK} of 5 waves cleared
-More vases incoming!<lf>{STREAK} of 3 waves cleared
-Longest<lf>Streak: {STREAK}
-Good job!<lf>Current Streak: {STREAK}
-Move over to the falling sun to collect it!
-Grave busters can only be planted on graves
-Lily pads can only be planted in water
-Tangle kelp can only be planted in water
-Sea-shrooms can only be planted in water
-Potato mines can't be planted on lily pads
-Place your wall-nut to the left<lf>of the bowling line
-Place the zombie on the right side<lf>of the line
-Place the bungee zombie<lf>on the left side of the line
-Can only be planted on repeaters
-Can only be planted on melon-pults
-Can only be planted on sunflowers
-Can only be planted on spikeweeds
-Can only be planted on a pair of kernel-pults
-Can only be planted on magnet-shrooms
-Can only be planted on fume-shrooms
-Can only be planted on lily pads
-You can only plant<lf>{SEED} seeds there
-You can only plant in flower pots
-Plant a flower pot first
-You can't plant on graves
-You can't plant on craters
-You can't plant there
-Plant a lily pad first
-Coffee beans can only be planted on<lf>sleeping mushrooms
-Spikeweeds can only be planted on<lf>solid ground
-The more sunflowers you have,<lf>the faster you can grow plants!
-The shovel needs time to refresh before<lf>digging again
-A HUGE WAVE OF ZOMBIES IS APPROACHING!
-Plant another peashooter<lf>when you have enough sun!
-Sunflowers are an extremely<lf>important plant!
-Try to plant at least 3 of them!
-Planting at least 3 sunflowers improves<lf>your chances of surviving a zombie attack!
-Try to plant at least 3 sunflowers!
-Planting sunflowers will improve your<lf>chances of surviving the zombie attack!
-Use the <L> and <R> buttons to select a seed packet!
+Nhiều thây ma đang tới!
+Nhiều bình hơn!<lf>Chuỗi hiện tại: {STREAK}
+TEMP - Dave đặt thêm bình vào sân!<lf>{STREAK} trên 5 lượt hoàn thành
+Thêm nhiều bình hơn!<lf>{STREAK} trên 3 lượt hoàn thành
+Chuỗi<lf>Lâu Nhất: {STREAK}
+Tốt lắm!<lf>Chuỗi hiện tại: {STREAK}
+Nhấn vào mặt trời đang rơi để nhặt!
+Nấm Bào Mộ chỉ có thể đặt trên mộ
+Bè Lá Sen chỉ có thể đặt trên nước
+Bèo Ma Da chỉ có thể đặt trên nước
+Nấm Thủy Thủ chỉ có thể đặt trên nước
+Mìn Khoai Tây không thể trồng trên Bè Lá Sen
+Đặt Tường Hạt phía bên trái<lf>vạch bô-ling
+Đặt thây ma bên phải<lf>vạch kẻ
+Đặt Thây Ma Người Nhện<lf>bên trái vạch kẻ
+Chỉ có thể trồng trên Đậu Đôi
+Chỉ có thể trồng trên Hất Dưa
+Chỉ có thể trồng trên Hoa Hướng Dương
+Chỉ có thể trồng trên Cỏ Gai
+Chỉ có thể trồng trên cặp Hất Ngô
+Chỉ có thể trồng trên Nấm Nam Châm
+Chỉ có thể trồng trên Nấm Khói
+Chỉ có thể trồng trên Bè Hoa Ly
+Chỉ có thể trồng<lf>{SEED} ở đây
+Chỉ có thể trồng trên Chậu Hoa
+Trồng Chậu Hoa trước
+Không thể trồng trên mộ
+Không thể trồng trên hố
+Không thể trồng ở đây
+Trồng Bè Lá Sen trước
+Đậu Cà Phê chỉ có thể trồng trên<lf>nấm đang ngủ
+Có Gai chỉ có thể trồng trên<lf>mặt đất
+Trông nhiều Hoa Hướng Dương,<lf>sẽ giúp trồng cây nhanh hơn!
+Cái xẻng cần thời gian hồi<lf>để đào lẫn nữa!
+MỘT BẦY THÂY MA ĐANG TỚI!
+Trông thêm Đậu Hà Lan<lf>khi có đủ mặt trời!
+Hoa Mặt Trời là một cây<lf>rất quan trọng!
+Thử trồng 3 cây!
+Trồng ít nhất 3 cây Hoa Hướng Dương để<lf>tăng khả năng sống sót trong các đợt tấn công!
+Thử trồng ít nhất 3 cây Hoa Hướng Dương!
+Trồng Hoa Hướng Dương để<lf>tăng khả năng sống sót trong các đợt tấn công!
+Dùng phím <L> và <R> để chọn gói hạt giống!
 Excellent! You've collected<lf>enough for your next plant!
 Press <A> on the grass to plant your seed!
 Nicely done!
