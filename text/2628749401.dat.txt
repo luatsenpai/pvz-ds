@@ -86,7 +86,7 @@ Sản sinh ra mặt trời gấp đôi<lf>(cần Hoa Hướng Dương).
 Nấm Đa Diện
 Bắn làn khói mạnh xung quanh nó<lf>(cần Nấm Khói).
 Cỏ Đuôi Mèo
-Tấn công bất kỳ làn nào và hạ thây ma bóng bay<lf>(cần Bè Lá Sen).
+Tấn công bất kỳ làn nào và hạ Thây Ma Bóng Bay<lf>(cần Bè Lá Sen).
 Hất Dưa Băng
 Gây sát thương lớn và làm chậm nhóm thây ma<lf>(cần Hất Dưa).
 Nấm Hút Kim
@@ -94,7 +94,7 @@ Thu thập đồng xu và kim cương<lf>(cần Nấm Nam Châm).
 Cỏ Gai Đá
 Làm nổ nhiều lốp xe và gây sát <lf>thương cho thây ma đi trên nó<lf>(cần Cỏ Gai).
 Đại Bác Bắp
-Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Ngô).
+Nhấn <A> để phóng hỏa tiễn bắp chết chóc<lf>(cần 2 Hất Bắp).
 Đậu Biến Thân
 Cho phép trồng 2 loại cây giống nhau.
 Hạt Cà Phê
@@ -246,7 +246,7 @@ Hất Dưa Băng gây sát thương lớn và <lf>làm chậm nhóm thây ma.
 Nấm Hút Kim thu thập xu và kim cương.
 {SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Hút Kim hỏi: "Tại sao tôi lại ở đây?<lf>Tôi đang trên đà thăng tiến và có văn phòng<lf>ở mặt tiền, hưởng phúc lợi đầy đủ. Tôi sắp<lf>trờ thành Phó Chủ Tịch Điều Hành Trung Tây.<lf>Và giờ tôi lại ở đây, trên cái sân này, có<lf>nguy cơ hẹo vì bị thịt. A! Là xu!"
 Nhấn <A> trên Đại Bác Bắp để phóng <lf>hỏa tiễn bắp chết chóc.
-{SHORTLINE}<lf>{KEYWORD}Cần trổng trên 2 cây Hất Ngô<lf>{KEYWORD}nằm cạnh nhau<lf>{SHORTLINE}<lf>{FLAVOR}Có chuyện gì đã xảy ra với Đại Bác Bắp<lf>vậy? Anh ta đã đậu Harvard. Anh ta làm<lf>luật sư danh tiếng cho một công ty ở<lf>New York. Anh ta có thể nổ tung một khu<lf>thấy ma chỉ với 1 lần phóng pháo bắp.<lf>Tất cả mọi người đều biết điều đó.
+{SHORTLINE}<lf>{KEYWORD}Cần trổng trên 2 cây Hất Bắp<lf>{KEYWORD}nằm cạnh nhau<lf>{SHORTLINE}<lf>{FLAVOR}Có chuyện gì đã xảy ra với Đại Bác Bắp<lf>vậy? Anh ta đã đậu Harvard. Anh ta làm<lf>luật sư danh tiếng cho một công ty ở<lf>New York. Anh ta có thể nổ tung một khu<lf>thấy ma chỉ với 1 lần phóng pháo bắp.<lf>Tất cả mọi người đều biết điều đó.
 {FLAVOR}Nhưng ngẫm lại thì, điều gì đã truyền <lf>cảm hứng cho anh ấy?
 Đậu Biến Thân cho phép trồng 2 loại <lf>cây giống nhau trong một màn!
 {SHORTLINE}<lf>{FLAVOR}Đậu Biến Thân nói với giọng khàn khàn:<lf>"Ta nhớ về cuộc chiến thây ma vào những <lf>năm 76. Vào thời đó bọn ta vẫn chưa có<lf>những thứ tốt như Đậu Hà Lan hay Ớt Bùng <lf>Cháy, bọn ta chỉ có lòng dũng cảm."
@@ -380,12 +380,12 @@ Tôi chọn... ba cây!
 {NO_SOUND}{NO_CLICK}Trồng nó lên Đậu Đôi<lf>để biến chúng thành<lf>Đậu Súng Máy!<lf>Đậu Súng Máy sẽ bắn<lf>4 đậu cùng lúc!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Hoa Hướng Dương để biến chúng thành Hướng Dương Đôi! Hướng Dương Đôi sẽ sản sinh mặt trời gấp đôi Hoa Hướng Dương!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Khói để biến chúng thành Nấm Đa Diện! Nấm Đa Diện sẽ bắn với tốc độ nhanh trong khu vực nhỏ!
-{NO_SOUND}{NO_CLICK}Plant these on your<lf>lily pads to turn them<lf>into cattails!<lf>Cattails can attack any<lf>lane and take down<lf>balloon zombies!
-{NO_SOUND}{NO_CLICK}Plant these on your melon-pults to turn them into winter melons! Winter melons do heavy damage and slow groups of zombies!
-{NO_SOUND}{NO_CLICK}Plant these on your magnet-shrooms to turn them into gold magnets! Gold magnets collect coins and diamonds for you!
-{NO_SOUND}{NO_CLICK}Plant these on your<lf>spikeweeds to turn<lf>them into spikerocks!<lf>Spikerocks do twice the<lf>damage and are<lf>extremely durable!
-{NO_SOUND}{NO_CLICK}Plant these on your kernel-pults to turn them into cob cannons! Press <A> on a cob cannon to launch a deadly attack!
-{NO_SOUND}{NO_CLICK}This Imitater lets you have two of the same plant during a level!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Bè Lá Sen<lf>để biến chúng thành<lf>Cỏ Đuôi Mèo! Cỏ Đuôi Mèo<lf>sẽ tấn công bất kỳ làn<lf>nào và hạ Thây Ma<lf>Bóng Bay!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Hất Dưa để biến chúng thành Hất Dưa Băng! Hất Dưa Băng gây sát thương lớn và làm chậm nhóm thây ma!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Nam Châm để biến chúng thành Nấm Hút Kim! Nấm Hút Kim sẽ thu thập đồng xu và kim cương!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Cỏ Gai<lf>để biến chúng thành<lf>Cỏ Gai Đá! Cỏ Gai Đá sẽ<lf>Làm nổ nhiều lốp xe và<lf>gây sát thương cho<lf>thây ma đi trên nó!
+{NO_SOUND}{NO_CLICK}Trồng nó trên 2 Hất Bắp canh nhau để biến chúng thành Đại Bác Bắp! Nhấn <A> để phóng hỏa tiễn bắp chết chóc!
+{NO_SOUND}{NO_CLICK}Đậu Biến Thân cho phép trồng 2 loại cây giống nhau!
 {NO_SOUND}{NO_CLICK}This extra mower will give you another line of defense after a lawn mower is used!
 {NO_SOUND}{NO_CLICK}This Marigold Sprout goes in your Zen Garden! Grow it to full-size, and it'll reward you nicely!
 {NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>7 plants per level!
