@@ -386,89 +386,89 @@ Tôi chọn... ba cây!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Cỏ Gai<lf>để biến chúng thành<lf>Cỏ Gai Đá! Cỏ Gai Đá sẽ<lf>Làm nổ nhiều lốp xe và<lf>gây sát thương cho<lf>thây ma đi trên nó!
 {NO_SOUND}{NO_CLICK}Trồng nó trên 2 Hất Bắp canh nhau để biến chúng thành Đại Bác Bắp! Nhấn <A> để phóng hỏa tiễn bắp chết chóc!
 {NO_SOUND}{NO_CLICK}Đậu Biến Thân cho phép trồng 2 loại cây giống nhau!
-{NO_SOUND}{NO_CLICK}This extra mower will give you another line of defense after a lawn mower is used!
-{NO_SOUND}{NO_CLICK}This Marigold Sprout goes in your Zen Garden! Grow it to full-size, and it'll reward you nicely!
-{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>7 plants per level!
-{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>8 plants per level!
-{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>9 plants per level!
-{NO_SOUND}{NO_CLICK}This extra seed slot<lf>will let you choose<lf>10 plants per level!
-{NO_CLICK}All twiddydinkies are<lf>priced to move!!
-{NO_CLICK}ACT NOW! I'M CRRRRRAAAZY!! {SCREAM}
-{NO_CLICK}Our prices are<lf>unbelievable!!!
-{NO_CLICK}I eat food off the floor!
-{NO_SOUND}{NO_CLICK}The Golden Watering Can lets you water several plants at once!
-{NO_SOUND}{NO_CLICK}Your Zen Garden plants need fertilizer to grow!
-{NO_SOUND}{NO_CLICK}This Phonograph lets you play music for your Zen Garden plants! It keeps them happy for an entire day!
-{NO_SOUND}{NO_CLICK}Zen Garden plants require Bug Spray from time to time! It keeps them happy for an entire day!
-{NO_SOUND}{NO_CLICK}The Gardening Glove lets you move your Zen Garden plants around!
-{NO_SOUND}{NO_CLICK}You'll need this Wheel Barrow to transport your Zen Garden plants between gardens!
-{NO_SOUND}{NO_CLICK}Stinky the Snail helps you pick up coins in your Zen Garden!
-{NO_SOUND}{NO_CLICK}These Pool Cleaners add an extra line of defense on levels with a pool!
-{NO_SOUND}{NO_CLICK}These Roof Cleaners add an extra line of defense for those difficult roof levels!
-{NO_SOUND}{NO_CLICK}This Garden Rake takes out the first zombie that steps on it! It lasts for 3 levels!
-{NO_SOUND}{NO_CLICK}This Aquarium Garden is a place you can keep your aquatic Zen Garden plants!
-{NO_SOUND}{NO_CLICK}The Tree of Wisdom will tell you valuable tips and secrets if you grow it tall enough!
-{NO_SOUND}{NO_CLICK}Purchase some tree food to grow your Tree of Wisdom nice and tall!
-{NO_SOUND}{NO_CLICK}This Mushroom Garden is a place you can keep your Zen Garden plants that fall asleep during the day!
-{NO_SOUND}{NO_CLICK}Wall-nut First Aid lets you plant fresh new wall-nuts over damaged ones!  Works for tall-nuts and pumpkins too!
-{NO_SOUND}{NO_CLICK}Get more levels, more plants, and more zombies in the full version of this game!
-{NO_SOUND}{NO_CLICK}For a low price, I'll change your house on the leaderboards screen!
-{NO_SOUND}{NO_CLICK}Normal House Blueprints let you trick out your suburban dream home on the leaderboards screen!
-{NO_SOUND}{NO_CLICK}Scary House Blueprints let you terrify your neighbors on the leaderboards screen!
-{NO_SOUND}{NO_CLICK}FuturHaus Blueprints are your spaceway to amazing on the leaderboards screen!
-{NO_SOUND}{NO_CLICK}These Trailer Blueprints may not awe your neighbors on the leaderboards screen but at least they're cheap!
-{NO_SOUND}{NO_CLICK}CLOWN HOUSE! CLOWNY-CLOWN CLOWN HOUSE! BIG SHOES!
-Hey, check it out, you found a watering can!
-In honor of this<lf>occasion I present you:<lf>Your very own Zen Garden!
-Hey, I'll even start you off with a couple of sprouts!
-Grow them to full-size, and they'll reward you nicely!
-Have fun!
-The zombies asked me to help them practice invading houses.
-I told them it'd be okay as long as no plants were harmed.
-So, I put a bunch of cardboard cut-outs on your lawn.
-Have fun!
-Uh oh, he's here.
-Better get ready.
-It's gonna be one heckuva fight!
-Listen, though, I know what his weakness is:
-You have to hit him in the pancreas!
-No, that was a different guy...
-You have to... um... kick him<lf>in the...
+{NO_SOUND}{NO_CLICK}Máy cắt cỏ bổ sung này sẽ cung cấp tuyến phòng thủ khác sau khi dùng máy cắt có.!
+{NO_SOUND}{NO_CLICK}Mầm Hoa Kim Tiền này sẽ được đưa vào Vườn Thiền! Hãy chăm sóc nó tới khi trưởng thành và nó sẽ thưởng cho bạn!
+{NO_SOUND}{NO_CLICK}Ô hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 7 cây mỗi màn!
+{NO_SOUND}{NO_CLICK}Ô hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 8 cây mỗi màn!
+{NO_SOUND}{NO_CLICK}Ô hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 9 cây mỗi màn!
+{NO_SOUND}{NO_CLICK}TÔ hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 10 cây mỗi màn!
+{NO_CLICK}Toàn bộ mặt hàng đang<lf>bày bán trên kệ!!
+{NO_CLICK}HÀNH ĐỘNG ĐÊ! TÔI ĐANG KHÙMMM ĐÂYYY! {SCREAM}
+{NO_CLICK}Giá của tôi rất<lf>ảo ma đúng không!!!
+{NO_CLICK}Tôi ăn cả thức ăn rơi trên sàn!
+{NO_SOUND}{NO_CLICK}Bình Tưới Vàng cho phép tưới nhiều cây cùng lúc!
+{NO_SOUND}{NO_CLICK}Cây trong Vườn Thiền cần phân bón để phát triển!
+{NO_SOUND}{NO_CLICK}Máy Phát này sẽ phát nhạc cho cây trong Vườn Thiền nghe. Giúp chúng vui vẻ cả ngày!
+{NO_SOUND}{NO_CLICK}Cây trồng trong Vườn Thiền thỉnh thoảng cần xịt thuốc sâu. Giúp chúng vui vẻ cả ngày!
+{NO_SOUND}{NO_CLICK}Găng Tay Làm Vườn giúp di chuyển cây trong Vườn Thiền xung quanh!
+{NO_SOUND}{NO_CLICK}Xe Cút Kít này sẽ giúp di chuyển cây giữa các vườn!
+{NO_SOUND}{NO_CLICK}Ốc Sên sẽ giúp nhặt xu trong vườn!
+{NO_SOUND}{NO_CLICK}Những Máy Dọn Hồ này sẽ thêm vào tuyến phòng thủ ở những màn hồ bơi!
+{NO_SOUND}{NO_CLICK}Những Máy Dọn Mái Nhà này sẽ thêm vào tuyến phòng thủ ở những màn mái nhà!
+{NO_SOUND}{NO_CLICK}Cây Cào Cỏ sẽ hạ gục thây ma đầu tiên dẵm phải, tồn tại trong 3 màn.
+{NO_SOUND}{NO_CLICK}Vườn Thủy Cung sẽ cho phép trồng Cây Thủy Sinh trong Vườn Thiền!
+{NO_SOUND}{NO_CLICK}Cây Trí Tuệ sẽ tiết lộ lời khuyên và bí mật qu1y giá khi nuôi nó đủ cao!
+{NO_SOUND}{NO_CLICK}Mua vài phân bón cây để bón cho Cây Trí Tuệ cao lớn và đẹp!
+{NO_SOUND}{NO_CLICK}Vườn Nấm là nơi trồng cây ngủ vào ban ngày trong Vườn Thiền
+{NO_SOUND}{NO_CLICK}Bộ Sơ Cứu Tường Hạt sẽ sửa Tường Hạt khi trồng lên Tường Hạt bị hỏng. Cũng tác dụng với Tường Hạt Cao và Giáo Bí!
+{NO_SOUND}{NO_CLICK}Mua thêm màn, cây, thây ma trong phiên bản đầy đủ
+{NO_SOUND}{NO_CLICK}Với mức giá thấp, tôi sẽ thay đổi nhà bạn trong bảng xếp hạng!
+{NO_SOUND}{NO_CLICK}Bản Vẽ Nhà Bình Thường sẽ giúp bạn flex về nhà bạn trên bảng xếp hạng!
+{NO_SOUND}{NO_CLICK}Bản Vẽ Nhà Ma sẽ dọa hàng xóm sợ mất mật trên bảng xếp hạng!
+{NO_SOUND}{NO_CLICK}Bản Vẽ FuturHaus sẽ khiến bạn vip pro trên bảng xếp hạng!
+{NO_SOUND}{NO_CLICK}Bản Vẽ Nhà Di Động này có thể không làm hàng xóm trên bảng xếp hạng ghen tỵ nhưng cũng khiến họ trông như giẻ rách!
+{NO_SOUND}{NO_CLICK}NHÀ HỀ! RẠP XIẾC TRUNG ƯƠNG! ĐÔI BỐT LỚN!
+Ây, xem này, bạn vừa tìm được bình tưới!
+Nhân dịp này, tôi trân<lf>trọng giới thiệu:<lf>Vườn Thiền của bạn!
+Ây, tôi sẽ xuất phát với vài mầm cây!
+Hãy nuôi nấng nó trưởng thành, nó sẽ trả ơn cho bạn!
+Chúc vui vẻ!
+Bọn thây ma nhờ tôi giúp chúng diễn tập xâm lược nhà.
+Tôi bảo chúng là được thôi, miễn là không có cây nào bị thương
+Vậy nên, tôi đã đặt một đống bìa cạc tông trong sân.
+Chúc vui!
+Ầu không, hắn tới rồi.
+Hãy chuẩn bị tinh thần.
+Đây sẽ là cuộc chiến khốc liệt!
+Tuy nhiên, hãy nghe đây, tôi biết điểm yếu của hắn:
+Bạn phải đánh vào điểm trọng yếu!
+Không, đây là một gã khác...
+Bạn sẽ phải... um... <lf>đá hắn...
 Hmm...
-You have to press up up down down left right...
+Bạn sẽ phải nhấn lên, lên, xuống, xuống, trái, phải...
 er...
-Wait, I remember! It's... {MOUTH_SMALL_OH}
-Greetings, neighbor!
-The name's Crazy Dave.
-But you can just call me Crazy Dave.
-Listen, I've got a surprise for you.
-But first, I'll need you to clear your lawn.
-Use your shovel and dig up those plants!
-LET THE DIGGING COMMENCE!{MOUTH_SMALL_OH} {SCREAM}
-Ok goody, now for the surprise...
-We're going BOWLING!{MOUTH_SMALL_SMILE}
-{SHOW_WALLNUT}HERE, TAKE THIS WALL-NUT!!
-Why'd I put a wall-nut in your hand?{MOUTH_SMALL_OH}
-{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}
-NOW GO! BOWL ME A WINNER!{MOUTH_BIG_SMILE} {SCREAM}
-Me and my buddy Harvey Flaxcaster used to break vases when we were bored.
-Well Harvey's outta town,<lf>so you're coming with me,<lf>Harvey #2!
-BREAK IT LIKE YOU MEAN IT, HARVEY! {SCREAM}
-Hey, welcome to the Zen Garden section of my shop!
-{SHOW_FERTILIZER}I'll give you some fertilizer for stopping by!
-Take a look around and see if there's anything else you like!
-Man, you broke those vases nice and good!
-Broke 'em like the time I broke my back digging through those trash cans!
-Here, I brought you some more vases.
-Gotta be careful about breaking them too fast, though.
-You don't wanna end up with more zombies than you can handle, huh huh.
-All right!
-This should be the last<lf>of 'em.
-Break these,<lf>and you'll be all done!
-This here is Vasebreaker.
-Some of these levels are really difficult.
-Good luck!
-Hey neighbor! Got some new items for sale!
+Khoan, Nhớ rồi! Là... {MOUTH_SMALL_OH}
+Chào hàng xóm!
+Tôi là Dave Tửng.
+Nhưng bạn có thể gọi tôi là Dave Tửng.
+Nghe đây, tôi có bất nhờ lớn cho bạn.
+Nhưng trước hết hãy dọn sân cái đã!
+Dùng xẻng và xới đám cây đó nào!
+NHẤC MÔNG LÊN ĐÀO ĐI!{MOUTH_SMALL_OH} {SCREAM}
+Tốt lắm, giờ là bất ngờ đây...
+Chúng ta sẽ chơi BÔ-LING!{MOUTH_SMALL_SMILE}
+{SHOW_WALLNUT}ĐÂY, CẦM TƯỜNG HẠT ĐI!!
+Tại sao tôi đưa bạn Tường Hạt ư?{MOUTH_SMALL_OH}
+{SHAKE}Bởi vì tôi bị KHÙMMM!!!!!{MOUTH_BIG_SMILE}
+NÀO! HÃY GIÀNH VÔ ĐỊCH!{MOUTH_BIG_SMILE} {SCREAM}
+Tôi và anh bạn Harvey Flaxcaster thường chơi đập bình mỗi lúc buồn chán!
+Mà Harvey vừa rời thị trấn,<lf>bậy nên bạn sẽ chơi với tôi,<lf>Harvey #2!
+ĐẬP NÓ THEO CÁCH CỦA BẠN, HARVEY! {SCREAM}
+Chào mừng tới ggian hàng Vườn Thiền!
+{SHOW_FERTILIZER}Tôi sẽ bán cho bạn ít phân bón!
+Hãy quan sát xem có gì bạn cần không nhé!
+Trời, bạn đập mấy cái bình nghệ phết!
+Nghệ như cái lần tôi đập thùng rác đến gãy lưng!
+Đây, tôi đem thêm vài bình đến đây.
+Tuy nhiên, hãy cận thận và đừng phá nhanh quá nhé!
+Bạn không muốn nhận kết cục có nhiều thây ma ngoài tầm kiểm soát đâu, huh huh.
+Được rồi!
+Đây có lẽ là<lf>số cuối cùng rồi.
+Đập chúng,<lf>và bạn sẽ xong màn này!
+Đây là Đập Bình.
+Vài màn sẽ khó lắm đấy.
+Chýc may mắn!
+Chào hàng xóm! Quẹo lựa vài món giảm giá đê!
 {SHOW_TREE_FOOD}Hey {PLAYER_NAME}! This here is your Tree of Wisdom! I brought you some tree food to get you started.
 {TIME_275}End of the line, buddy!{DELAY_50}
 {TIME_275}Yup, you knew this talk was coming.{DELAY_50}
