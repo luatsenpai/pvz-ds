@@ -130,7 +130,7 @@ Thây Ma Máy Ném
 Thây Ma Cự Nhân
 Đại Cự Nhân
 Tiểu Yêu
-Ts. Trùm
+Ts. Zomboss
 Thây Ma Dắt Chó
 Thây Ma Chó
 Thây Ma Chong Chóng
@@ -257,11 +257,11 @@ Loại Thây Ma Bình Thường
 Thây Ma Cầm Cờ đánh giấu cho sự <lf>xuất hiện của một "đội" quân thây ma
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Đừng hiểu lầm, Thây Ma Cầm Cờ cũng yêu não.<lf>Nhưng anh ta cũng có niềm đam mê với lá cờ.<lf>Có lẽ bởi vì lá cờ có hình bộ não trên đó<lf>chăng. Ai mà biết được chứ.
 Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma bình thường. 
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
 Chiếc xô sẽ tăng sức chống chịu <lf>cho anh ta.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
 Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
 Tờ báo cụng cấp mức bảo vệ nhất định.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu tờ báo:{STAT} thấp {150}<lf>{KEYWORD}Tốc độ:{STAT} thường, nhanh (sau khi<lf>{KEYWORD}{STAT}mất tờ báo)<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đọc Gần như đã giải được câu đố<lf>sudoku. tại sao anh ta lại tức giận vậy<lf>chứ.
 Cánh cửa là một tấm khiên hiệu quả.
@@ -269,7 +269,7 @@ Cánh cửa là một tấm khiên hiệu quả.
 Thây Ma Cầu Thủ luôn tạo ra <lf>sự bức phá.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực cao {1670}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Trên sân, Thây Ma Cầu thủ luôn phát huy<lf>110%. Anh ta là người chơi tốt ở tấn<lf>công lẫn phòng ngự. Chỉ có điều anh ta<lf>không biết bóng bầu dục là gì.
 Bất kỳ sự giống nhau nào giữa Thây Ma<lf>Nhảy và Thây Ma hay người khác thì<lf>chỉ là trùng hợp ngẫu nhiên.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề," đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề," đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
 Nhóm thây ma này thường xuất hiện gồm<lf>4 thây ma sau khi được Thây Ma Nhảy<lf>triệu hồi
 {SHORTLINE}<lf>{KEYWORD}Độ trạu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Phụ Đạo đã mất 6 năm để tốt<lf>nghiệp tại trường Sân Khấu Điện Ảnh<lf>tại Thành Phố New York Thây Ma.
 Phao vịt giúp thây ma này nổi <lf>trên nước
@@ -281,39 +281,39 @@ Thây Ma Xe Tuyết dùng băng và tuyết <lf>đè bẹp cây của bạn
 Nhóm thây ma xuất hiện gồm <lf>4 thành viên.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp (mỗi thây ma) {270}<lf>{KEYWORD}Độ trâu xe trượt:{STAT} thấp {300}<lf>{KEYWORD}Đặc biệt:{STAT} chỉ xuất hiện trên băng<lf>{SHORTLINE}<lf>{FLAVOR}Đội Xe Trượt cùng nhau cố gắng để đến<lf>đích. Họ sống cùng nhau, chia sẽ não<lf>cho nhau và luyện tập cùng nhau để<lf>trở thành một đội thây ma ăn ý.
 Thây Ma Phóng Cá Heo giỏi khai thác<lf>điểm yếu tuyến phòng thủ dưới hồ bơi.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
 Một sinh vật hiếm và bí ẩn.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} bỏ chạy sau một lúc<lf>{SHORTLINE}<lf>{FLAVOR}Người ta biết rất ít về Thây Ma Người Tuyết <lf>ngoài tên, ngày sinh, số an sinh xã hội,  <lf>quá trình học tập, kinh nghiệm làm việc <lf>trong quá khứ và sở thích ăn bánh sandwich <lf>(thịt bò nướng và Thụy Sĩ).
 Thây Ma này mang lại bất ngờ bùng nổ.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
 Thây Ma Bóng Bay trôi nổi trên không<lf>tránh hầu hết mọi tấn công
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắt thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
 Thây Ma này đào xuyên qua hàng <lf>phòng thủ của bạn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
 Thây Ma Pogo nhảy qua hàng phòng thủ <lf>của bạn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {500}<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Xoạch! Xoạch! Xoạch! Đó là âm thanh mạnh<lf>mẽ và đên cuồn do thây ma này gây ra! Anh <lf>ta làm việc này rất tốt.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Xoạch! Xoạch! Xoạch! Đó là âm thanh mạnh<lf>mẽ và đên cuồn do thây ma này gây ra! Anh <lf>ta làm việc này rất tốt.
 Thây Ma Người Nhện tấn công từ <lf>trên không
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} trung {400}<lf>{KEYWORD}Đặc biệt:{STAT} xuất hiện từ trên trời<lf>{KEYWORD}{STAT}và chôm cây<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Người Nhện thích những trò chơi<lf>mạo hiểm, suy cho cùng thì tại sao phải<lf>sợ chết khi bản thân không còn sống nữa?
-Ladder Zombie climbs over obstacles.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {500}<lf>{KEYWORD}Ladder Toughness:{STAT} medium {500}<lf>{KEYWORD}Speed:{STAT} fast, then slow <lf>{KEYWORD}{STAT}(after placing ladder)<lf>{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}He picked the ladder up for $8.99.
-Catapult Zombie operates heavy <lf>machinery.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} medium {850}<lf>{KEYWORD}Special:{STAT} lobs basketballs at your plants<lf>{SHORTLINE}<lf>{FLAVOR}Of all the things Catapult Zombie could <lf>launch with his catapult, basketballs <lf>seemed like the best and most obvious <lf>choice.
-Gargantuar is a gigantic zombie.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} extremely high {3000}<lf>{SHORTLINE}<lf>{FLAVOR}When Gargantuar walks, the earth <lf>trembles. When he moans, other zombies <lf>fall silent. He is the zombie other zombies <lf>dream they could be. But he still can't <lf>find a girlfriend. 
-Imps are tiny zombies hurled by <lf>Gargantuar deep into your defenses.
-{SHORTLINE}<lf>{KEYWORD}Toughness:{STAT} low {270}<lf>{SHORTLINE}<lf>{FLAVOR}Imp may be small, but he's wiry. He's <lf>proficient in zombie judo, zombie karate <lf>and zombie bare-knuckle brawling. He also <lf>plays the melodica.
-Dr. Zomboss rules them all.
-{SHORTLINE}<lf>{KEYWORD}Toughness (in Zombot shell):{STAT} extreme<lf>{SHORTLINE}<lf>{FLAVOR}Edgar George Zomboss achieved his <lf>Doctorate in Thanatology in only two <lf>years. Quickly mastering thanatological <lf>technology, he built his fearsome Zombot <lf>and set about establishing absolute <lf>dominance of his local subdivision.
-Dog Walking Zombie description
-Dog Zombie description
-Propeller Zombie description
-Evening, {PLAYER_NAME}.
-Those zombies just<lf>won't let up, will they?
-You'll notice that fighting zombies at night is different than<lf>in the day.
-For one, you won't get<lf>any sun falling from<lf>the sky.
-You can still get sun<lf>from sunflowers,<lf>though.
-And lucky for you, you<lf>got yourself some<lf>puff-shrooms.
-Plant as many of those as you can and you'll be A-O-GOOD.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {400}<lf>{KEYWORD}Đặc biệt:{STAT} xuất hiện từ trên trời<lf>{KEYWORD}{STAT}và chôm cây<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Người Nhện thích những trò chơi<lf>mạo hiểm, suy cho cùng thì tại sao phải<lf>sợ chết khi bản thân không còn sống nữa?
+Thây Ma Ôm Thang trèo qua <lf>chướng ngại vật
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}độ trâu thang:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}{STAT}(sau khi đặt thang)<lf>{KEYWORD}Điểm yếu:{STAT} Nhấm Khói{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Anh ta mua cái thang với giá 223 k.
+Thây Ma Máy Ném vận hành máy móc <lf>hạng nặng.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {850}<lf>{KEYWORD}Đặc biệt:{STAT} ném bóng rổ vào cây<lf>{SHORTLINE}<lf>{FLAVOR}Trong những thứ mà Thây Ma Máy Ném có thể<lf>ném với máy ném. Có vẻ như bóng rổ là<lf>lựa chọn tốt nhất.
+Thây Ma Cự Nhân là thây ma khổng lồ.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực khủng {3000}<lf>{SHORTLINE}<lf>{FLAVOR}Khi Thây Ma Cự Nhân bước đi, mặt đất phải<lf>rung chuyển. Khi anh ta hét, các thây ma<lf>khác phải im lặng. Anh ta là hình mẫu lý<lf>tưởng của các thây ma khác. Nhưng anh ta<lf>vẫn chưa có bạn gái. 
+Tiểu Yêu là thây ma nhỏ được Thây Ma<lf>Cự Nhân ném vào hàng phòng thủ.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Tiểu Yêu có thể nhỏ con, nhưng cậu ta<lf>rất khỏe, cậu ta thạo judo thây ma, <lf>karate thây ma và quyền anh thây ma.<lf>Cậu ta cũng biết chơi nhạc cụ.
+Ts. Zomboss lãnh đạo tất cả.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu (vỏ Zombot):{STAT} khủng<lf>{SHORTLINE}<lf>{FLAVOR}Tiến Sĩ Edgar George Zomboss lấy bằng<lf>Thần Kinh Học chỉ trong 2 năm. Ông ta<lf>nhanh chóng làm chủ công nghệ thần học,<lf>chế tạo ra Zombot khổng lồ đáng sợ và<lf>bắt đầu thiết lập quyền lực độc tài ở<lf>địa phương.
+Mô tả Thây Ma Dắt Chó
+Mô tả Thây Ma Chó
+Mô tả Thây Ma Chong Chóng
+Chào buổi tối, {PLAYER_NAME}.
+Bọn thây ma đó sẽ không<lf>bỏ cuộc đâu nhỉ??
+Bạn sẽ phát hiện ra rằng bọn thây ma này chiến đầu vào ban đêm <lf>khác xa so với ban ngày.
+Trước hết, bạn sẽ không<lf>nhận mặt trời từ<lf>trên trời nữa.
+Tuy nhiên, bạn vẫn có<lf>thể nhận mặt trời từ<lf>Hoa Hướng Dương.
+Và may cho bạn là bạn<lf>có Nấm Bào Tử.
+Chỉ cần trồng nhiều nhiều là ỔN.
 Hey, you found my car key!
 You know what that means...
 Crazy Dave's Twiddydinkies is open for business! {MOUTH_SMALL_SMILE}
