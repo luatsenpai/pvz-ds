@@ -469,31 +469,31 @@ Bạn không muốn nhận kết cục có nhiều thây ma ngoài tầm kiểm 
 Vài màn sẽ khó lắm đấy.
 Chýc may mắn!
 Chào hàng xóm! Quẹo lựa vài món giảm giá đê!
-{SHOW_TREE_FOOD}Hey {PLAYER_NAME}! This here is your Tree of Wisdom! I brought you some tree food to get you started.
-{TIME_275}End of the line, buddy!{DELAY_50}
-{TIME_275}Yup, you knew this talk was coming.{DELAY_50}
-{TIME_325}You wanna go further? You gotta get the FULL GAME.{DELAY_50}
-{TIME_275}Ok, I'll level with ya, sassafras...{DELAY_50}
-{TIME_325}If you get the FULL GAME, I'll give you more PLANTS!{DELAY_25}
-{TIME_175}{SCREAM}{HANDING}LIKE THIS ONE!{DELAY_50}
-{TIME_175}{SCREAM}{HANDING}AND THIS ONE!{DELAY_50}
-{TIME_275}{HANDING}and later on, I'll even throw in THIS ONE!{DELAY_50}
-{TIME_125}{SHORT_SOUND}{HANDING}Why?{DELAY_50}
-{TIME_225}{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
-{TIME_150}And hey...{DELAY_50}
-{TIME_175}You want action?{DELAY_50}
-{TIME_200}{SCREAM}I'LL GIVE YOU ACTION!{DELAY_300}
-{TIME_300}{SCREAM2}44 MORE LEVELS OF ACTION!{DELAY_300}
-{TIME_300}{SCREAM}40 MINI-GAMES & PUZZLES!{DELAY_50}
-{TIME_200}TERRA COTTA!!!{DELAY_100}
-{TIME_300}{SCREAM2}IT'S ENOUGH TO BLOW YOUR MIND TO MARS AND BACK!!{DELAY_300}
-{TIME_150}Well, what are you waiting for?
-{NO_CLICK}To use Wall-nut First Aid, simply plant a fresh new Wall-nut over the damaged one!
-Hey-howdy, neighbor!
-Wanna pick a wacky theme for your dwelling?
-It'll change how your house looks on the leaderboard!
-Do it before I lose my pants again!
-Whoo!  I can't wait for you to see it!
+{SHOW_TREE_FOOD}Chào {PLAYER_NAME}! Đây là Cây Trí Tuệ. Tôi mang cho bạn vài bịch phân bón để bắt đầu!
+{TIME_275}Hết hàng rồi, bạn ơi!{DELAY_50}
+{TIME_275}Ngày này cũng đã đến{DELAY_50}
+{TIME_325}Muốn tiến xa hơn? Hãy mua PHIÊN BẢN ĐẦY ĐỦ.{DELAY_50}
+{TIME_275}Tôi sẽ luôn đồng hành cùng bạnh, hehe...{DELAY_50}
+{TIME_325}Nếu bạn mua PHIÊN BẢN ĐẦY ĐỦ, bạn sẽ có THÊM CÂY!{DELAY_25}
+{TIME_175}{SCREAM}{HANDING}NHƯ CÂY NÀY!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}VÀ CÂY NÀY!{DELAY_50}
+{TIME_275}{HANDING}và về sau còn cả CÁI NÀY NỮA!{DELAY_50}
+{TIME_125}{SHORT_SOUND}{HANDING}Tại sao ư?{DELAY_50}
+{TIME_225}{SHAKE}Bởi vì tôi bị KHÙMMM!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
+{TIME_150}Và này...{DELAY_50}
+{TIME_175}Muốn kịch tính sao?{DELAY_50}
+{TIME_200}{SCREAM}TÔI SẼ THÊM CHÚT KỊCH TÍNH!{DELAY_300}
+{TIME_300}{SCREAM2}THÊM 44 MÀN KỊCH TÍNH!{DELAY_300}
+{TIME_300}{SCREAM}40 TRÒ CHƠI NHỎ & CÂU ĐỐ!{DELAY_50}
+{TIME_200}CHẤN ĐỘNG CHƯA!!!{DELAY_100}
+{TIME_300}{SCREAM2}ĐỦ ĐỂ ĐẦU ÓC BẠN LÊN MÂY CHƯA!!{DELAY_300}
+{TIME_150}Còn chần chờ gì nữa?
+{NO_CLICK}Để sữ dụng Bộ Sơ Cứu Tường Hạt, chỉ cần trồng Tường Hạt mới lên Tường Hạt hỏng!
+Ây, chào hàng xóm!
+Muốn chọn vài chủ đề cho nhà bạn?
+Nó sẽ thay đổi ngoại hình nhà bạn trên bảng xếp hạng!
+Làm đi trước khi tôi són ra quần!
+Whoo! Tôi rất mong cho bạn xem thứ này!
 Menu
 More zombies approaching!
 More vases incoming!<lf>Current Streak: {STREAK}
