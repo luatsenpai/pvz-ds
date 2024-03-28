@@ -589,128 +589,128 @@ Bán cây này cho Dave Tửng?
 Cảnh báo
 Không! Vườn của bạn đã đầy!
 OK
-CANCEL
-YES
-NO
+HỦY
+CÓ
+KHÔNG
 Ok
-Cancel
-Yes
-No
-YOU GOT A NEW PLANT!
-NEXT LEVEL!
-Continue
-Leaderboards
-Achievements
-View Almanac
-Exit Game
-MAIN MENU
-Re-pick
-Shovel
-You got the shovel!
-Lets you dig up a plant<lf>to make room for<lf>another plant
-You found a note:
-Suburban Almanac
-You found a suburban almanac!
-Keeps track of all plants<lf>and zombies you encounter
-Crazy Dave's Car Key
-You found Crazy Dave's car key!
-Now you can visit<lf>Crazy Dave's shop!
-Mysterious Vase
-You found a Mysterious Vase!
-Now you can play<lf>Vasebreaker Mode!
-Watering Can
-You found a watering can!
-Now you can play<lf>Zen Garden Mode!
+Hủy
+Có
+Không
+ĐÃ NHẬN CÂY MỚI!
+MÀN KẾ!
+Tiếp Tục
+Bảng Xếp Hạng
+Thành Tích
+Xem Liên Lịch
+Thoát Game
+MENU CHÍNH
+Chọn lại
+Xẻng
+Đã nhận xẻng!
+Cho phép đào bỏ cây<lf>chừa chỗ cho cây<lf>khác
+Tìm thấy ghi chú:
+Liên Lịch Nội Bộ
+Tìm thấy Liên Lịch Nội Bộ!
+Theo dõi các cây và <lf>thây ma đã gặp
+Chìa khóa xe Dave Tửng
+Tìm thấy Chìa khóa xe Dave Tửng!
+Giờ bạn có thể ghé<lf>cửa hàng Dave
+Bình Bí Ẩn
+Tìm thấy Bình Bí Ẩn!
+Giờ bạn có thể chơi<lf>Đập Bình!
+Bình Tưới
+Tìm thấy Bình Tưới!
+Giờ bạn có thể chơi<lf>Vườn Thiền!
 Taco
-You found a taco!
-What are you going to do<lf>with a taco?
-water a plant
-fertilize a plant
-give tree food
-bug spray
-play music for a plant
-chocolate
-move a plant
-sell a plant
-holds plant for transporting
-visit other garden
-remove a plant
-Upgrade all your peashooters to repeaters
-Upgrade all your puff-shrooms to fume-shrooms
-Upgrade all your wall-nuts to tall-nuts
-Shuffle plants
-Refill crater
-Purchased
-No craters to fill
-Free Planting Cheat
-recharging...
-not enough sun
-requires repeater
-requires melon-pult
-requires sunflower
-requires spikeweed
-requires 2 kernel-pults
-requires magnet-shroom
-requires fume-shroom
-requires lily pad
-waiting to refresh
+Tìm thấy taco!
+Bạn sẽ làm gì với<lf>chiếc taco này?
+tưới cây
+bón phân cây
+bón phân cây
+trừ sâu
+chơi nhạc cho cây
+sô cô la
+di chuyển cây
+bán cây
+giữ xây để di chuyển
+ghé qua vườn khác
+loại bỏ cây
+Nâng cấp đậu hà lan lên đậu đôi
+Nâng cấp nấm bào tử lên nấm khói
+nâng cấp tường hạt lên tường hạt cao
+Xáo Cây
+Lấp Lại Hố
+Đã mua
+Không có hố để nấp
+Cheat Cây Miễn Phí
+đang nạp lại...
+không đủ mặt trời
+cần đậu đôi
+cần hất dưa
+cần hoa hướng dương
+cần cỏ gai
+cần 2 hất bắp
+cần nấm nam châm
+cần nấm khói
+cần bè hoa ly
+chờ hồi lại
 LET'S ROCK!
 VIEW LAWN
-Almanac
-Shop
-CLOSE
-ALMANAC INDEX
-View Plants
-View Zombies
-Back to Menu
-Roll Credits!
-PAGE {PAGE}
-Restart
-RESTART
-New Game
-LEAVE
-Quit
-Register
-Are you sure you wish to <lf>quit the game?
-Quit
+Liên Lịch
+Cửa hàng
+ĐÓNG
+DANH MỤC LIÊN LỊCH
+Xem Cây
+Xem Thây Ma
+Về Menu
+Xem Thông Tin!
+TRANG {PAGE}
+Đặt lại
+ĐẶT LẠI
+Chơi mới
+RỜI
+Thoát
+Đăng ký
+Bạn muốn thoát?
+Thoát
 AWW YEAH!
 NAH!
-More seeds?
-Would you like to be able to plant more kinds of seeds?
-NEXT LEVEL
-MAIN MENU
-GO BACK
-BACK
-Are you sure you want to use the<lf>{UPGRADE_TO} without<lf>the {UPGRADE_FROM}?
-Are you sure you want to play<lf>this level without starfruit?
-Are you sure you want to play<lf>this level without lily pads?
-Are you sure you want to play<lf>this level without wall-nuts?
-Are you sure you want to play<lf>this level without starfruit, umbrella<lf>leaf, and wall-nut seeds??
-You haven't chosen any plants that<lf>fight off balloon zombies, are you<lf>sure you want to continue?
-You haven't chosen any sun producing<lf>plants, are you sure you want to<lf>continue?
-Now that it's nighttime, you need<lf>sunflowers more than ever. Are you<lf>sure you want to play the level<lf>without them?
-This level will be extremely difficult<lf>without puff-shrooms. Are you sure<lf>you wish to continue without them?
-Are you sure want to play this level<lf>without any water plants?
-Are you sure want to play this level<lf>without flower pots?
-Almost there!
-5 matches to go!
-Buy Snorkel Zombie
-Buy Trophy
-Press <X> on tank to feed zombies
-Get {SCORE} sun to pass the level
-All your pet zombies<lf>have perished!
-You lost all your zombies!
-Purchase the trophy to complete the level!
-Press <A> to buy more snorkel zombies!
-Try again
-1 flag
-{COUNT} flags
-You survived for {FLAGS}<lf>before dying a<lf>GRUESOME ZOMBIE DEATH!!!
-You made it to a streak of {STREAK}
-Streak: {STREAK}
-Level
+Thêm hạt giống?
+Muốn trồng thêm hạt giống?
+MÀN TIẾP
+MENU CHÍNH
+QUAY LẠI
+Q.LẠI
+Bạn muốn dùng<lf>{UPGRADE_TO} mà không cần<lf> {UPGRADE_FROM}?
+Bạn muốn chơi màn này mà<lf>không cần khế sao?
+Bạn muốn chơi màn này mà<lf>không cần bè lá sen?
+Bạn muốn chơi màn này mà<lf>không cần tường hạt?
+Bạn muốn chơi màn này mà<lf>không cần khế sao, cây tản ô<lf>, và tường hạt??
+Bạn chưa chọn cây có thể hạ thây<lf>ma bóng bay, bạn muốn tiếp tục?
+Bạn chưa chọn cây có thể sản xuất<lf>mặt trời, bạn muốn tiếp tục?
+Bây giờ là buổi tối. Bạn sẽ cần<lf>hoa hướng dương đây. Bạn có<lf>chắc muốn chơi màn này không<lf>cần chúng?
+Màn này sẽ rất khổ dâm nếu không<lf>có nấm bào tử. Bạn muốn tiếp tục<lf>mà không cần chúng?
+Bạn muốn chơi màn này mà<lf>không cần cây thủy sinh?
+Bạn muốn chơi màn này mà<lf>không cần chậu hoa?
+Sắp rồi!
+5 nữa thôi!
+Mua Thây Ma Thợ Lặn
+Mua Cúp
+Nhấn <X> trên hồ để cho thây ma ăn
+Kiếm {SCORE} mặt trời để qua màn
+Toàn bộ thây ma<lf>đã chết!
+Bạn mất toàn bộ thây ma!
+Mua cúp để hoàn thành màn!
+Nhấn <A> để mua thêm thây ma!
+Thử lại
+1 cờ
+{COUNT} cờ
+Bạn sống sót qua {FLAGS}<lf>trước khi bị<lf>THÂY MA THỊT!!!
+Bạn đã đạt thành tích {STREAK}
+Thành tích: {STREAK}
+Màn
 GAME OVER
-Survival
+Sinh tồn
 Mini-Games
 Complete 1 more mini-game to unlock
 Earn 1 more vasebreaker trophy to unlock
