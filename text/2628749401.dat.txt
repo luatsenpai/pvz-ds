@@ -537,57 +537,57 @@ Trồng ít nhất 3 cây Hoa Hướng Dương để<lf>tăng khả năng sống
 Thử trồng ít nhất 3 cây Hoa Hướng Dương!
 Trồng Hoa Hướng Dương để<lf>tăng khả năng sống sót trong các đợt tấn công!
 Dùng phím <L> và <R> để chọn gói hạt giống!
-Excellent! You've collected<lf>enough for your next plant!
-Press <A> on the grass to plant your seed!
-Nicely done!
-Don't let the zombies reach your house!
-Position your cursor over the plant you want to dig up<lf>then press and hold <B> to dig!
-Keep digging until<lf>your lawn is clear of plants!
-Can you survive for {FLAGS} flags?
-How many flags can you survive?
-Fill in all the outlined spaces with wall-nuts!
-Fill in all the outlined spaces!
-Fill in all the outlined spaces with starfruit!
-Hold <X> and move plants to make matches of 3
-Press <X> to twist plants to make matches of 3
-Make {SCORE} matches to pass the level
-No possible moves!
-The zombies ate one of your plants!
-Spend some sun to fill in the crater!
-Save up sun to upgrade your plants!
-Press <X> to pull handle!
-<X> To Spin Again!
-Get {SCORE} sun to pass the level
-Costs 25 sun for pull
-Three of a kind! 3 free plants!
-Two of a kind! Free plant!
-Two of a kind! Bonus sun!
-Two of a kind! Diamonds!
-Sun Jackpot!
-Diamond Jackpot!
-Sun
-Diamond
-Bungees incoming!!!
-Keep on collecting sun!<lf>You'll need it to grow more plants!
-Save up money to purchase cool stuff!
-Seeds need time to refresh before<lf>planting again
-You need more sun to do that!
-Plant a repeater first!
-Plant a winter melon first!
-Plant a sunflower first!
-Plant a spikeweed first!
-Plant a pair of kernel-pults first!
-Plant a magnet-shroom first!
-Plant a fume-shroom first!
-Plant a lily pad first!
-{PLAYER}'s House
-{PLAYER}'s Backyard
-{PLAYER}'s Roof!
-Portal Relocating...
-Are you sure?
-Sell this plant to Crazy Dave?
-Warning
-Oh no! Your garden is too full!
+Xuất xắc! Bạn đã thu thập<lf>đủ cho cây tiếp theo!
+Nhấn <A> trên cỏ để trồng hạt giống!
+Tốt lắm!
+Đừng để thây ma bước vào nhà bạn!
+Di chuyển con trỏ lên cây muốn đào<lf>sau đó nhấn giữ <B> để đào!
+Tiếp trục đào cho tới<lf>khi vườn không còn cây!
+Bạn có thể sống sót qua {FLAGS} cờ?
+Bạn có thể dống sót qua bao nhiêu cờ?
+Lấp đầy khoảng trống với Tường Hạt!
+Lấp đầy khoảng trống!
+Lấp đầy khoảng trống Khế Sao!
+Giữ <X> và di chuyển tạo ra 3 cây giống nhau
+Nhấn <X> để xoay cây tạo ra 3 cây giống nhau
+Đạt {SCORE} điểm để qua màn
+Không thể di chuyển!
+Thây ma đã ăn một cây!
+Dùng vài mặt trời để lấp đầy khoảng trống!
+Tiết kiệm mặt trời để nâng cấp cây!
+Nhấn <X> để kéo cần!
+<X> Để xoay lần nữa!
+Đạt {SCORE} mặt trời để qua màn
+Cần 25 mặt trời để quay
+Ba loại trùng nhau! 3 cây miễn phí!
+Hai loại trùng nhau! Cây miễn phí!
+Hai loại trùng nhau! Thưởng mặt trời!
+Hai loại trùng nhau! Kim cương!
+Độc Đắc Mặt Trời!
+Độc Đắc Kim Cương!
+Mặt Trời
+Kim Cương
+Người Nhện đột kích!!!
+Tiếp tục thu thập mặt trời!<lf>Bạn cần nó để trồng thêm cây!
+Tiết kiệp tiền để mua đồ!
+Hạt giống cần thời gian nạp lại<lf>để trồng thêm
+Bạn cần thêm mặt trời!
+Trồng Đậu Đôi trước!
+Trồng Hất Dưa trước!
+Trồng Hoa Mặt Trời trước!
+Trồng Cỏ Gai trước!
+Trồng cặp hất Bắp trước!
+Trồng Nấm Nam Châm trước!
+Trồng Nấm Khói trước!
+Trồng Bè Lá Sen trước!
+Nhà của {PLAYER}
+Sân sau của {PLAYER}
+Mái nhà của {PLAYER}!
+Đặt lại cổng...
+Bạn chắc chứ?
+Bán cây này cho Dave Tửng?
+Cảnh báo
+Không! Vườn của bạn đã đầy!
 OK
 CANCEL
 YES
