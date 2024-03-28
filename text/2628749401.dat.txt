@@ -314,51 +314,51 @@ Trước hết, bạn sẽ không<lf>nhận mặt trời từ<lf>trên trời n�
 Tuy nhiên, bạn vẫn có<lf>thể nhận mặt trời từ<lf>Hoa Hướng Dương.
 Và may cho bạn là bạn<lf>có Nấm Bào Tử.
 Chỉ cần trồng nhiều nhiều là ỔN.
-Hey, you found my car key!
-You know what that means...
-Crazy Dave's Twiddydinkies is open for business! {MOUTH_SMALL_SMILE}
-Have a look!<lf>See if you can't find<lf>something you like! {MOUTH_SMALL_SMILE}
-Ever play a game called Whack-a-Zombie?
-It's just like huntin' squirbos.
-You know, those furry little rodents that dig holes in your lawn?
-Yeah, just like that, but instead of squirbos, it's zombies.
-{SHOW_HAMMER}And instead of a shovel,<lf>it's a mallet.
-And instead of ME,<lf>it's YOU! {MOUTH_BIG_SMILE} {SCREAM}
-Looks like the zombies gave up attacking your front yard.
-Now they're trying your backyard.
-And to top it all off, you can't even use your mushrooms!
-'cause they'll fall asleep during the day!
-Well isn't that just dandy!
-YOU FOUND MY MAGIC TACO!! {SCREAM2}
-{SHOW_MONEYBAG}I must have it! I'll give you $1000!
-YES!  THE TACO IS MINE! {SCREAM}
-Why'd I give you so much money for a taco?
-{SHAKE}BECAUSE I'M CRAAAAZY!!!! {MOUTH_BIG_SMILE}
-Take a look around<lf>my shop!<lf>You'll notice I got some<lf>new items in stock!
-Funny thing about the zombie process. Sometimes it makes 'em come out real little.
-Real little and REAL MEAN!
-Defend your shins! {SCREAM}
-You know, they used to call me "Fog Man"
-cause I would hang out in<lf>the fog and<lf>JUMP OUT AT PEOPLE! {MOUTH_BIG_SMILE}
-Ah, those were the days. {MOUTH_SMALL_SMILE}
-Why'd it get so dark<lf>all of a sudden?
-This can't be good.
-Oh well, hope you<lf>survive the night!
-Whoa! They even found a way onto your roof!
-Those are some persistent zombies, dude.
-You'll need to use cabbage-pults here due to your roof's angle.
-Remember that, and you're good to go!
-Zen Garden is<lf>pretty nifty, huh?
-You can visit it any time from the main menu.
-But enough of that!<lf>It's time to defend<lf>your house!
-I have to warn you...
-You are going to hate this next level.
-Why?<lf>Because it's non-stop<lf>bungee zombie<lf>after bungee zombie.
-I hate those confounded bungees!!! {SCREAM2}
-I hate them!!
-Hate them with a passion!
-And a vengeance!
-A-Whoop-a-dee-doo! Here come those idiots now!
+Này, bạn đã tìm thấy chìa khóa xe hơi của tôi!
+Bạn biết nó có nghĩa gì không...
+Nghĩa là Cửa Hàng Gia Dụng Dave Tửng đã khai trương! {MOUTH_SMALL_SMILE}
+Mại vô!<lf>Hãy xem coi có<lf>thứ bạn cần không! {MOUTH_SMALL_SMILE}
+Bạn từng chơi Đập Thây Ma chưa?
+Nó giống trò đập chuột chuỗi thôi.
+Ờm, là bọn gặm nhấm chuyên đào hố trong sân nhà ấy?
+Ừm, y chang vậy ấy, nhưng thay vì chuột mà là thây ma.
+{SHOW_HAMMER}Và thay vì xẻng,<lf>mà là búa.
+Và thay vì TÔI,<lf>mà là BẠN! {MOUTH_BIG_SMILE} {SCREAM}
+Có vẻ bọn thây ma đã từ bỏ tấn công sân trước.
+Giờ chúng chuyển sang tấn công sân sau.
+Và trên hết, bạn không thể dùng nấm đâu!
+Vì chúng sẽ ngủ vào ban ngày!
+Chà, không phải vậy rất tuyệt sao!
+BẠN TÌM THẤY BÁNH TACO MA THUẬT CỦA TÔI!! {SCREAM2}
+{SHOW_MONEYBAG}Tôi muốn nó! Tôi sẽ trả $1000!
+ĐÚNG! BÁNH TACO CỦA TÔI! {SCREAM}
+Tại sao tôi lại trả nhiều tiền vì miếng bánh taco?
+{SHAKE}BỞI VÌ TÔI BỊ KHÙMMMM!!!! {MOUTH_BIG_SMILE}
+Hãy ghé qua xem <lf>cửa hàng nào!<lf>Bạn sẽ thấy tôi có<lf>vài món hàng mới!
+Kế hoạch tấn công của bọn thây ma là thứ gì đó rất thú vị. Đôi khi chúng tấn công nhỏ lẻ
+Dù nhỏ lẻ những HIỆU QUẢ!
+Hãy bảo vệ gót chân! {SCREAM}
+Bạn biết không, họ thường gọi tôi là"Quý Ông Sương Mù"
+Bởi vì tôi ẩn nấp sau<lf>sương mù và<lf>NHẢY RA DỌA MỌI NGƯỜI! {MOUTH_BIG_SMILE}
+Ôi, nhớ ngày xưa quá. {MOUTH_SMALL_SMILE}
+Tại sao đột nhiên<lf>lại tối thu vậy?
+Không xong rồi.
+Ái chà, mong là bạn<lf>sống sót qua đêm nay.
+Ầu, chúng còn tìm được đường lên mái nhà kìa!
+Đám thây ma này dai như đỉa ấy.
+Bạn cần Hất Cải vì độ nghiêng của mái nhà.
+Hãy nhớ và sẵn sàng triển!
+Vườn Thiền trông<lf>tiện lợi nhỉ?
+Bạn có thể vào nó bất kỳ lúc nào ở menu chính.
+Vậy là đủ rồi<lf>Tới lúc bảo vệ<lf>nhà rồi!
+Tôi cảnh báo bạn...
+Bạn sẽ ghét màn tiếp theo cho xem.
+Tại sao ư?<lf>Là do một đám thây ma<lf>người nhện sẽ xuất<lf>hiện liên tiếp.
+Tôi ghét đám người nhện đó!!! {SCREAM2}
+Tôi ghét chúng!!
+Ghét sự dai dẳng của chúng!
+Trả thù thôi!
+A-Whoop-a-dee-doo! Đám đần đó đến rồi!
 Hey, you've collected {MONEY} in coins so far!
 When you collect {UPGRADE_COST},<lf>I'll sell you something<lf>really neat-o!
 Hey! Wanna buy an extra seed slot?
