@@ -402,7 +402,7 @@ Tôi chọn... ba cây!
 {NO_SOUND}{NO_CLICK}Cây trồng trong Vườn Thiền thỉnh thoảng cần xịt thuốc sâu. Giúp chúng vui vẻ cả ngày!
 {NO_SOUND}{NO_CLICK}Găng Tay Làm Vườn giúp di chuyển cây trong Vườn Thiền xung quanh!
 {NO_SOUND}{NO_CLICK}Xe Cút Kít này sẽ giúp di chuyển cây giữa các vườn!
-{NO_SOUND}{NO_CLICK}Ốc Sên sẽ giúp nhặt xu trong vườn!
+{NO_SOUND}{NO_CLICK}Sên Sến Súa sẽ giúp nhặt xu trong vườn!
 {NO_SOUND}{NO_CLICK}Những Máy Dọn Hồ này sẽ thêm vào tuyến phòng thủ ở những màn hồ bơi!
 {NO_SOUND}{NO_CLICK}Những Máy Dọn Mái Nhà này sẽ thêm vào tuyến phòng thủ ở những màn mái nhà!
 {NO_SOUND}{NO_CLICK}Cây Cào Cỏ sẽ hạ gục thây ma đầu tiên dẵm phải, tồn tại trong 3 màn.
@@ -804,91 +804,91 @@ Tiếp Tục Chơi
 Chọn bình tưới để sử dụng!
 Nhấn <A> trên mầm cây để tưới! 
 Tiếp tục tưới cây<lf>khi chúng khát!
-Your plants need fertilizer to grow!<lf>Visit the shop to pick up some fertilizer!
-Now fertilize your plants and watch<lf>them grow!
-You need to fertilize both plants!<lf>Here, have some more fertilizer!
-That's all you can do for now!<lf>Check back later when your plants<lf>need more nurturing!
-Choose a Seed to Copy
-Not allowed on this level
-Full game only
-Get the full version of this game <lf>to use this awesome plant!
-Full Game Only
-Get Full Game
-Would you like the purchase the full game?
-Get Full Game
-Maybe Later
-This item is only available in the <lf>full version of the game!
-Crazy Dave chose this
-Nocturnal - sleeps during day
-Not recommended for level
-CHOOSE YOUR PLANTS!
-Press <X> on a vase to see what's inside!
-Destroy all zombies and vases to finish<lf>the level!
-Suburban Almanac - Index
-Suburban Almanac - Plants
-Suburban Almanac - Zombies
-Page {PAGE} of {NUM_PAGES}
-{SLOTS}<lf>slots
-Eat all the brains to pass the level!
-Do not be alarmed<lf>Plants are not real
-Squirrels
-{COUNT} more squirrel to go!
-{COUNT} more squirrels to go!
-Oh no! Find all the squirrels before <lf>the zombie makes it to your house!
-Brains Eaten
-Cost
-Recharge
-fast
-slow
-very slow
-One of your peashooters died!<lf>Try planting them further to the left!
-You found a plant for your Zen Garden!
-You found some Chocolate!<lf>Feed it to Stinky to speed him up for a while!
-Stinky the Snail fell asleep! <lf>Get him wet to wake him up!
-Start Onslaught
-Continue Onslaught
-You survived for<lf>{FLAGS}!!
-Successfully defended {FLAGS}
-{FLAGS} completed
-{FLAGS} completed
-I, Zombie
-I, Zombie Too
-Can You Dig It?
-Totally Nuts
-Dead Zeppelin
-Me Smash!
-ZomBoogie
-Three Hit Wonder
-All your brainz r belong to us
-I, Zombie Endless
-You've unlocked a new<lf>I, Zombie level!
-You've unlocked a new<lf>Vasebreaker level!
-Earn more survival trophies to<lf>unlock the final survival mode
-You've unlocked a new survival mode!
-You've unlocked the endless<lf>survival mode!
+Cây cần phân bón để phát triển!<lf>Ghé cửa hàng để mua vài gói phân bón!
+Giờ hãy bón phân cho cây và quan sát<lf>chúng lớn lên!
+Bạn cần bón cho cả hai cây!<lf>Đây, hãy lấy thêm chút phân bón!
+Đó là những gì có thể làm hiện tại!<lf>Hãy quay lại sau khi cây cần<lf>chăm sóc!
+Chọn Hạt Giống cần sao chép
+Không thể dùng ở màn này
+Chỉ ở phiên bản đầy đủ
+Hãy mua phiên bản đầy đủ của trò chơi để<lf>sử dụng cái cây ngầu lòi này!
+Chỉ ở phiên bản đầy đủ
+Mua phiên bản đầy đủ 
+Bạn muốn mua phiên bản đầy đủ?
+Mua
+Để Sau
+Vật phẩm này chỉ có ở<lf>phiên bản đầy đủ !
+Dave Tửng đã chọn nó
+Về đêm - ngủ ban ngày
+Không nên dùng ở màn này
+CHỌN CÂY CỦA BẠN
+Nhấn <X> trên bình để xem bên trong!
+Tiêu diệt toàn bộ thây ma và bình<lf>để hoàn thành màn này!
+Niên Lịch Nội Bộ - Mục lục
+Niên Lịch Nội Bộ - Cây
+Niên Lịch Nội Bộ - Thây ma
+Trang {PAGE} / {NUM_PAGES}
+{SLOTS}<lf>ô
+Ăn hết não để qua màn!
+Đừng lo lắng<lf>Cây chỉ là hư cấu
+Chuột chuỗi
+{COUNT} chuột chuỗi đang đến!
+{COUNT} chuột chuỗi đang đến!
+Âu không! Hãy tìm toàn bộ chuột chũi<lf>trước khi thây ma vào nhà!
+Não Đã Ăn
+Tốn
+Nạp Lại
+nhanh
+chậm
+cực chậm
+Một trong số cây đậu hà lan đã chết!<lf>Thử trồng thật xa ở phía bên trái!
+Bạn tìm thấy cây cho Vườn Thiền!
+Bạn tìm thầy Sô cô la!<lf>Cho Sên Sến Súa ăn để nó tăng tốc trong chốc lát!
+Sên Sến Súa đang ngủ! <lf>Tạt nước để gọi nó dậy!
+Bắt Đầu Đánh
+Tiếp Tục Đánh
+Bạn sống sót qua<lf>{FLAGS}!!
+Thành công phòng thủ qua {FLAGS}
+{FLAGS} hoàn thành
+{FLAGS} hoàn thành
+Tôi là Thây Ma
+Tôi cũng là Thây Ma
+Chiến Tranh Ngầm
+Toàn Là Hạt
+Đường Bay Tử Thần
+Trèo Đèo Lội Suối
+Cung Trăng
+Xuyên Mái Xuyên Tường
+Cuộc Hỗn Chiến Lớn
+Tôi là Thây Ma (vô tận)
+Bạn đã mở khóa màn<lf>Tôi là Thây Ma mới!
+Bạn đã mở khóa màn<lf>Đập Bình mới!
+Đạt thêm cúp ở chế độ sinh tồn<lf>để mở chế độ sinh tồn cuối cùng
+Bạn đã mở khóa chế độ sinh tồn mới!
+Bạn đã mở khóa chế độ<lf>sinh tồn vô tận!
 ???
 ?
-(not encountered yet)
-Press <A> to continue
-Sold Out
-Coming Soon
-You can only keep aquatic plants here.<lf>It's under water!
-Restart Level?
-Restart Puzzle?
-Restart Challenge?
-Restart Survival?
-Do you want to try this level <lf>again from the beginning?
-Do you want to try this puzzle<lf>again from the beginning?
-Do you want to try this challenge<lf>again from the beginning?
-Do you want to try this survival <lf>level again from the beginning?
-Collect all the trophies in<lf>mini-games, puzzle, & survival<lf>to get the Gold Sunflower Trophy!
-You've finished <lf>adventure 1 time!
-You've finished <lf>adventure %d times!
-Thank you for feeding me! Keep giving me food and I'll give you valuable information!
-Chompers and wall-nuts work exceedingly well together. It's no surprise, considering they were roommates in college.
-If you ever listen to<lf>anything I say,<lf>listen to this:<lf>you want two columns<lf>of sunflowers.<lf>I'm dead serious here.
-Snorkel zombies. I hate 'em. How do I deal? Wall-nuts on lily pads, that's how.
-If you enter some button commands like say LB RB LT RT during a game, I'll bet you'd be able to do some cool stuff.
+(chưa gặp)
+Nhấn <A> để tiếp tục
+Hết Hàng
+Sắp Ra Mắt
+Bạn chỉ có thể để cây thủy sinh ở đây.<lf>Đây là đáy hồ!
+Đặt lại Màn?
+Đặt lại Câu đố?
+Đặt lại Thử thách?
+Đặt lai Sinh tồn?
+Bản muốn thử lại màn này <lf>từ đầu?
+Bản muốn thử lại câu đố này<lf>từ đầu?
+Bản muốn thử lại thử thách này<lf>từ đầu?
+Bản muốn thử lại màn sinh tồn này<lf>từ đầu?
+Thu thập toàn bộ cúp trong chế độ<lf>trò chơi nhỏ, câu đố, sinh tồn để<lf>đạt Cúp Hướng Dương Vàng!
+Bạn hoàn thành <lf>phiêu lưu 1 lần!
+Bạn hoàn thành <lf>phiêu lưu %d lần!
+Cảm ơn đã bón phân cho tôi! Hãy tiếp tục bón phân, tôi sẽ tiết lộ thông tin hữu ích!
+Hoa Ăn Thịt và Tường Hạt phối hợp với nhau rất ăn ý. Cũng không ngạc nhiên lắm, vì hồi đại học họ là bạn cùng phòng.
+Nếu bạn thực sự lắng<lf>nghe tôi, hãy nghe<lf>điều này:<lf>hãy trồng 2 hàng hoa<lf>hướng dương.<lf>Tôi nghiêm túc đấy.
+Thây Ma Thợ Lặn? Tôi ghét chúng! Phải làm sao đây? Chỉ cần đặt Tường Hạt trên bè Lá Sen thôi.
+Nếu bạn nhập các phím theo trình tự LB RB LT RT trong quá trình chơi, bạn sẽ làm được vài thứ ngầu lắm đấy.
 How many cherry bombs<lf>does it take to take<lf>down a Gargantuar?<lf>Here's a hint: more than<lf>one, fewer than three.<lf>Here's a more explicit<lf>hint: Two.
 If you're looking for mushroom plants for your Zen Garden, you'll have better luck playing on levels where it's nighttime.
 I wouldn't worry about permanently damaging your lawn with doom-shrooms. In time the earth heals itself.
