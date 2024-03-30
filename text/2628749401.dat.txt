@@ -1383,79 +1383,79 @@ NOTEXT
 {NO_SOUND}{NO_CLICK}Điểm Cao:<lf>{COUNT} điểm!
 {NO_SOUND}{NO_CLICK}Nổ tung <lf>{COUNT} cùng lúc!
 {NO_SOUND}{NO_CLICK}Gặp<lf>{COUNT} thây ma cùng lúc!
-This will delete all data from the save file.<lf>The deleted data cannot be restored.<lf>Would you like to proceed?
-YES
-NO
-Are you sure?
-Deleting...<lf>Do not turn off the power.
-Please wait...<lf>Do not turn off the power.
-The Game Card is not<lf>inserted properly.<lf>Please turn off the power.
-The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
-Corrupted data was encountered<lf>and will be deleted. Press the<lf>A Button to continue.
-The save data could not be accessed.<lf>Please turn off the power and<lf>reinsert the Game Card.
+Việc này sẽ xóa toàn bộ dữ liệu lưu.<lf>Dữ liệu đã xóa không thể khôi phục.<lf>Tiếp tục?
+CÓ
+KHÔNG
+Bạn chắc chứ?
+Đang xóa...<lf>Vui lòng không tắt nguồn.
+vui lòng chờ...<lf>Vui lòng không tắt nguồn.
+Thẻ Game chưa được<lf>gắn đúng.<lf>Hãy tắt nguồn.
+Không thể truy cập dữ liệu lưu.<lf>Hãy tắt nguồn và gắn lại Thẻ Game.
+Đã gặp dữ liệu hỏng và sẽ được<lf>xóa. Nhấn phím A để tiếp tục.
+Không thể truy cập dữ liệu lưu.<lf>Hãy tắt nguồn và gắn lại Thẻ Game.
 NOTEXT
 NOTEXT
 NOTEXT
-Saving...<lf>Do not turn off the power or<lf>remove the Game Card.
+Đang lưu...<lf>Không được tắt nguồn<lf>hay gỡ Thẻ Game.
 NOTEXT
 NOTEXT
 File 1
 File 2
 File 3
-Tap here to change save block.
-File select
-New Game
-DS Download Play
-DS Wireless Play
-Waiting for an opponent...
-Would you like to disconnect
-YES
-NO
-Begin download
-Loading...
-Waiting for Player 1
-Disconnected.<lf>Press A button to return to the main menu.
+Nhấn đây để đổi ô lưu.
+Chọn File
+Chơi Mới
+Chơi Tải Về DS
+Chơi Wifi DS
+Đang chờ đối tác...
+Bạn muốn ngắt kết nối
+CÓ
+KHÔNG
+Bắt đầu tải về
+Đang tải...
+Chờ người chơi 1
+Ngắt kết nối.<lf>Nhấn nút A để về menu chính.
 NOTEXT
-Disconnected.<lf>Press A button to turn off the power.
-Make a room
-Enter a room
-START
-Waiting for opponent...
-Would you like to play<lf>this opponent?
-Please wait
-It's hotter than a baked armadillo toNgày!<lf>Your plants are having a hard time, what with the heat!
-These ones here are the only ones with any energy left!<lf>And even they run out of steam sometimes!
-Then, you'd better yell out "Hey!" to build up the fighting spirit in those prostrate plants.
-Touch to collect the falling sun.
-Hold a seed packet with the stylus!
-Then slide on to the grass to plant!
-Touch the shovel and drag it to the<lf>plant you want to dig up!
-Touch a plant to remove it!
-Slide plants to make matches of 3.
-Touch to twist plants to make matches of 3.
-Touch the handle to pull!
-Touch to Spin Again!
-Achievements
-Touch screen to feed zombies
-Touch the trophy to complete the level!
-Buy more snorkel zombies!
-Endless
-Endless
-Touch to Start!
-Touch a sprout to water it! 
-Touch a vase to see what's inside!
-Stinky the Snail fell asleep! <lf>Get him wet to wake him up!
-Touch to continue
-Collect all the trophies in<lf>mini-games to get the<lf>Gold Sunflower Trophy!
-Have you tried touching the flowers on the main menu? Give it a shot! I'll wait here.
-If you've played PvZ before, you might not have checked out the minigames screen. Now's your chance!
-If your friend already<lf>has a PvZ Cartridge,<lf>when you battle them in<lf>versus mode you'll have a<lf>smoother time!
-Have you ever seen the<lf>Gargantuar with red eyes?<lf>If not, continue to play<lf>Sinh tồn: Endless.<lf>You'll get no sympathy<lf>from me if you regret it.
-Don't ask me about mustache mode.<lf>Seriously, don't.
-Hey, I'm 100 feet tall!<lf>You can keep feeding me if you like!
-Whoa! I'm 500 feet tall!<lf>Don't ask me about mustache mode. Don't!
-WOW! I'm 1000 feet tall!<lf>You are truly a steward of nature!<lf>If I was not stuck in the ground by <lf>a vast root system, I would dance!
-Touch to resume the credits. 
+Ngắt kết nối<lf>Nhấn nút A để tắt nguồn.
+Tạo phòng
+Vào phòng
+BẮT ĐẦU
+Đang chờ đối tác...
+Bạn muốn chơi với<lf>đối tác này?
+Vui lòng chờ
+Hôm nay nóng hơn cả món armadillo nướng!<lf>Cây của bạn đang gặp khó khăn do nắng nóng!
+Những người ở đây là những người duy nhất còn chút năng lượng!<lf>Và thậm chí đôi khi họ hết hơi!
+Tốt hơn hết bạn nên hét lên "Này!" để khơi dậy tinh thần chiến đấu của cây.
+Nhấn để thu thập mặt trời.
+Giữ gói hạt giống với bút cảm ứng!
+Sau đó kéo thả lên bãi cỏ để trồng!
+Giữ xẻng và kéo thả<lf>lên cây muốn đào!
+Nhấn vào cây để loại bỏ!
+Vuốt cây và tạo 3 cây giống nhau.
+Nhấn để xoay ra 3 cây giống nhau.
+Nhấn cần gạt để kéo!
+Nhấn để Xoay Lần Nữa!
+Thành tựu
+Nhấn vào màn hình để cho ăn
+Nhấn vào cúp để hoàn thành màn!
+Mua thêm thây ma thợ lặn!
+Vô tận
+Vô tận
+Nhấn để vào!
+Nhấn vào mầm cây để tưới! 
+Nhấn vào bình để xem bên trong có gì!
+SÊN SẾN SÚA đang ngủ! <lf>Tạt nước để đánh thức!
+Nhấn để tiếp tục
+Thu thập toàn bộ cúp<lf>trong trò chơi nhỏ để đạt<lf>Cúp Hướng Dương Vàng!
+Bạn đã thử chạm vào hoa ở menu chính? Hãy thử đi! Tôi đang chờ đây.
+nếu bạn từng chơi Pvz trước đây, chắc hẳn bạn chưa từng biết trò chơi nhỏ. Giờ là cơ hội của bạn!
+Nếu bạn bè đã sẳn sàng<lf>chiến PVZ, khi bạn chiến<lf>với họ trong chế độ vs<lf>sẽ thú vị hơn nhiều!
+Bạn từng thấy Thây Ma<lf>Cự Nhân mắt đỏ chưa?<lf>Nếu chưa thì cứ chơi<lf>Sinh tồn: Vô Tận.<lf>Nếu bạn hối hận thì<lf>cũng đã muộn màng.
+Đừng hỏi tôi về chế độ ria mép.<lf>Thiệt đó, đừng.
+Êy, tôi đã cao 100 feet!<lf>Bạn có thể tiếp tục chăm tôi nếu muốn!
+Quào! Tôi đã cao 500 feet!<lf>Đừng hỏi tôi về chế độ ria mép. Đừng!
+Ồ! Tôi đã cao 1,000 Feet!<lf>Bạn đúng là một người yêu thiên nhiên!<lf>Không có bạn tôi đã nằm mãi dưới lòng<lf>đất và không được quẩy như bây giờ!!
+Nhấn để phát tiếp thông tin
 Touch to resume to continue. 
 Touch to resume game
 Are You Sure?<lf>This will permanently remove<lf>%s from the player file!
