@@ -1124,134 +1124,134 @@ Các màn chơi bổ sung đang chờ đón bạn.
 Thành tựu.
 Trợ giúp & Cài đặt.
 Mở Khóa Bản Đầy Đủ.
-Return to Game Library.
-Sometimes things don't all fit on one screen.
-Return to what was being looked at before.
-Attack other people in this fun conflict.
-Defeat death with buddy alliance.
-Zombies have many strange ways to be.
-The hunger of the dead knows no easing.
-Basically we're talking about puzzles, here.
-Other screens have worthy content, too.
-Spend virtual money on fictional items.
-Relax in the blissful peace of planthood.
-Learn greatly about your defenders and offenders.
-Receive letters and whatnot from zombies of acquaintance.
-Download content and contentment.
-Select
-Heavy Weapon
-Customize
-Funhouse
-Scary House
-Space House
-Truck House
-Regular House
-Player Profile Error
-The device your profile is stored on has been removed, or does not have enough free space.<lf>Would you like to try to load your profile again?
-Saved game updated
-Your saved game file was out of date and has been updated to the latest version.
-Select Second Player
-Player 2<lf>Please turn on a controller and press <A>
-Player 2 successfully joined!
-VS Battle (Day)
-VS Battle (Night)
-VS Battle Pool (Day)
-VS Battle Pool (Night)
-VS Battle Roof
+Quay lại Thư Viện Game.
+Đôi khi có vài thứ sẽ không vừa trong 1 màn hình.
+Quay lại để xem vừa nhìn thấy những gì.
+Đối đầu với người khác trong những cuộc chiến thú vị.
+Đánh bại thây ma cùng bạn bè.
+Thây ma có nhiều loại thú vị.
+Người chết không hề có cảm giác no.
+Đôi khi chúng ta hãy cùng bàn về những câu đố.
+Các màn hình khác cũng có nội dung thú vị lắm đó.
+Chi tiền ảo cho các mặt hàng ảo
+Thư giãn với sự bình yên của thiên nhiên.
+Tìm hiểu về phòng thủ và đối thủ.
+Nhận thư hay gì đ1o tương tự từ thây ma.
+Tải xuống nội dung và giải trí.
+Chọn
+Vũ Khí Khủng
+Tùy Chỉnh
+Nhà Vui Bẻ
+Nhà Ma
+Nhà Không Gian
+Nhà Xe Tải
+Nhà Phổ Biến
+Hồ Sơ Người Chơi Lỗi
+Hồ sơ lưu trên thiết bị đã bị xóa hoặc không đủ bộ nhớ.<lf>Muốn thử tại lại hồ sơ?
+Đã cập nhật lưu game
+Lưu game của bạn đã cũ và đã được cập nhật bằng phiên bản hiện tại.
+Chọn Người Chơi 2
+Người chơi 2<lf>Hãy bật bộ điều khiển và nhấn <A>
+Ngời chơi 2 đã gia nhập thành công!
+Đấu VS (Ngày)
+Đấu VS (Đêm)
+Đấu VS Hồ bơi (Ngày)
+Đấu VS Hồ bơi (Đêm)
+Đấu VS Mái nhà
 VS Mode
 x{COUNT}
 VS MODE
-Co-Op Day
-Co-Op Night
-Co-Op Pool
-Co-Op Roof
-Co-Op Bowling
-Co-Op Hard Day
-Co-Op Hard Night
-Co-Op Hard Pool
-Co-Op Hard Roof
+Co-Op Ngày
+Co-Op Đêm
+Co-Op Hồ bơi
+Co-Op Mái nhà
+Co-Op Bô-ling
+Co-Op Ngày Khó
+Co-Op Đêm Khó
+Co-Op Hồ bơi Khó
+Co-Op Mái nhà Khó
 Co-Op Zomboss
-Co-Op Endless
-Move both cursors over double sun to pick it up!
-Pik ur Zombies
-View gamer card
-Change Filter
-This leaderboard is empty.
-You are not yet ranked on this leaderboard.
-Loading...
-This leaderboard has experienced an error.
-Rank
+Co-Op Vô tận
+Di chuyển 2 con trỏ tới 2 mặt trời để nhặt!
+Chọn Thây Ma
+Xem thẻ game
+Đổi Bộ Lọc
+Bảng xếp hạng trống.
+Bạn chưa có thứ hạng trên Bảng Xếp Hạng.
+Đang tải...
+Bảng xếp hạng này đã gặp lỗi.
+Hạng
 Gamertag
-Flags
-Friends
-My Score
-Overall
+Cờ
+Bạn bè
+Điểm của tôi
+Tổng
 OK
-Not Connected
-You've unlocked the Co-Op Challenges and VS Mode!<lf>Chơi ở menu chính!
-You must be connected to Xbox LIVE to view your friends' houses!
-You must be connected to Xbox LIVE to view the endless leaderboard!
-Zombies won!
-Scroll down
-Player Profile Error
-Your player profile was not saved properly.<lf>Would you like to try to save it again?
-The selected device does not have enough memory left.  Please select a new storage device to continue.
-Change pages
-Enter cheat code
-Pick Sides
-Quick<lf>Play
-Custom Battle
-Random Battle
-Sudden Death!
-Play<lf>Again
-Main<lf>Menu
+Chưa kết nối
+Bạn đã mở khóa thử thách Co-Op và Chế độ VS!<lf>Chơi ở menu chính!
+Bạn phải kết nối với Xbox LIVE để xem nhà của bạn bè!
+Bạn phải kết nối với Xbox LIVE để xem bảng xếp hạng bất tận!
+Thây ma thắng!
+Cuộn xuống
+Hồ Sơ Người Chơi Lỗi
+Hồ sơ người chơi của bạn chưa lưu đúng cách.<lf>Bạn muốn thử lưu lại lần nữa?
+Thiết bị đang chọn không đủ bộ nhớ. Hãy chọn thiết bị lưu trữ mới để tiếp tục.
+Đổi trang
+Nhập mã gian lận
+Chọn Phe
+Chơi<lf>Nhanh
+Tủy Chỉnh Trận
+Ngẫu Nhiên Trận
+Đột Tử!
+Chơi<lf>Lại
+Menu<lf>Chính
 Co-Op
-Player 2<lf>Press <S> to join!
-Player 2 joined!
-%d Win Streak
-Player %d
-<X> Unlock Full Game
-<B> Main Menu
-<B> Return to Game Library
-<X> Xbox LIVE Marketplace
+Người chơi 2<lf>Nhấn <S> để vào phòng!
+Người chơi 2 đã vào phòng!
+Chuỗi thắng: %d
+Người chơi %d
+<X> Mở Bản Đầy Đủ
+<B> Menu Chính
+<B> Quay Lại Thư Viện Game
+<X> Chợ Xbox LIVE
 DEMO
-Feed Tree
-{ZOMBIES} Zombies Buried
-{PLANTS} Plants Recycled
-Go to Zen Garden
-Go to Mushroom Garden
-Go to Aquarium Garden
-Water Plant
-Fertilize Plant
-Spray Plant
-Play Phonograph
-Move Plant
-Transport Plant
-Sell Plant
-Drop Plant
-Feed Stinky
-Go to Tree of Wisdom
-Tap on Glass
-Help & Options
-How to Play
-Controls
+Bón Phân
+{ZOMBIES} Thây Ma đã Chôn
+{PLANTS} Cây đã Chết
+Tới Vườn Thiền
+Tới Vườn Nấm
+Tới Vườn Thủy Sinh
+Tưới Cây
+Bón Phân
+Xịt Thuốc
+Chơi Nhạc
+Di chuyển
+Vận chuyển
+Bán
+Thả
+Cho Sên Ăn
+Tới Cây Trí Tuệ
+Gõ Vào Kính
+Trợ giúp & Cài đặt
+Cách chơi
+Điều khiển
 NOT USED
-Settings
-Feed Chocolate
-Play more Adventure to unlock<lf>Co-Op Challenges.
+Cài đặt
+Cho ăn Sôcôla
+Chơi thêm Phiêu Lưu để mở khóa<lf>Thử Thách Co-Op.
 LEVEL %d-%d
-How To Play
-Move your cursor over sun to pick it up.
-Place plants to defend<lf>your lawn!
-Don't let the zombies reach<lf>your house!
-Controls
-<l> Move Cursor
-<L><R>Select Seed Packet
-<S>Start Game
-<B> Dig
-<A> Plant
-<X> Butter, Mallet
-Vs. Mode
+Cách chơi
+Di chuyển con trỏ tới mặt trời để nhặt.
+Trồng cây để bảo vệ<lf>sân vườn!
+Đừng để thây ma<lf>vào nhà bạn!
+Điều khiển
+<l> Di Chuyển Con Trỏ
+<L><R>Chọn gói hạt giống
+<S>Bắt đầu chơi
+<B> Đào
+<A> Trồng
+<X> Búa
+Chế độ Vs
 Each player takes turns selecting seed packets.  Press <S> to enter gameplay.
 As Plants:<lf>Defend the lawn to the<lf>left of the red line.   <lf>Resist the Zombie<lf>onslaught with<lf>sun-powered plants. <lf>Knock out 3 targets to<lf>get the zombies off your<lf>lawn for good.
 As Zombies:<lf>Place gravestones<lf>to generate brainpower.<lf>Select zombies for<lf>attack and defense.<lf>If one zombie gets in<lf>the house, you eat<lf>brains and win.
@@ -1372,10 +1372,10 @@ NOTEXT
 NOTEXT
 NOTEXT
 {NO_SOUND}{NO_CLICK}This is your Zen Garden!
-{NO_SOUND}{NO_CLICK}This is your nighttime mushroom garden!
+{NO_SOUND}{NO_CLICK}This is your Đêmtime mushroom garden!
 {NO_SOUND}{NO_CLICK}Don't tap on the glass!
 {NO_SOUND}{NO_CLICK}This tree keeps growing!<lf>It also won't shut up!
-{NO_SOUND}{NO_CLICK}Minigames are a fun way<lf>to while away your day!
+{NO_SOUND}{NO_CLICK}Minigames are a fun way<lf>to while away your Ngày!
 {NO_SOUND}{NO_CLICK}Brain-benders and<lf>troublesome tasks aplenty<lf>in the Puzzles!
 {NO_SOUND}{NO_CLICK}How long can you hold out?<lf>Try a Survival game<lf>and find out!
 {NO_SOUND}{NO_CLICK}Your best record is <lf>{COUNT} consecutive homeruns!
@@ -1423,7 +1423,7 @@ START
 Waiting for opponent...
 Would you like to play<lf>this opponent?
 Please wait
-It's hotter than a baked armadillo today!<lf>Your plants are having a hard time, what with the heat!
+It's hotter than a baked armadillo toNgày!<lf>Your plants are having a hard time, what with the heat!
 These ones here are the only ones with any energy left!<lf>And even they run out of steam sometimes!
 Then, you'd better yell out "Hey!" to build up the fighting spirit in those prostrate plants.
 Touch to collect the falling sun.
@@ -1491,13 +1491,13 @@ NOTEXT
 Demolitioneer
 Blow up 10 zombies at once<lf>with a single cherry bomb
 Photosensitive
-Beat a night level<lf>without picking up any sun
+Beat a Đêm level<lf>without picking up any sun
 Don't Drink the Water 
-Beat a pool level<lf>without using any aquatic plants
+Beat a Hồ bơi level<lf>without using any aquatic plants
 Nebulaphile
 Beat an extremely foggy level<lf>without disturbing any fog
 Unsiege Mentality 
-Complete a roof level<lf>without using<lf>any catapult plants
+Complete a Mái nhà level<lf>without using<lf>any catapult plants
 Street Team 
 Play Download-Play<lf>Multiplayer at least once
 NOTEXT
@@ -1515,13 +1515,13 @@ Fill out the Almanac
 Demolitioneer
 Blow up 10 zombies at once<lf>with a single cherry bomb
 Photosensitive
-Beat a night level<lf>without picking up any sun
+Beat a Đêm level<lf>without picking up any sun
 Don't Drink the Water
-Beat a pool level<lf>without using any aquatic plants
+Beat a Hồ bơi level<lf>without using any aquatic plants
 Nebulaphile
 Beat an extremely foggy level<lf>without disturbing any fog
 Unsiege Mentality
-Complete a roof level<lf>without using<lf>any catapult plants
+Complete a Mái nhà level<lf>without using<lf>any catapult plants
 NOTEXT
 NOTEXT
 Zombie Trap
