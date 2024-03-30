@@ -1773,8 +1773,8 @@ THÊM
 Cây
 Thây Ma
 THẮNG
-{NO_SOUND}{NO_CLICK}You blew <lf>1 zombie up at once!
-{NO_SOUND}{NO_CLICK}You caught<lf>1 zombie at one time!
+{NO_SOUND}{NO_CLICK}Bạn nổ <lf>hơn 1 thây ma cùng lúc!
+{NO_SOUND}{NO_CLICK}Bạn bắt<lf>hơn 1 thây ma cùng lúc!
 Hướng Dẫn
 HÉT!
 Thêm...
