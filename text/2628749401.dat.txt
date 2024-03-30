@@ -1293,47 +1293,47 @@ Di chuyển máy cắt cỏ với <l>!  Khởi động với <r>!
 Thây Ma Ôm Thùng rác
 Thùng rác khiến nó chậm hơn<lf>nhưng sẽ trâu hơn.
 Mở khóa bản đầy đủ!
-Chào Thua
+Đầu Hàng
 Bạn chắc chứ?
-Conceding the match will give your opponent a win.  Are you sure you want to concede?
+Đầu hàng sẽ khiến đối thủ thắng. Bạn muốn đầu hàng?
 Concede
-Are you sure?
-Quitting seed selection will revert your current selections.  Are you sure you want to quit seed selection?
-Zombie Gravestone
-Produces brains, protects target<lf>zombies.  Mmmm... Buying power.
-Press <Y> to return to adventure mode!
-Place this unit on your side of the line
-Game Saving Error
-Your game could not be saved properly.<lf>Would you like to choose another device to save to?
-Play more Adventure to<lf>unlock VS Mode.
-Error
-There was an error saving your house data.  Would you like to retry?
-Your storage device is full.<lf>Would you like to choose another device to save to?
-Not Signed In
-You must be signed in to a Gamer Profile to view Achievements.
-Saving content. Please don't turn off your console.
-Loading P2 Profile
-Player 2 Profile Error
-An error occured loading player 2's profile.<lf>Would you like to retry?
-Change View
-View Gamer Card
-Saving Profile...
-Select Mail
-Mark as Read
-Switch to Read Mail
-Switch to Inbox
-Saving Xbox LIVE Content
-Writing to Leaderboards
-Xbox LIVE Marketplace
-Game Loading Error
-Your game could not be loaded properly.<lf>The game will restart from the beginning of the current level.
-Play more Adventure mode to unlock
-Achievement Unlocked!
-If you had the full game, you'd have an achievement by now!  Would you like to go to the Marketplace?
-You have NO read messages!
-Unlock Full Game
-You must be signed in to a Gamer Profile to view the Xbox LIVE Marketplace.
-Please purchase the full game from the Xbox LIVE Marketplace to unearth all that is wonderful about Plants vs. Zombies.
+Đầu Hàng?
+Thoát chọn hạt giống sẽ hoàn nguyên số hạt giống đang chọn. Bạn chắc chứ?
+Mộ Thây Ma
+Sản xuất não, bảo vệ thây ma<lf>mục tiêu. Mua thêm quân.
+Nhấn<Y> để quay lại chế độ phiêu lưu!
+Hãy đặt đơn vị này phía bên phe của bạn
+Lỗi Lưu Game
+Game của bạn không thể lưu chuẩn xác.<lf>Bạn muốn chọn thiết bị khác để lưu?
+Chơi thêm Phiêu Lưu để<lf>mở khóa Chế Độ Vs.
+Lỗi
+Có lỗi xảy ra trong quá trình lưu dữ liệu nhà của bạn. Thử lại?
+Thiết bị lưu trữ đã đầy.<lf>Bạn muốn chọn thiết bị khác?
+Chưa Đăng Nhập
+Bạn phải đđăng nhập hồ Sơ Game Thủ để xem Thành Tựu.
+Đang lưu nội dung. Vui lòng không tắt console.
+Đang tải Hồ Sơ P2
+Hồ sơ P2 gặp lỗi
+Có lỗi xảy ra trong quá trình tải hồ sơ người chơi 2.<lf>Thử lại?
+Đổi Hiển Thị
+Xem thẻ Game Thủ
+Đang Lưu Hồ Sơ...
+Chọn Mail
+Đánh dấu Đã Đọc
+Chuyển sang Thư Đã Đọc
+Chuyển sang Hộp Thư Đến
+Đang lưu Nội Dung Xbox LIVE
+Đang ghi Thành Tựu
+Chợ Xbox LIVE
+Lỗi tải game
+Game của bạn không thể nạp chính xác.<lf>Game sẽ được đặt lại từ màn hiện tại.
+Chơi thêm Phiêu Lưu để mở khóa.
+Mở Khóa Thành Tựu!
+Nếu bạn có phiên bản đầy đủ, bạn sẽ xem được thành tích! Ghé vào chợ ngay?
+Bạn KHÔNG có tin nhắn đã đọc!
+Mở Khóa Bản Đầy đủ
+Bạn phải đăng nhập Hồ Sơ Game Thủ để xem Chợ Xbox LIVE.
+Vui lòng mua bản đầy đủ từ Chợ Xbox LIVE để khám phá tất cả những điều tuyệt vời về Plants vs. Zombies.
 NOT USED
 NOT USED
 NOT USED
@@ -1371,18 +1371,18 @@ NOTEXT
 NOTEXT
 NOTEXT
 NOTEXT
-{NO_SOUND}{NO_CLICK}This is your Zen Garden!
-{NO_SOUND}{NO_CLICK}This is your Đêmtime mushroom garden!
-{NO_SOUND}{NO_CLICK}Don't tap on the glass!
-{NO_SOUND}{NO_CLICK}This tree keeps growing!<lf>It also won't shut up!
-{NO_SOUND}{NO_CLICK}Minigames are a fun way<lf>to while away your Ngày!
-{NO_SOUND}{NO_CLICK}Brain-benders and<lf>troublesome tasks aplenty<lf>in the Puzzles!
-{NO_SOUND}{NO_CLICK}How long can you hold out?<lf>Try a Survival game<lf>and find out!
-{NO_SOUND}{NO_CLICK}Your best record is <lf>{COUNT} consecutive homeruns!
+{NO_SOUND}{NO_CLICK}Đây là Vườn Thiền!
+{NO_SOUND}{NO_CLICK}Đây là Vườn Nấm về dêm!
+{NO_SOUND}{NO_CLICK}Đừng gõ vào kính!
+{NO_SOUND}{NO_CLICK}Cây đang phát triển!<lf>Nóp sẽ nói không ngừng!
+{NO_SOUND}{NO_CLICK}Trò chơi Nhỏ là một cách thú vị<lf>để tận hưởng một ngày vui vẻ!
+{NO_SOUND}{NO_CLICK}Nhiều nhiệm vụ khó khăn<lf>và rắc rối trong<lf>Thách Đố!
+{NO_SOUND}{NO_CLICK}Bạn có thể cầm cự trong<lf>bao lâu? Hãy thử Sinh Tồn<lf>để chứng tỏ bản thân!
+{NO_SOUND}{NO_CLICK}Kỷ lục tốt nhật:<lf>{COUNT} cú homeruns liên tiếp!
 NOTEXT
-{NO_SOUND}{NO_CLICK}The High Score is<lf>{COUNT} points!
-{NO_SOUND}{NO_CLICK}You blew <lf>{COUNT} zombies up at once!
-{NO_SOUND}{NO_CLICK}You caught<lf>{COUNT} zombies at one time!
+{NO_SOUND}{NO_CLICK}Điểm Cao:<lf>{COUNT} điểm!
+{NO_SOUND}{NO_CLICK}Nổ tung <lf>{COUNT} cùng lúc!
+{NO_SOUND}{NO_CLICK}Gặp<lf>{COUNT} thây ma cùng lúc!
 This will delete all data from the save file.<lf>The deleted data cannot be restored.<lf>Would you like to proceed?
 YES
 NO
