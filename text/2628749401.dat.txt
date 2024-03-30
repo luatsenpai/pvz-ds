@@ -1456,153 +1456,153 @@ Bạn từng thấy Thây Ma<lf>Cự Nhân mắt đỏ chưa?<lf>Nếu chưa th�
 Quào! Tôi đã cao 500 feet!<lf>Đừng hỏi tôi về chế độ ria mép. Đừng!
 Ồ! Tôi đã cao 1,000 Feet!<lf>Bạn đúng là một người yêu thiên nhiên!<lf>Không có bạn tôi đã nằm mãi dưới lòng<lf>đất và không được quẩy như bây giờ!!
 Nhấn để phát tiếp thông tin
-Touch to resume to continue. 
-Touch to resume game
-Are You Sure?<lf>This will permanently remove<lf>%s from the player file!
-Touch sun to pick it up.
-Place plants to defend<lf>your lawn!
-Each player takes turns<lf>selecting seed packets,<lf>then enter gameplay.
-Touch to begin the onslaught!
-More
-Resolute Homeowner 
-Complete Adventure mode
-Attention Deficit 
-Earn a trophy in each minigame
-Think Hard
-Earn a trophy<lf>in each puzzle mode
-Tough Beans 
-Get a trophy<lf>in each survival mode
-Shopping Spree
-Spend $25,000<lf>in Crazy Dave's store
-Book Learner 
-Fill out the Almanac
-Greenhouser
-Raise 10 plants to full growth<lf>in the Zen Garden.
+Nhấn trợ lại để tiếp tục. 
+Nhấn để trợ lại
+Bạn chắc chứ?<lf>Việc này sẽ xóa vĩnh viễn<lf>file từ người chơi %s!
+Nhấn vào mặt trời để nhặt.
+Trồng cây để bảo vệ<lf>sân vương!
+Mỗi người chơi lần lượt<lf>chọn gói hạt giống,<lf>sau đó vào trò chơi.
+Nhấn để bắt đầu công ký!
+Thêm
+Chủ Nhà Kiên Cường
+Hoành Thành Chế Độ Phiêu Lưu
+Thiếu Chú Ý
+Đạt cúp mỗi trò chơi nhỏ
+Suy Nghĩ Kỹ
+Đạt cúp mỗi<lf>màn thách đố
+Đậu Cứng
+Đạt cúp mỗi<lf>màn sinh tồn
+Điên Cuồng Mua Sắm
+Tiêu $25,000 trong<lf>cửa hàng Dave Tửng
+Mọt Sách
+Hoàn thành Liên Lịch
+Nhà Xanh
+Nuôi 10 cây trưởng thành<lf>trong Vườn Thiền.
 NOTEXT
 NOTEXT
-Cerebral Canopy
-Grow the Tree of Wisdom<lf>to 100 ft
-NOTEXT
-NOTEXT
-NOTEXT
-NOTEXT
-NOTEXT
-NOTEXT
-Demolitioneer
-Blow up 10 zombies at once<lf>with a single cherry bomb
-Photosensitive
-Beat a Đêm level<lf>without picking up any sun
-Don't Drink the Water 
-Beat a Hồ bơi level<lf>without using any aquatic plants
-Nebulaphile
-Beat an extremely foggy level<lf>without disturbing any fog
-Unsiege Mentality 
-Complete a Mái nhà level<lf>without using<lf>any catapult plants
-Street Team 
-Play Download-Play<lf>Multiplayer at least once
+Não To
+Bón Cây Trí Tuệ<lf>lên 100 ft
 NOTEXT
 NOTEXT
 NOTEXT
 NOTEXT
-Resolute Homeowner
-Complete Adventure mode
-Attention Deficit
-Earn a trophy in each minigame
-Shopping Spree 
-Spend $25,000<lf>in Crazy Dave's store
-Book Learner
-Fill out the Almanac
-Demolitioneer
-Blow up 10 zombies at once<lf>with a single cherry bomb
-Photosensitive
-Beat a Đêm level<lf>without picking up any sun
-Don't Drink the Water
-Beat a Hồ bơi level<lf>without using any aquatic plants
-Nebulaphile
-Beat an extremely foggy level<lf>without disturbing any fog
-Unsiege Mentality
-Complete a Mái nhà level<lf>without using<lf>any catapult plants
 NOTEXT
 NOTEXT
-Zombie Trap
+Phá Dỡ
+Nổ tung 10 thây ma<lf>với 1 bom sơri
+Cảm quang
+Hạ 1 màn ban đêm mà<lf>không nhặt mặt trời
+Đừng Uống Nước
+Hạ 1 màn Hồ Bơi mà<lf>không dùng cây thủy sinh
+Tinh Mắt
+Hạ 1 màn Sương Mù mà<lf>không xóa tan sương mù
+Giải Phóng Tâm Lý
+Hạ 1 màn Mái Nhà mà<lf>không dùng cây hất
+Nhóm Đường Phố
+Chơi Tải Về - Chơi<lf>một lần
+NOTEXT
+NOTEXT
+NOTEXT
+NOTEXT
+Chủ Nhà Can Trường
+Hoàn Thành Chế Độ Phiêu Lưu
+Tập Trung
+Đạt cúp trong mọi trò chơi nhỏ
+Điên Cuồng Mua Sắm
+Tiêu $25,000 trong<lf>cửa hàng Dave Tửng
+Mọt Sách
+Hoàn thành Liên Lịch
+Phá Dỡ
+Nổ tung 10 thây ma<lf>với 1 bom sơri
+Cảm quang
+Hạ 1 màn ban đêm mà<lf>không nhặt mặt trời
+Đừng Uống Nước
+Hạ 1 màn Hồ Bơi mà<lf>không dùng cây thủy sinh
+Tinh Mắt
+Hạ 1 màn Sương Mù mà<lf>không xóa tan sương mù
+Giải Phóng Tâm Lý
+Hạ 1 màn Mái Nhà mà<lf>không dùng cây hất
+NOTEXT
+NOTEXT
+Bẫy Thây Ma
 Homerun Derby
-Air Raid
+Không Kích
 NOTEXT
 NOTEXT
-Heat Wave
+Sóng Nhiệt
 NOTEXT
-BOMB all together!
-Zombie Trap
-Slide plants around to fend off zombies!
-Cheer them up by yelling out into<lf>the microphone when they get tired.
-Move the Flying Gatling Pea with the stylus!<lf>Avoid wrenches!  Attack the robot!
+NỔ hết đi!
+Bẫy Thây Ma
+Trượt cây xung quanh để chống lại THÂY MA!
+Cổ vũ chúng bằng cách hét lên<lf>vào micro khi chúng mệt mỏi.
+Di chuyển Đậu Súng Máy bằng bút cảm ứng!<lf>Tránh bánh răng! Tấn công robot!
 BOMB
-You need {SCORE} homeruns to complete the level.
-Swipe the ball with the stylus to bat!
-Get {COUNT} zombies captured together to<lf>increase the number of Brains and<lf>of times that you can drop the cage.
-If you run out of cage drops,<lf>you're on your own!
-Catch {COUNT} zombies before<lf>they stop coming!
+Đạt {SCORE} homeruns để hoàn thành màn.
+Vuốt bóng để đánh!
+Bắt {COUNT} thây ma cùng lúc để<lf>tăng số lượng Não và số lần có<lf>thể thả lồng.
+Nếu bạn thả hết lồng,<lf>thì chỉ còn mình bạn!
+Bắt {COUNT} thây ma trước<lf>khi chúng ngừng đến!
 NOTEXT
 NOTEXT
-Bomb-plants are limited.
-To complete the level, destroy all of<lf>the zombies before the plants run out.
-Slide brains to attract zombies!
-Get them to the center, and touch the<lf>"Cage" panel in the upper right!
-Catch {COUNT} zombies to win!<lf>Don't let the zombies reach your house!
+Đã đạt giới hạt đặt bom.
+Để hoàn thành cấp độ, hãy tiêu diệt<lf>tất cả thây ma trước khi hết bom.
+Vuốt não để thu hút thây ma!
+Dụ chúng vào giữa và chạm vào<lf>nút "Lồng" ở phía trên bên phải!
+Bắt {COUNT} thây ma để thắng!<lf>Đừng để thây ma vào nhà!
 NOTEXT
 NOTEXT
 NOT USED
 Homerun Derby
-Air Raid
+Không Kích
 NOTEXT
 NOTEXT
-Heat Wave
+Sóng Nhiệt
 NOTEXT
-BOMB all together!
+NỔ hết đi!
 NOT USED
-You've unlocked Vs. Mode!<lf>Select it from the Main Menu!
+Bạn mở khóa Chế độ Vs!<lf>Chọn từ Menu Chính!
 NOT USED
 VS
-Options
-HELP
-Music
-Sound Effects
+Cài Đặt
+TRỢ GIÚP
+Nhạc
+Hiệu ứng
 NOT USED
-Ready…
-Set…
-PLANT!
-FINAL WAVE
-THE ZOMBIES ATE YOUR BRAINS!
-CRAZY DAVE'S TWIDDY DINKIES
-PREV
-NEXT
-ZOMBATAR! MAKE YOUR OWN ZOMBIE!
-PORTRAIT
-SKIN
-HAIR
-FACIAL HAIR
-TIDBITS
-EYEWEAR
-CLOTHES
-ACCESSORIES
-HATS
-BACKDROPS
-ALL RESET
-TO GET STARTED, CHOOSE YOUR ZOMBIE'S<lf>SKIN COLOR BELOW.<lf><lf>WHEN YOU'RE READY TO CHANGE OTHER PARTS,<lf>TOUCH THE CATEGORIES ON THE PREVIOUS PAGE.
-COLORS
-Color cannot be applied to this item.
-Please select a Zombatar item above.
-ZOMBATAR
-Achievement
+Chuẩn bị…
+Sẵn sàng…
+CHIẾN ĐẤU!
+LƯỢT CUỐI
+BẠN BỊ THÂY MA ĂN NÃO!
+CỬA HÀNG GIA DỤNG DAVE TỬNG
+LÙI
+TIẾP
+ẢNH THÂY MA! TẠO THÂY MA RIÊNG BẠN!
+CHÂN DUNG
+DA
+TÓC
+RÂU
+LINH TINH
+ĐEO MẮT
+ÁO
+PHỤ KIỆN
+MŨ
+NỀN
+ĐẶT LẠI
+ĐỂ BẮT ĐẦU, CHỌN<lf>MÀU DA THÂY MA.<lf><lf>KHI MUỐN ĐỔI PHỮNG<lf>PHẦN KHÁC, CHỌN HẠNG<lf>MỤC Ở TRẠNG TRƯỚC ĐÓ.<lf>
+MÀU
+Vật phẩm không thể tô màu.
+Hãy chọn vật phẩm ở trên.
+ẢNH THÂY MA
+Thành Tựu
 NOTEXT
 NOTEXT
-Play ball
+Phát Bóng
 NOTEXT
 Homerun
-Touch Cob Cannon to launch<lf>deadly cobs of corn.
-{NO_SOUND}{NO_CLICK}Plant this on your kernel-pults to turn them into cob cannons! Touch a cob cannon to launch a deadly attack!
-Great!!
-Too Bad!!
+Nhấn vào Đại Bác Bắp<lf>để phóng đại bác bắp chết chóc.
+{NO_SOUND}{NO_CLICK}Đặt nó lên 2 hất bắp để biến thành đại bác bắp! Nhấn vào đại bác bắp để phóng đại bác bắp chết chó!
+Tuyệt!!
+Tệ quá!!
 There's a zombie on your lawn
 There's a zombie on your lawn
 There's a zombie on your lawn
@@ -1653,107 +1653,106 @@ NOTEXT
 NOTEXT
 PLANTS VS. ZOMBIES
 Plants vs Zombies DS Adaptation
-Producer
+Sản Xuất
 Shigenori Araki
-Associate Producer
+Liên Kết Sản Xuất
 Matthew Smith
-Additional Production
+Sản Xuất Bổ Sung
 Ty Roberts
-Art
+Nghệ Thuật
 Rick Schmitz<lf>Rich Werner
-QA Lead
+Chỉ Đạo QA
 Sharon Bruhn 
-QA Testing
+Thử Nghiệm QA
 Bob Church<lf>Michael Guillory<lf>David Chan<lf>Tim Chamberlain
-Ratings Wrangler
+Xếp Hạng
 Nick Tomlinson
-Business Development
+Phát Triển Kinh Doanh
 Giordano Contestabile
-Vice President, Studio
+Phó chủ tịch Studio
 Ed Allard
-Vice President, Asia/Pacific
+Phó Chủ tịch, Châu Á<lf>/Thái Bình Dương
 James Gwertzman
-Special Thanks
+Đặc Biệt Cảm Ơn
 George Fan<lf>Tod Semple<lf>Dan Banay<lf>David Franzi
-Localization Director
+Giám đốc bản địa hóa
 Jonathon Young
-Business Development Europe Director
+Giám đốc Phát triển<lf>Kinh doanh Châu Âu
 Mark Cochrane
-Localization Project Manager
+Giám đốc dự án<lf>bản địa hóa
 Shinobu Koiwa 
-Localization Testers
+Kiểm tra<lf>bản địa hóa
 Lorenzo Penati (Lead - PopCap)
-Translator
+Dịch Thuật
 U-TRAX M.M.L.
-Progress Management
+Quản lý tiến độ
 Atsuo Kawarabayashi
-Director
+Giám đốc
 Hiroyuki Ikenaga
-Design
+Thiết kế
 Akio Imai
-Coordination
+Phối hợp
 Shingo Yamashita<lf>Ayaka Takahashi
-Art Lead
+Trưởng nhóm<lf>nghệ thuật
 Ryosuke Kusada
-Artists
+Nghệ sĩ
 Yuki Ikeshita<lf>Tsuyoshi Ganeko<lf>Ryo Okawa<lf>Yuki Yamasita
-Lead Programmer
+Chỉ Đạo Lập Trình
 Kenta Egami
-Programmers
+Lập Trình
 Hideyuki Kuroda<lf>Kazuya Watanabe<lf>Takahiro Furukawa<lf>Kouichi Kitano
-Sound Composer
+Soạn nhạc
 Morihiro Iwamoto
-Translation
+Dịch Thuật
 Hiroshi Honjyo
-Testing
+Thử Nghiệm
 Motoki Konishi<lf>Seiichi Sata
 Plants vs Zombies Original Game
-Game Design
+Thiết kế trò chơi
 George Fan
-Programming
+Lập trình
 Tod Semple
-Art
+Nghệ thuật
 Rich Werner
-Music & Sound
+Âm nhạc & Âm thanh
 Laura Shigihara
-Background Art
+Nghệ Thuật Phông
 Enrique Corts
-UI Art
+Nghệ Thuật UI
 Matt Holmberg
 Words
 Stephen Notley
-Studio Director
+Giám Đốc Studio
 Sukhbir Sidhu
-QA Lead
+Chỉ Đạo QA
 Michael Racioppi
-QA Testing
+Thử Nghiệm QA
 Shawn Conard<lf>Ed Miller<lf>Adam MacDonnell
 PopCap Framework
 Brian Fiete<lf>Chris Hargrove<lf>David Parton
 Marmot Salesman
 David P. Wycliff
-Special Thanks
+Đặc Biệt Cảm Ơn
 Jason Kapalka<lf>John Vechey<lf>Dave Haas<lf>Dave Roberts<lf>Ed Brown<lf>Lindsey Kurz<lf>Jeff Gates<lf>Mysticsage<lf>Dave Rohl<lf>PopCap beta testers
-c2009, 2011 PopCap Games, Inc.<lf>All rights reserved.The PopCap logo<lf>and all other trademarks used herein<lf>that are listed on the trademark<lf>page on www.popcap.com are owned<lf>by PopCap Games, Inc. or its licensors<lf>and may be registered in some countries.<lf>Other company and product names used<lf>herein may be trademarks of their<lf>respective owners and are used<lf>for the benefit of those owners.
-THANK YOU FOR PLAYING!
-No personal relationships,<lf>game producers' sleep schedules,<lf>programmers' bug count records,<lf>or artists' wills to live<lf>were harmed in the making of this product.
-Destroy three targets, plants win! Eat brains, Zombies win!
-Press Start for Menu
-Your best is<lf>Streak: {COUNT} 
-You survived 1 Flag!
-You survived {COUNT} Flags!
+c2009, 2010 PopCap Games, Inc. bảo lưu<lf>mọi quyền. Logo PopCap và tất cả các<lf>nhãn hiệu khác được sử dụng ở đây được<lf>liệt kê trên trang nhãn hiệu trên<lf>www.popcap.com đều thuộc sở hữu của<lf>PopCap Games, Inc. hoặc người cấp phép<lf>của nó và có thể được đăng ký ở một số<lf>quốc gia. Tên công ty và sản phẩm khác<lf>được sử dụng ở đây có thể là thương hiệu<lf>của chủ sở hữu tương ứng và được sử dụng<lf>vì lợi ích của những chủ sở hữu đó.
+CẢM ƠN ĐÃ CHƠI!
+Không có mối quan hệ cá nhân, lịch ngủ của nhà sản xuất,<lf>hồ sơ đếm lỗi của lập trình viên hoặc ý chí của nghệ sĩ<lf>bị lung lay trong quá trình sản xuất sản phẩm này.
+Tiêu diệt 3 đối tượng, cây thắng! Ăn não, thây ma thắng!
+Nhấn Start cho Menu
+Kỷ lục<lf>Chuỗi: {COUNT} 
+Bạn sinh tồn 1 cờ!
+Bạn sinh tồn {COUNT} cờ!
 Bacon
-You found bacon!
-What are you going to do with bacon?
-YOU FOUND MY BACON!! {SCREAM2}
-My sweet, oily bacon!
-{SHOW_MONEYBAG}$1,000 for that slice!
+Bạn tìm thấy bacon!
+Bạn sẽ làm gì với bacon?
+BẠN TÌM THẤY BACON CỦA TÔI!! {SCREAM2}
+Miếng bacon tươi ngon!
+{SHOW_MONEYBAG}$1,000 cho miếng đó!
 HAHAHA!! Ahhhhh... ha! {MOUTH_BIG_SMILE}
-Enjoy the money!
-Now I'm gonna rub bacon ALL OVER MY FACE!{MOUTH_BIG_SMILE}
-You've unlocked a new mini-game!<lf>Also, check out the<lf>new items in Crazy Dave's shop!
-Wow!<lf>You got all the trophies! 
-Select the language.
+Cứ lấy tiền! Tôi sẽ chà miếng bacon LÊN MẶT CỦA TÔI!{MOUTH_BIG_SMILE}
+Bạn mở khóa trò chơi nhỏ mới!<lf>Đồng thời hãy kiểm tra mặt hàng<lf>mới ở cửa hàng Dave Tửng!
+Quào!<lf>Bạn đoạn toàn bộ cúp! 
+Chọn Ngôn Ngữ.
 English
 Français
 Italiano 
@@ -1761,25 +1760,25 @@ Deutsch
 Español
 Nederlands
 日本語
-The System Memory has been damaged.<lf>For details please see the Nintendo DSi<lf>Operations Manual.
-Detected an error.<lf>Now formatting save data.<lf>Please do not turn off the power.
-SPROING!!
-POW!!
-DOOM!!
-SPUDOW!!
-POWIE!!
+Bộ nhớ hệ thống đã bị hỏng.<lf>Để biết chi tiết, vui lòng xem<lf>Hướng dẫn vận hành Nintendo DSi.
+Đã phát hiện lỗi.<lf>Bây giờ định dạng lưu dữ liệu.<lf>Vui lòng không tắt nguồn.
+ĐÙNG!!
+BỐP!!
+ĐÙNG!!
+ĐÙNG!!
+ĐÙNG!!
 NOT USED
-TOP
-MORE
-Plants
-Zombies
-WIN
+LÊN
+THÊM
+Cây
+Thây Ma
+THẮNG
 {NO_SOUND}{NO_CLICK}You blew <lf>1 zombie up at once!
 {NO_SOUND}{NO_CLICK}You caught<lf>1 zombie at one time!
-Manual
-SHOUT!
-More...
-ADVENTURE
+Hướng Dẫn
+HÉT!
+Thêm...
+PHIÊU LƯU
 VS
 c2009, 2011 PopCap Games, Inc. All rights reserved.
-Language
+Ngôn ngữ
