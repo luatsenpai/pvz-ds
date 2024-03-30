@@ -629,7 +629,7 @@ bón phân cây
 bón phân cây
 trừ sâu
 chơi nhạc cho cây
-sô cô la
+sôcôla
 di chuyển cây
 bán cây
 giữ xây để di chuyển
@@ -843,7 +843,7 @@ chậm
 cực chậm
 Một trong số cây đậu hà lan đã chết!<lf>Thử trồng thật xa ở phía bên trái!
 Bạn tìm thấy cây cho Vườn Thiền!
-Bạn tìm thầy Sô cô la!<lf>Cho Sên Sến Súa ăn để nó tăng tốc trong chốc lát!
+Bạn tìm thầy Sôcôla!<lf>Cho Sên Sến Súa ăn để nó tăng tốc trong chốc lát!
 Sên Sến Súa đang ngủ! <lf>Tạt nước để gọi nó dậy!
 Bắt Đầu Đánh
 Tiếp Tục Đánh
@@ -898,9 +898,9 @@ Bạn đã nghe về Thây Ma<lf>Người Tuyết?<lf>Vài người nói nó th�
 Cái gì rẻ hơn miễn phí? Không có gì cả! Đó là lý do tại sao Nấm Bào Tử lại cần thiết trong mọi hoạt động về đêm! 
 Nếu bạn muốn thêm vài cây thủy sinh cho Vườn Thiền. Hãy chơi những màn hồ bơi.
 Bạn có để ý rằng đôi khi<lf>Thây Ma Cự Nhân sẽ dùng<lf>THÂY MA khác để đập bẹp<lf>cây? Tôi đoán là dù dùng<lf>gì th2i cũng hiệu quả.
-Sên Sến Súa rất thích<lf>Sô cô la. <lf>Có lẽ là rất rất thích<lf>chăng? Nó sẽ không chịu<lf>ngồi yên sau khi ăn<lf>chút sô cô la.
+Sên Sến Súa rất thích<lf>Sôcôla. <lf>Có lẽ là rất rất thích<lf>chăng? Nó sẽ không chịu<lf>ngồi yên sau khi ăn<lf>chút sôcôla.
 Nếu bạn nghĩ chơi chế độ<lf>sinh tồn 'bất tận' chỉ<lf>ra cây thủy sinh cho Vườn<lf>Thiền. Không nha! Nó cho<lf>ra mọi loại cây luôn.
-Mọi người luôn hỏi: Bạn có<lf>thể tìm thấy sô cô la ở<lf>đâu? Có lẽ câu hỏi hay hơn<lf>sẽ là: Bạn KHÔNG thể tìm<lf>sô cô la ở đâu? Nó rơi ở<lf>mọi chế độ!
+Mọi người luôn hỏi: Bạn có<lf>thể tìm thấy sôcôla ở<lf>đâu? Có lẽ câu hỏi hay hơn<lf>sẽ là: Bạn KHÔNG thể tìm<lf>sôcôla ở đâu? Nó rơi ở<lf>mọi chế độ!
 Nấm Bào Mộ ư? Tốt nhất hãy chọn chúng khi có số bia mộ nằm ở bên phải. Đó là những gì tôi làm.
 Tôi nghe nói Thây Ma Đội Xô trâu gấp 5 lần Thây Ma bình thường.
 Tôi nghe bảo nhập mã 'mustache' sẽ mang lại sự thay đổi đáng sợ cho thây ma!
@@ -917,146 +917,145 @@ Khi bạn nghĩ Ớt Bùng Cháy không còn công dụng gì. Thì Cây Trí Tu
 Khi bạn mua Đậu Biến Thân, hãy nhấn biểu tượng nhỏ ở góc bên trái cạnh Liên Lịch để chọn cây muốn biến thân.
 Số xu nhận được trong Bô-ling Tường Hạt phụ thuộc vào số thây ma tường hạt đụng trúng.
 Đừng gõ vào kính! Cụ thể hơn trong Vườn Thủy Sinh và Bể Cá Ma khi nhấn <A> sẽ làm choáng các sinh vật trong đó.
-When I was just an acorn<lf>my grampa told me,<lf>'Son, Vasebreaker puzzles<lf>are much easier if you<lf>break the vases on the<lf>right side first.' 
-Dancers in I, Zombie may<lf>seem expensive, but in the<lf>right situation they're<lf>worth every penny.
-I had a dream. In it, cattail<lf>spikes popped balloons and<lf>dropped zombies to the<lf>ground. I don't know<lf>what it means.
-Growing aquatic plants in your Zen Garden is pretty much impossible without the Aquarium Garden. Just saying.
-Digger zombies violate the<lf>natural order with their<lf>subterranean ways.<lf>It's only fair to use<lf>magnet-shrooms to<lf>steal their mining picks.
-Every day brings<lf>new challenges and<lf>opportunities. Oh,<lf>and new marigolds in<lf>Crazy Dave's shop.
-Mushroom Garden! Huh! What is it good for? Absolutely nothin'! Except growing mushrooms, that is.
-Tired? Depressed? Ladders on tall-nuts getting you down? A quick magnet-shroom will whisk your cares away!
-The tallness of tall-nuts earns widespread acclaim due to their effectiveness vs. Dolphin Riders and Pogo Zombies.
-The explosive force of a cherry bomb or jalapeno is more than capable of dislodging a ladder from a Wall-nut.
-It's tempting to feed<lf>all your chocolate to<lf>Stinky the Snail.<lf>He's such a chocolate hog.<lf>But remember:<lf>Zen Garden plants<lf>like chocolate too!
-Torchwood fire is hotter than rage, but Zombonis, screen doors, ladders and catapults can take the heat.
-If you rely on upgrade plants in Sinh tồn: Endless, be acutely aware that they get more expensive the more you have on your lawn.
-The Imps in I, Zombie seem<lf>weak. But they're speedy<lf>and great for fetching<lf>that last brain when<lf>you've cleared the rest<lf>of the opposition.
-If you enter 'trickedout,' don't be surprised if you see something wacky happen to your lawnmowers. Don’t forget to press LB RB LT RT first.  You forgot didn’t you?
-Thank you for feeding me!<lf>I'm out of new wisdom<lf>for now, but I might have<lf>more if you grow<lf>me tall enough!
-Mmmm, I could sure use<lf>some yummy fertilizer!
-I think I've seen<lf>that cloud before.
-Don't mind me. I'll just be over here, growing.
-I'm metabolizing like crazy!
-I'll never get why you<lf>animals spend all day<lf>moving around like<lf>you do.
-I experience time<lf>at a vastly slower<lf>rate than you!
-I think I'm perennial!
-My xylem is tingling!
-You can get a lot of wisdom just by standing around.
-So I've heard about this "winter" dealie. Can't say I'm looking forward to it.
-Mmmm... sunlight is DELICIOUS!
-Oops, sorry...<lf>I just gave off<lf>some oxygen.
-Gosh, I can grow leaves!
-I feel a spurt coming on! 
-At this stage I lack<lf>worldly knowledge!
-I really appreciate all the cash you're spending on fertilizer!
-That cloud looks just like a vast aggregation of water droplets!
-Have you met my cousin Yggdrasil? Very big in Sweden. Lots of fans.
-I'm taking sociology at an online college. I'm really learning a lot.
-After careful observation<lf>I've deduced that it is the<lf>Earth that revolves around<lf>the sun and not<lf>the reverse as it appears.
-When you've been around as long as I have, you sleep less and hallucinate more.
-If you're mistaking the forest for the trees, just remember: A forest is a collection of individual trees and not the other way around.
-History repeats itself<lf>but it always gets<lf>the details wrong.
-If the past, present <lf>and future all <lf>simultaneously exist <lf>as "block time",<lf>surely the experience<lf>of "now" can only be<lf>an elaborate illusion?
-Courage is easy; dedication costs extra.
-Here's some wisdom that bears repeating...
-Tree food, please!
-Hey, I'm 100 feet tall! Celebrate with me by inputting 'daisies' to get the zombies to leave tiny daisies behind when they die.  
-Whoa! I'm 500 feet tall! This calls for some dancing!  Type 'dance' after entering the code to get the zombies to boogie on down! 
-WOW! I'm 1000 feet tall! Celebrate with me by typing 'pinata' to make zombies spit out candy when destroyed!
-Thank you for feeding me! I've given you all my wisdom, but you can still grow me taller!
-{HEIGHT} Feet Tall
-Mini-games unlocked!<lf>Play them from the main menu!
-Puzzle mode unlocked!<lf>Play it from the main menu!
-Survival mode unlocked!<lf>Play it from the main menu!
+Khi tôi vẫn còn là mầm cây, <lf>ông đã nói với tôi rằng<lf>Cháu trai, trò Đập Bình<lf>sẽ dễ hơn nếu cháu đập từ<lf>bên phải trước đấy. 
+Thây Ma Nhảy trong Tôi là<lf>Thây Ma có thể đắt, nhưng<lf>nếu dùng đúng lúc sẽ xứng<lf>đáng với cái giá phải bỏ.
+Tôi đã nằm mơ. Trong giấc<lf>mơ đó Cỏ Đuôi Mèo làm vỡ<lf>bóng bay của Thây Ma Bóng<lf>Bay và khiến chúng rụng.<lf>Nó có nghĩa là gì nhỉ.
+Việc trồng Cây Thủy Sinh trong Vườn thiền sẽ bất khả thi nếu không có Vườn Thủy Sinh.
+Thây Ma Thợ Lặn chơi xấu<lf>bằng cách đào hầm bên<lf>dưới. Đòi lại công bằng<lf>bằng cách dùng Nấm Nam<lf>Châm chôm cuốc chim của<lf>chúng.
+Ngày mới sẽ mang lại<lf>nhiều thử thách và<lf>cơ hôi mới. A, và<lf>những bông Hoa Kim<lf>Tiền trong cửa hàng.
+Vườn nấm! Nó dùng làm gì? Không gì khác ngoài việc trồng nấm!
+Mệt mỏi? Trầm Cảm? Thang trên Tường Hạt Cao không mất đi? Nấm Nam Châm sẽ xua tan đi nỗi lo của bạn!!
+Tường Hạt Cao luôn là lựa chon tối ưu vì chúng quá cao so với Thây Ma Pogo và Thây Ma Phóng Cá Heo.
+Áp lực nổ từ Bom Sơri hoặc Ớt Bùng Cháy có thể làm bật cía thang ra khỏi Tường Hạt.
+Cho Sên Sến Sua ăn sôcôla<lf>cũng thú vị đó. Nó đúng<lf>là một con cuồng sôcôla.<lf>Nhưng hãy nhớ là:<lf>Cây trong vườn cũng thích<lf>sôcôla nữa!
+Lửa Gỗ Đuốc nóng như cơn thịnh nộ, nhưng Thây Ma Xe Tuyết, Thây Ma Ôm Cửa, Thây Ma Ôm Thang, Thây Ma Máy Ném có thể hạ hỏa.
+Nếu bạn chỉ dựa vào việc nâng cấp cây trong Sinh Tồn Vô Tận, hãy nhớ rằng: trồng càng nhiều cây sẽ càng tốn kém.
+Tiểu Yêu trong Tôi là<lf>Thây Ma có thể yếu.<lf>Nhưng chúng nhanh nhẹn<lf>và hợp để xơi tái những<lf>bộ não khi đã dọn sạch<lf>hàng cây.
+Nếu bạn nhập 'trickedout,' thì sẽ có điều kỳ diệu diễn ra với máy cắt cỏ đấy. Đừng quên nhập LB RB LT RT trước nhé!
+Cảm ơn đã bón phân!<lf>Hiện tôi hết thông tin<lf>rồi, nhưng tôi sẽ nghĩ<lf>ra nhiều hơn nếu đủ cao!
+Măm măm! Phân bón chất lượng đấy!
+Tôi nghĩ tôi từng<lf>thấy đám mây này.
+Đừng bận tâm tới tôi. Tôi vẫn ở đây và đang phát triển
+Tôi đang điên cuồng trao đổi chất!
+Tôi không thể hiểu<lf>làm sao bạn có thể<lf>đi loanh quanh cả<lf>ngày như thế.
+Đối với tôi, thời<lf>gian đang trôi<lf>rất chậm!
+Tôi nghĩ tôi sống lâu nhất!
+Xylem trong tôi đang nóng ran!
+Bạn có thể biết thêm nhiều điều khi đứng gần tôi.
+Tôi đã nghe kể về "mùa đông" và tôi khá là mong chờ nó.
+Măm măm... ánh nắng NGON thật!
+Oái, xin lỗi...<lf>Tôi vừa sản sinh<lf>chút khí ôxi.
+Quào, tôi bắt đầu ra lá rồi!
+Tôi cảm nhận sự bùng nổ đang đến gần!
+Ở giai đoạn này tôi chưa<lf>có nhiều kiến thức!
+Tôi đánh giá coa về số tiền bạn đã chi cho phân bón.
+Đám mây đó trông như tập hợp một số hơi nước!
+Bạn biết anh họ Yggdrasil của tôi không? Anh ta ở Thụy Điển rất to. Nhiều fan cực..
+Tôi đang học xã hội học tại một trường Đại Học online. Tôi học hỏi rất nhiều từ đó.
+Sau khi quan sát cẩn thận.<lf>Tôi phát hiện ra rằng Trái<lf>Đất quay quanh Mặt Trời<lf>chứ không phải ngược lại.
+Khi bạn ở đây lâu như tôi, bạn sẽ ngủ ít hơn và gặp ảo giác nhiều hơn.
+Nếu bạn nhầm lẫn giữa rừng và cây thì hãy nhớ: rừng có rất nhiều cây chứ không phải ngược lại.
+Lịch sử sẽ lặp lại,<lf>nhưng diễn biến sẽ<lf>khác đi.
+Nếu quá khứ, tương lai,<lf>hiện tại cùng tồn tại<lf>như "khối thời gian",<lf>có lẽ "thực tại" chỉ<lf>là một ma trận phức<lf>tạp chăng?
+Dũng cảm dễ tìm; nhưng cóng hiến thì không
+Một số kiến thức cần phải đọc lại...
+Hãy bón phân cho tôi!
+Này, tôi đã cao 100 feet rồi! Hãy ăn mừng bằng cách nhập 'daisies' sẽ khiến thây ma để lại hoa cúc sau khi chết.  
+Ồ, tôi đã cao 500 feet rồi! Hãy quẩy lên nào! Nhập 'dance' để bọn thây ma quẩy nào!
+Quào, tôi cao 1,000 feet rồi! Hãy ăn mừng cùng tôi bằng cách gõ 'pinata' để khiến thây ma phun ra kẹo khi bị tiêu diệt!
+Cảm ơn đã bón phân! Tôi sẽ kể cho bạn những gì tôi biết, nhưng bạn phải giúp tôi cao hơn nữa!
+Cao {HEIGHT} Feet
+Mở khóa Trò Chơi Nhỏ<lf>Chơi ở menu chính!
+Mở khóa Câu Đố!<lf>Chơi ở menu chính!
+Mở khóa Sinh Tồn!<lf>Chơi ở menu chính!
 PLANTS VS. ZOMBIES
 {CREDITS1}GEORGE FAN<lf>TOD SEMPLE<lf>RICH WERNER<lf>LAURA SHIGIHARA<lf>ENRIQUE CORTS<lf>MATT HOLMBERG<lf>STEPHEN NOTLEY
-{CREDITS1}GAME DESIGN<lf>PROGRAMMING<lf>ART<lf>MUSIC & SOUND<lf>BACKGROUND ART<lf>UI ART<lf>WRITING
+{CREDITS1}THIẾT KẾ GAME<lf>LẬP TRÌNH<lf>NGHỆ THUẬT<lf>ÂM NHẠC & ÂM THANH<lf>VẼ BỐI CẢNH<lf>VẼ UI<lf>KỊCH BẢN
 {CREDITS2}SUKHBIR SIDHU<lf>MIKE RACIOPPI<lf>SHAWN CONARD, ED MILLER, ADAM MACDONNELL<lf>BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON<lf>DAVID P. WYCLIFF<lf>JASON KAPALKA, JOHN VECHEY, DAVE HAAS, DAVE ROBERTS, ED BROWN, LINDSEY KURZ, <lf>JEFF GATES, MYSTICSAGE, DAVE ROHRL, POPCAP BETA TESTERS
-{CREDITS2}STUDIO DIRECTOR<lf>QA LEAD<lf>QA TESTING<lf>POPCAP FRAMEWORK<lf>MARMOT SALESMAN<lf>SPECIAL THANKS
+{CREDITS2}GIÁM ĐỐC STUDIO<lf>CHỈ ĐẠO QA<lf>THỬ NGHIỆM QA<lf>POPCAP FRAMEWORK<lf>MARMOT SALESMAN<lf>CHÂN THÀNH CẢM ƠN
 XBLA CREDITS
-PROGRAMMERS
+LẬP TRÌNH
 DON WURSTER, MATTHEW SMITH, KURT PFEIFER
-SENIOR PRODUCER
+SẢN XUẤT CẤP CAO
 MATTHEW LEE JOHNSTON
-ASSOCIATE TO THE PRODUCER
+LIÊN KẾT SẢN XUẤT
 TY ROBERTS
 ART DIRECTOR
 RICK SCHMITZ
-ARTISTS
+NGHỆ SĨ
 MISAEL ARMENDARIZ, DAVID PAUL, MARK BARRETT,<lf>RICH WERNER, JIM ABRAHAM, MONTE MICHAELIS
-QUALITY ASSURANCE
+KIỂM TRA CHẤT LƯỢNG
 MIKE RACIOPPI, BOB CHURCH, SHAWN CONARD, DAVID CHAN
-BUSINESS DEVELOPMENT
+PHÁT TRIỂN KINH DOANH
 REX SIKORA
-MARKETING
+TIẾP THỊ
 JOHN DONGELMANS, JESSIE ZHOU, XUYEN NGUYEN
-LOCALIZATION
+BẢN ĐỊA HÓA
 POPCAP DUBLIN, POPCAP TOKYO, KEYWORDS INTL, U-TRAX M.M.L. 
-CUSTOMER SUPPORT
-AOIFE BRENNAN, ROGER HENTY, DANA SWEENEY
-ADDITIONAL SOUND DESIGN
+CHĂM SÓC KHÁC HÀNG
+THIẾT KẾ ÂM NHẠC BỔ SUNG
 RONNIE VAN ZANT
-RATINGS WRANGLERS
+ĐÁNH GIÁ
 NICK TOMLINSON, DAN LANDECK
-CREATIVE LABS
+PTN SÁNG TẠO
 YVETTE CAMACHO, DAN NEIDECKER, GLENN MITSUI
 LEGAL
 NICOLE LEMASTER
-SPECIAL THANKS
+TRÂN TRỌNG CẢM ƠN
 DAVE HAAS, SUKHBIR SIDHU, DAN BANAY, JACOB VANWINGEN, <lf>T. CARL KWOH, NOAH MAAS, DAVE ROBERTS, JASON KAPALKA, <lf>JOHN VECHEY, BRIAN FIETE, KIRK SCOTT, HEATHER HAZEN,<lf>BEN AHRONI, MICHAEL SANTORA, JOE MOBLEY, BEN LYON,<lf>TYSEN HENDERSON, CHENELLE BREMONT, SANDRA CONGDON,<lf>GEORGE FAN, TOD SEMPLE, STEPHEN NOTLEY, DAVE ROBERTS,<lf>GINGER ROBERTS, LAURIE THORNTON, KIRK SCOTT, <lf>HEATHER HAZEN, BEN AHRONI, MICHAEL SANTORA,<lf>DAVID SHAW, PATRICK MENDENALL, JOHN SMITH, PHIL SPENCER
-CHIEF OF WORLDWIDE GAME STUDIO 
+GIÁM ĐỐC WORLDWIDE GAME STUDIO
 ED ALLARD
-c2009, 2010 PopCap Games, Inc.  All rights reserved.  The PopCap logo and all other trademarks used herein that are listed on the trademark page on www.popcap.com are owned by PopCap Games, Inc. or its licensors and may be registered in some countries.  Other company and product names used herein may be trademarks of their respective owners and are used for the benefit of those owners.
-FMOD Sound System, copyright c Firelight Technologies Pty, Ltd., 1994-2010.<lf>Audio engine : FMOD Sound System by Firelight Technologies
-THANK YOU FOR PLAYING!
-No personal relationships, game producers' sleep schedules,<lf>programmers' bug count records, or artists' wills to live<lf>were harmed in the making of this product.
-REPLAY
-MAIN MENU
+c2009, 2010 PopCap Games, Inc. bảo lưu mọi quyền. Logo PopCap và tất cả các nhãn hiệu khác được sử dụng ở đây được liệt kê trên trang nhãn hiệu trên www.popcap.com đều thuộc sở hữu của PopCap Games, Inc. hoặc người cấp phép của nó và có thể được đăng ký ở một số quốc gia. Tên công ty và sản phẩm khác được sử dụng ở đây có thể là thương hiệu của chủ sở hữu tương ứng và được sử dụng vì lợi ích của những chủ sở hữu đó.
+Hệ thống âm thanh FMOD, bản quyền c Firelight Technologies Pty, Ltd., 1994-2010.<lf>Công cụ âm thanh: Hệ thống âm thanh FMOD của Firelight Technologies
+CẢM ƠN ĐÃ CHƠI!
+Không có mối quan hệ cá nhân, lịch ngủ của nhà sản xuất,<lf>hồ sơ đếm lỗi của lập trình viên hoặc ý chí của nghệ sĩ<lf>bị lung lay trong quá trình sản xuất sản phẩm này.
+CHƠI LẠI
+MENU CHÍNH
 NOTEXT
 NOTEXT
 NOTEXT
 NOTEXT
 NOTEXT
-Visit Tree?
-Do you want to visit<lf>the Tree of Wisdom now?
-CREDITS PAUSED
-Press button to resume the credits. 
-Resume Credits
-Get Full Game
-PAUSED
-Press button to resume to continue. 
-Resume
-PopCap Games Presents
-You don't have a tall enough Tree of Wisdom for that!
-Adventure Complete
-More Mini-Games, Puzzle, and<lf>Survival Modes have been<lf>unlocked! Also, check out the<lf>new items in Crazy Dave's shop!
-To move your plants between gardens,<lf>purchase a wheelbarrow from the shop!
-This plant is only available in the FULL GAME!
-Replay level?
-Do you wish to replay level 3-4?
-Rename
-Delete
-(Create a New User)
-WHO ARE YOU?
-GAME PAUSED
-Press <A> to resume game
-Resume Game
-Invalid Code
-The license code you entered is not valid for that name.
-Please enter your name to create a new user profile for storing high score data and game progress.
-Enter Your Name
-Name Conflict
-The name you entered is already being used.  Please enter a unique player name.
-Are You Sure?
-This will permanently remove '%s' from the player roster!
-RENAME USER
-NEW USER
-Please enter your name:
-Store
-No Windowed Mode
-Windowed mode is only available if your desktop was running in either<lf>16 bit or 32 bit color mode when you started the game.
-Not Supported
-Hardware Acceleration cannot be enabled on this computer.
+Chăm Sóc Cây?
+Băn muốn chăm sóc<lf>Cây Trí Tuệ ngay?
+DỪNG THÔNG TIN
+Nhấn nút để phát tiếp Thông Tin. 
+Phát Tiếp
+Mua Bản Đầy Đủ
+TẠM DỪNG
+Nhấn nút trở lại để tiếp tục. 
+Trở lại
+PopCap Games Giới thiệu
+Cây Trí Tuệ chưa đủ cao!
+Hoàn thành phiêu lưu
+Thêm nhiều chế độ Trò Chơi Nhỏ,<lf>Sinh tồn, Câu Đố đã mở khóa!<lf>Đồng thời hãy kiểm ra hàng mới<lf>ở cửa hàng Dave Tửng!
+Để di chuyển cây giữa các vườn,<lf>hãy mua xe cút kít ở cửa hàng!
+Cây này chỉ có trong BẢN ĐẦY ĐỦ!
+Chơi lại màn này?
+Bạn muốn chơi lại màn 3-4?
+Đổi tên
+Xóa
+(Tạo Người Dùng mới)
+BẠN LÀ AI?
+TẠM DỪNG
+Nhấn <A> để chơi tiếp
+Chơi Tiếp
+Mã Không Hộp lệ
+Mã giấy phép bạn nhập không hợp lệ với tên đăng ký.
+Vui lòng nhập tên của bạn để tạo hồ sơ người dùng mới nhằm lưu trữ dữ liệu điểm cao và tiến trình trò chơi.
+Nhập Tên
+Trùng Tên
+Tên bạn vừa nhập đã được sử dụng. Hãy nhập tên khác
+Bạn chắc chứ?
+Việc này sẽ xóa vĩnh viễn '%s' khỏi danh sách người chơi!
+ĐỔI TÊN NGƯỜI DÙNG
+NGƯỜI DÙNG MỚI
+Hãy nhập tên:
+Cửa hàng
+Không Hỗ Trợ Cửa Sổ
+Chế độ cửa sổ chỉ khả dụng nếu máy tính để bàn của bạn chạy ở chế độ<lf>màu 16 bit hoặc 32 bit khi bạn bắt đầu trò chơi.
+Không hỗ trợ
+Không thể Tăng Tốc Phần Cứng với máy tính này!
 Your video card may not fully support this feature.
 Please open the following URL in your browser
 Open Browser
@@ -1189,7 +1188,7 @@ My Score
 Overall
 OK
 Not Connected
-You've unlocked the Co-Op Challenges and VS Mode!<lf>Play them from the Main Menu!
+You've unlocked the Co-Op Challenges and VS Mode!<lf>Chơi ở menu chính!
 You must be connected to Xbox LIVE to view your friends' houses!
 You must be connected to Xbox LIVE to view the endless leaderboard!
 Zombies won!
