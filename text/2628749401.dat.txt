@@ -1252,49 +1252,49 @@ Trồng cây để bảo vệ<lf>sân vườn!
 <A> Trồng
 <X> Búa
 Chế độ Vs
-Each player takes turns selecting seed packets.  Press <S> to enter gameplay.
-As Plants:<lf>Defend the lawn to the<lf>left of the red line.   <lf>Resist the Zombie<lf>onslaught with<lf>sun-powered plants. <lf>Knock out 3 targets to<lf>get the zombies off your<lf>lawn for good.
-As Zombies:<lf>Place gravestones<lf>to generate brainpower.<lf>Select zombies for<lf>attack and defense.<lf>If one zombie gets in<lf>the house, you eat<lf>brains and win.
-Co-Op Mode
-Play with a friend! Pick a Challenge to choose your own seeds, or just play Adventure with your friends!
-If you see a double sun appear, both you and your co-op partner must move your cursors over the sun at the same time for it to count.
-Apply Butter!  Press and hold <X> while you have any zombie highlighted to butter him up.
-Close
-Page 1/5
-Page 2/5
-Page 3/5
-Page 4/5
+Mỗi người chơi sẽ lần lượt chọn gói hạt giống.  Nhấn <S> để vào chơi.
+Với cây:<lf>Bảo vệ sân vườn ở phía<lf>bên trái vạch đỏ.   <lf>Chống lậy cuộc tấn công<lf>dữ dỗi của thây ma bằng<lf>cây mua từ mặt trời. <lf>Hạ 3 mục tiêu để đuổi<lf>bọn thây ma ra khỏi<lf>vườn mãi mãi.
+Với thây ma:<lf>Đặt mổ để sản sinh<lf>não.<lf>Chọn thây ma để tấn<lf>công và phòng thủ.<lf>Nếu 1 thây ma vào<lf>được nhà, bạn sẽ<lf>ăn não và thắng.
+Chế độ Co-op
+Chơi cùng bạn bè! Chọn Thử Thách để chọn hạt giống, hoặc chơi Phiêu Lưu cùng bạn bè!
+Nếu thấy 2 mặt trời xuất hiện, cả 2 phải cùng di chuyển con trỏ tới mặt trời cùng lúc thì mới được tính..
+Trét bơ!  Nhấn giữ <X> khi chọn thây ma để trét bơ nó.
+Đóng
+Trang 1/5
+Trang 2/5
+Trang 3/5
+Trang 4/5
 Co-Op
-Error
-There was an error writing achievements.  Would you like to retry?
-Saving
-Writing to Leaderboards...
-Writing Remote Files...
-Error
-There was an error writing to leaderboards.  Would you like to retry?
+Lỗi
+Đã có lỗi phát sinh trong quá trình ghi thành tích. Thử lại?
+Đang lưu
+Ghi Bảng xếp hạng...
+Ghi File điều khiển...
+Lỗi
+Đã có lỗi phát sinh trong quá trình ghi thành tích. Thử lại?
 Mail
-Inbox
-Read Messages
-Switch House
-Level {LEVEL}
-Select House
-Confirm
-Cancel
-Press <Y> to begin the onslaught!
-VS Results
-P2 Drop Out
-Reconnect Controller %d
-Your House
-Welcome to your house!  Crazy Dave will renovate it every so often as you get better at defending your lawn!  See your XBox LIVE friends' houses with <l>.
-The zombies you've vanquished and the plants that have valiantly given of themselves get piled in the bins here!
-Every time you earn an achievement, Crazy Dave gets excited.  Excited enough that he puts weird ornaments on your lawn!
-Page 5/5
-Move your lawnmower with <l>!  Fire with <r>!
-Trash Can Zombie
-A can of trash makes him slower but<lf>stronger.
-Unlock the full game!
-Concede Match
-Are you sure?
+Hộp thư đến
+Đọc tin nhắn
+Đổi nhà
+Màn {LEVEL}
+Chọn Nhà
+Xác Nhận
+Hủy
+Nhấn <Y> để bắt đầu đánh!
+Kết Quả VS
+P2 Đã Rời
+Kết Nối Lại Cần Điều Khiển %d
+Nhà của bạn
+Chào mừng tới nhà của bạn! Dave Tửng sẽ cải tạo nó thường xuyên khi bạn bảo vệ bãi cỏ của mình tốt hơn! Xem nhà bạn bè trên XBox LIVE với <l>.
+Những thây ma mà bạn đã tiêu diệt và những loài thực vật đã dũng cảm hy sinh bản thân sẽ bị chất đống trong thùng rác ở đây!
+Mỗi khi bạn đạt được thành tích, Dave Tửng sẽ rất phấn khích. Phấn khích đến mức anh ấy đặt những đồ trang trí kỳ lạ trên bãi cỏ của bạn!
+Trang 5/5
+Di chuyển máy cắt cỏ với <l>!  Khởi động với <r>!
+Thây Ma Ôm Thùng rác
+Thùng rác khiến nó chậm hơn<lf>nhưng sẽ trâu hơn.
+Mở khóa bản đầy đủ!
+Chào Thua
+Bạn chắc chứ?
 Conceding the match will give your opponent a win.  Are you sure you want to concede?
 Concede
 Are you sure?
