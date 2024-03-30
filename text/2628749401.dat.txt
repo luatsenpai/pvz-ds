@@ -1056,74 +1056,74 @@ Không Hỗ Trợ Cửa Sổ
 Chế độ cửa sổ chỉ khả dụng nếu máy tính để bàn của bạn chạy ở chế độ<lf>màu 16 bit hoặc 32 bit khi bạn bắt đầu trò chơi.
 Không hỗ trợ
 Không thể Tăng Tốc Phần Cứng với máy tính này!
-Your video card may not fully support this feature.
-Please open the following URL in your browser
-Open Browser
-Opening Browser
-Not enough money
-You can't afford this item yet.<lf>Earn more coins by killing zombies!
-Buy this item?
-Are you sure you want to buy<lf>this item?
-Now you can choose to take %d seeds<lf>with you per level!
-More slots!
-Are you sure that you want to restart the level?
-New Game?
-Are you sure that you want to start a new game?
-Leave Game?
-Do you want to return<lf>to the main menu?
-Do you want to return<lf>to the main menu?
-PLEASE REGISTER!
-Your trial version of ZomBotany has expired!
-Music
-Sound FX
-3D Acceleration
-Full Screen
-Limbo Page
-Almanac
-CONTINUE GAME?
-Do you want to continue your current game or restart the level?
-Do you want to continue your current game or start a new game?
+Card video của bạn có thể không hỗ trợ tính năng này!
+Hãy mở đường dẫn này trên trình duyệt!
+Mở trình duyệt
+Đang mở trình duyệt
+Không đủ tiền
+Bạn không đủ tiền mua món này. Kiếm<lf>thêm bằng cách tiêu diệt thây ma!
+Mua món này?
+Bạn muốn mua món này chứ?
+Bây giờ bạn có thể chọn<lf>%d hạt giống cho mỗi màn!
+Thêm ô!
+Bạn muốn đặt lại màn này?
+Chơi mới?
+Bạn chắc chắn muốn chơi mới?
+Rời Game?
+Bạn chắc chắn muốn<lf>quay về menu chính?
+Bạn chắc chắn muốn<lf>quay về menu chính?
+HÃY ĐĂNG KÝ!
+Phên bản dùng thử của Thây Ma Xe Tuyết đã hết hạn!
+Âm nhạc
+Hiệu ứng
+Tăng tốc 3D
+Toàn Màn Hình
+Trang Limbo
+Niên Lịch
+TIẾP TỤC CHƠI?
+Bạn muốn tiếp tục quá trình chơi hiện tại hay đặt lại màn?
+Bạn muốn tiếp tục quá trình chơi hiện tại hay chơi mới?
 %d/%d %s
 %d/%d
 %s - %s
 %s!
 x%d
-Squirrel
-Tree of Wisdom
-Upsell
-Intro
-Imitater {PLANT}
-Game Design
-Programming
-Art
-Music & Sound
-You have NO new messages!
-Saving...
-Loading...
-Bad Game File
-The saved game file is corrupted.  Would you like to delete it?
-No Device Selected
-You have not selected a device to save the game to, so any progress since the beginning of this level will be lost.  Proceed without saving?
-Select
-Back
-Done
+Chuột Chuỗi
+Cây Trí Tuệ
+Bán
+Giới thiệu
+Hóa thân {PLANT}
+Thiết Kế Game
+Lập Trình
+Nghệ Thuật
+Nhạc & Âm Thanh
+Bạn KHÔNG có tin nhắn mới!
+Đang lưu...
+Đang tải...
+File Game Lỗi
+File lưu game đã hỏng.  Bạn muốn xóa?
+Chưa Chọn Thiết Bị
+Bạn chưa chọn thiết bị để lưu game trên đó. vậy nên bạn sẽ mất toàn bộ tiền trình và phải chơi lại từ đầu. Tiếp tục mà không cần lưu?
+Chọn
+Lùi
+Xong
 NOT USED
 NOT USED
 NOT USED
-Profile Changed
-A sign-in change occurred. You are now being returned to the title screen.
-Change storage
-Music
-Sound Effects
-Save game out of date
-The saved game on this storage device is from an earlier level.  You will be updated to your profile's current level.
-Defend your rightful property against zombies.
-Defend your rightful property against zombies.
-Additional games await your wonderment.
-Here reside the splendors of your home.
-Achievements.
-Help & Options.
-Unlock Full Game.
+Đã Đổi Hồ Sơ
+Hồ sơ đăng nhập đã được thay đổi. Bây giờ bạn sẽ được đưa về màn hình chính.
+Đổi ổ lưu
+Nhạc
+Hiệu ứng
+Lưu game đã cũ
+Trò chơi đã lưu trên thiết bị lưu trữ này là từ cấp độ cũ hơn. Bạn sẽ được cập nhật lên cấp độ hiện tại trong hồ sơ của bạn.
+Bảo vệ tài sản và chống lại thây ma.
+Bảo vệ tài sản và chống lại thây ma.
+Các màn chơi bổ sung đang chờ đón bạn.
+Đây là căn nhà lộng lẫy của bạn.
+Thành tựu.
+Trợ giúp & Cài đặt.
+Mở Khóa Bản Đầy Đủ.
 Return to Game Library.
 Sometimes things don't all fit on one screen.
 Return to what was being looked at before.
