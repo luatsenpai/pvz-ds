@@ -377,7 +377,7 @@ Trời, bọn thây ma lại đến kìa!
 Lần này để tôi chọn vài cây nhé!
 Tôi chọn... ba cây!
 {NO_CLICK}Tôi sẽ trả ${SELL_PRICE}<lf>cho {PLANT_TYPE}!
-{NO_SOUND}{NO_CLICK}Trồng nó lên Đậu Đôi<lf>để biến chúng thành<lf>Đậu Súng Máy!<lf>Đậu Súng Máy sẽ bắn<lf>4 đậu cùng lúc!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Đậu Đôi<lf>để biến chúng thành<lf>Đậu Súng Máy!<lf>Đậu Súng Máy sẽ bắn<lf>4 đậu cùng lúc!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Hoa Hướng Dương để biến chúng thành Hướng Dương Đôi! Hướng Dương Đôi sẽ sản sinh mặt trời gấp đôi Hoa Hướng Dương!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Khói để biến chúng thành Nấm Đa Diện! Nấm Đa Diện sẽ bắn với tốc độ nhanh trong khu vực nhỏ!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Bè Lá Sen<lf>để biến chúng thành<lf>Cỏ Đuôi Mèo! Cỏ Đuôi Mèo<lf>sẽ tấn công bất kỳ làn<lf>nào và hạ Thây Ma<lf>Bóng Bay!
