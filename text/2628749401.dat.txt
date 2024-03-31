@@ -957,7 +957,7 @@ Khi bạn ở đây lâu như tôi, bạn sẽ ngủ ít hơn và gặp ảo gi�
 Nếu bạn nhầm lẫn giữa rừng và cây thì hãy nhớ: rừng có rất nhiều cây chứ không phải ngược lại.
 Lịch sử sẽ lặp lại,<lf>nhưng diễn biến sẽ<lf>khác đi.
 Nếu quá khứ, tương lai,<lf>hiện tại cùng tồn tại<lf>như "khối thời gian",<lf>có lẽ "thực tại" chỉ<lf>là một ma trận phức<lf>tạp chăng?
-Dũng cảm dễ tìm; nhưng cóng hiến thì không
+Dũng cảm dễ tìm; nhưng cống hiến thì không
 Một số kiến thức cần phải đọc lại...
 Hãy bón phân cho tôi!
 Này, tôi đã cao 100 feet rồi! Hãy ăn mừng bằng cách nhập 'daisies' sẽ khiến thây ma để lại hoa cúc sau khi chết.  
@@ -993,6 +993,7 @@ JOHN DONGELMANS, JESSIE ZHOU, XUYEN NGUYEN
 BẢN ĐỊA HÓA
 POPCAP DUBLIN, POPCAP TOKYO, KEYWORDS INTL, U-TRAX M.M.L. 
 CHĂM SÓC KHÁC HÀNG
+AOIFE BRENNAN, ROGER HENTY, DANA SWEENEY
 THIẾT KẾ ÂM NHẠC BỔ SUNG
 RONNIE VAN ZANT
 ĐÁNH GIÁ
@@ -1749,7 +1750,8 @@ BẠN TÌM THẤY BACON CỦA TÔI!! {SCREAM2}
 Miếng bacon tươi ngon!
 {SHOW_MONEYBAG}$1,000 cho miếng đó!
 HAHAHA!! Ahhhhh... ha! {MOUTH_BIG_SMILE}
-Cứ lấy tiền! Tôi sẽ chà miếng bacon LÊN MẶT CỦA TÔI!{MOUTH_BIG_SMILE}
+Cứ lấy tiền!
+Giờ tôi sẽ chà miếng bacon LÊN MẶT CỦA TÔI!{MOUTH_BIG_SMILE}
 Bạn mở khóa trò chơi nhỏ mới!<lf>Đồng thời hãy kiểm tra mặt hàng<lf>mới ở cửa hàng Dave Tửng!
 Quào!<lf>Bạn đoạn toàn bộ cúp! 
 Chọn Ngôn Ngữ.
