@@ -11,7 +11,7 @@ pal:
 
 pause menu:
 oam: 0781381632.NCER
-tile: 0480547458.NCGR 
+tile: 0480547458.NCGR & 1641244359.NCGR 
 pal:  2956963238.NCLR & 4283452233.NCLR
 
 pause ui #2
