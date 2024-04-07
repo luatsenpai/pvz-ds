@@ -10,7 +10,7 @@ Nổ tung toàn bộ thây ma<lf>trong một khu vực.
 Tường Hạt
 Ngăn chặn thây ma và<lf>bảo vệ cây khác.
 Đậu Đôi
-Bắn 2 đậu cùng lúc
+Bắn 2 đậu cùng lúc.
 Mìn Khoai Tây
 Phát nổ khi tiếp xúc,<lf>nhưng cần thời gian thiết đặt.
 Đậu Băng Giá
@@ -308,9 +308,9 @@ Mô tả Thây Ma Dắt Chó
 Mô tả Thây Ma Chó
 Mô tả Thây Ma Chong Chóng
 Chào buổi tối, {PLAYER_NAME}.
-Bọn thây ma đó sẽ không<lf>bỏ cuộc đâu nhỉ??
-Bạn sẽ phát hiện ra rằng bọn thây ma này chiến đầu vào ban đêm <lf>khác xa so với ban ngày.
-Trước hết, bạn sẽ không<lf>nhận mặt trời từ<lf>trên trời nữa.
+Bọn thây ma đó sẽ<lf>không bỏ cuộc đâu nhỉ??
+Bạn sẽ phát hiện ra rằng bọn thây ma này chiến đấu vào ban đêm <lf>khác xa so với ban ngày.
+Trước hết, bạn sẽ<lf>không nhận mặt trời<lf>từ trên trời nữa.
 Tuy nhiên, bạn vẫn có<lf>thể nhận mặt trời từ<lf>Hoa Hướng Dương.
 Và may cho bạn là bạn<lf>có Nấm Bào Tử.
 Chỉ cần trồng nhiều nhiều là ỔN.
@@ -441,7 +441,7 @@ Khoan, Nhớ rồi! Là... {MOUTH_SMALL_OH}
 Chào hàng xóm!
 Tôi là Dave Tửng.
 Nhưng bạn có thể gọi tôi là Dave Tửng.
-Nghe đây, tôi có bất nhờ lớn cho bạn.
+Nghe đây, tôi có bất ngờ lớn cho bạn.
 Nhưng trước hết hãy dọn sân cái đã!
 Dùng xẻng và xới đám cây đó nào!
 NHẤC MÔNG LÊN ĐÀO ĐI!{MOUTH_SMALL_OH} {SCREAM}
@@ -454,7 +454,7 @@ NÀO! HÃY GIÀNH VÔ ĐỊCH!{MOUTH_BIG_SMILE} {SCREAM}
 Tôi và anh bạn Harvey Flaxcaster thường chơi đập bình mỗi lúc buồn chán!
 Mà Harvey vừa rời thị trấn,<lf>bậy nên bạn sẽ chơi với tôi,<lf>Harvey #2!
 ĐẬP NÓ THEO CÁCH CỦA BẠN, HARVEY! {SCREAM}
-Chào mừng tới ggian hàng Vườn Thiền!
+Chào mừng tới gian hàng Vườn Thiền!
 {SHOW_FERTILIZER}Tôi sẽ bán cho bạn ít phân bón!
 Hãy quan sát xem có gì bạn cần không nhé!
 Trời, bạn đập mấy cái bình nghệ phết!
@@ -542,7 +542,7 @@ Nhấn <A> trên cỏ để trồng hạt giống!
 Tốt lắm!
 Đừng để thây ma bước vào nhà bạn!
 Di chuyển con trỏ lên cây muốn đào<lf>sau đó nhấn giữ <B> để đào!
-Tiếp trục đào cho tới<lf>khi vườn không còn cây!
+Tiếp tục đào cho tới<lf>khi vườn không còn cây!
 Bạn có thể sống sót qua {FLAGS} cờ?
 Bạn có thể dống sót qua bao nhiêu cờ?
 Lấp đầy khoảng trống với Tường Hạt!
@@ -569,7 +569,7 @@ Mặt Trời
 Kim Cương
 Người Nhện đột kích!!!
 Tiếp tục thu thập mặt trời!<lf>Bạn cần nó để trồng thêm cây!
-Tiết kiệp tiền để mua đồ!
+Tiết kiệm tiền để mua đồ!
 Hạt giống cần thời gian nạp lại<lf>để trồng thêm
 Bạn cần thêm mặt trời!
 Trồng Đậu Đôi trước!
@@ -654,8 +654,8 @@ cần nấm nam châm
 cần nấm khói
 cần bè hoa ly
 chờ hồi lại
-LET'S ROCK!
-VIEW LAWN
+TRIỂN NGAY!
+XEM SÂN
 Liên Lịch
 Cửa hàng
 ĐÓNG
@@ -709,9 +709,9 @@ Bạn sống sót qua {FLAGS}<lf>trước khi bị<lf>THÂY MA THỊT!!!
 Bạn đã đạt thành tích {STREAK}
 Thành tích: {STREAK}
 Màn
-GAME OVER
+KẾT THÚC
 Sinh tồn
-Mini-Games
+Trò Chơi Nhỏ
 Hoàn thành thêm 1 trò chơi nhỏ để mở khóa
 Hoàn thành thêm 1 đập bình để mở khóa
 Hoàn thành thêm 1 tôi là thây ma để mở khóa
@@ -1466,7 +1466,7 @@ Mỗi người chơi lần lượt<lf>chọn gói hạt giống,<lf>sau đó và
 Nhấn để bắt đầu công ký!
 Thêm
 Chủ Nhà Kiên Cường
-Hoành Thành Chế Độ Phiêu Lưu
+Hoàn Thành Chế Độ Phiêu Lưu
 Thiếu Chú Ý
 Đạt cúp mỗi trò chơi nhỏ
 Suy Nghĩ Kỹ
