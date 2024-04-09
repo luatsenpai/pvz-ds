@@ -38,12 +38,12 @@ Giúp trồng cây không phải<lf>cây thủy sinh ở trên nó.
 Bí Đè
 Đè bẹp thây ma.
 Đậu Ba Làn
-Bắt đậu cả 3 làn.
+Bắn đậu cả 3 làn.
 Bèo Ma Da
 Loại cây thủy sinh sẽ kéo chân<lf>thây ma xuống đáy hồ.
 Ớt Bùng Cháy
 Tiêu diệt toàn bộ thây ma trên 1 làn.
-Có Gai
+Cỏ Gai
 Làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó.
 Gỗ Đuốc
 Hạt đậu khi bay qua nó sẽ bốc cháy.
@@ -65,12 +65,12 @@ Giáp Bí
 Bảo vệ cây nằm trong<lf>lớp giáp.
 Nấm Nam Châm
 Loại bỏ mũ<lf>và vật thể kim loại từ thây ma.
-Hất Bắp Cải
-Hất bắp cải vào kẻ thù.
+Hất Cải
+Hất Cải vào kẻ thù.
 Chậu Hoa
 Giúp trồng cây trên mái nhà.
 Hất Bắp
-Hất hạt bắp và bơ<lf>vào thây ma.
+Hất hạt bắp và bơ vào thây ma.
 Tỏi Xa Lánh
 Khiến thây ma đi vào làn khác.
 Cây Tản Ô
@@ -160,41 +160,41 @@ Nấm khói bắn khói có thể xuyên qua <lf>kẻ thù và cửa.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường, xuyên cửa<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong tầm khói<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Khói nói: "Tôi từng không có lựa chọn<lf>nào khác ngoài việc lên men cho lò bánh<lf>mì. Nhưng đến một ngày, Chúa nói Tiếng<lf>Việt đã ban cho tôi một công việc tuyệt<lf>vời là bắn thây ma.
 {FLAVOR}Giờ tôi cảm thấy mình đang tạo ra<lf>gì đó bức phá".
 Trồng Nấm Bào Mộ lên mộ để bào mộ.
-{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt<lf>{KEYWORD}{STAT}trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, cần đặt trên mộ<lf>{KEYWORD}Đặc biệt:{STAT} bào mộ<lf>{SHORTLINE}<lf>{FLAVOR}Dù vẻ bề ngoài Nấm Bào Mộ đáng sợ, nhưng<lf>nội tâm anh ta muốn mọi người biết anh<lf>yêu mèo và thường hay dành hàng giờ<lf>rảnh rỗi để làm tình nguyện viên cho<lf>một trung tâm chữa trị thây ma.
 {FLAVOR}Anh ta nói: "Tôi chỉ làm những việc<lf>nên làm".
 Khi bị ăn, Nấm Thôi Miên sẽ khiến <lf>thây ma về phe bạn.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tương tác<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma về phe bạn<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thôi Miên khẳng định: "Thây Ma<lf>là bạn không phải là người daden để<lf>làm bia tập bắn. Họ là những sinh<lf>vật hiểu lầm và có đóng góp cho<lf>xã hội.
 {FLAVOR}Chúng ta cần làm gì đó để giác ngộ<lf>họ đi theo con đường cách mạng".
 Nấm Nhát Gan bắn tầm xa nhưng sẽ <lf>trốn khi kẻ thù đến gần.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù<lf>{KEYWORD}{STAT}ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi: "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Đặc biệt:{STAT} ngừng bắn khi kẻ thù ở gần<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Nhát Gan cất một giọng nói yếu ớt,<lf>run run hỏi: "Ai đó? Đi đi. Tôi không<lf>muốn gặp ai hết trừ khi đó là người<lf>từ rạp xiếc.
 Nấm Băng Giá bất động tạm thời <lf>toàn bộ thây ma trên màn hình.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực nhẹ, đóng băng thây ma<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên màn hình<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Băng Giá luôn cau có, không phải vì<lf>anh ta không vui hay đang bực mình, mà<lf>là do chấn thương từ thuở bé khiến dây<lf>thần kinh mặt bị tê liệt.
-Nấm Thanh Từng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
+Nấm Thanh Trừng phá hủy một khu <lf>vực rộng, để lại hố sau khi nổ và <lf>không thể trồng cây trên đó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trong khu lớn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} để lại hố<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}
-{FLAVOR}Nấm Thanh Từng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
+{FLAVOR}Nấm Thanh Trừng nói: "Rất may cho cậu là<lf>tôi theo phe cậu. Tôi có thể phá hủy<lf>mọi thứ cậu yêu thích dễ như ăn bánh."
 Bè Lá Sen giúp trồng cây không phải <lf>cây thủy sinh ở trên nó.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} dùng trồng cây không thuộc<lf>{KEYWORD}{STAT}dạng thủy sinh <lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bè Lá Sen không bao giờ phàn nàn. Bè Lá <lf>Sen không muốn biết chuyện gì xảy ra. Dù<lf>trồng cây trên cậu ta thì cậu ta cũng<lf>không nói gì. Liệu cậu ta sẽ phát ngôn<lf>gây sốc hay có bí mật kinh hoàng?
-Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
+{FLAVOR}Không ai biết cả. Bè Lá Sen <lf>luôn giữ kín trong lòng.
 Bí Đè sẽ đè bẹp thây ma đầu tiên đến <lf>gần nó.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} ngắn, số thây ma trong<lf>{KEYWORD}{STAT}phạm vi đè<lf>{KEYWORD}Sử dụng:{STAT} Một lần<lf>{SHORTLINE}<lf>{FLAVOR}Bì Đè hét lớn: "Tôi sẵn sàng rồi! Triển<lf>ngay đi! Để cho tôi! Không ai phù hợp <lf>hơn tôi! Tôi là lựa chọn tốt nhất! Nào!<lf>Còn chờ gì nữa? Tôi muốn ra trận!"
 Đậu Ba Làn bắn đậu ở ba làn
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt,". Con số yêu <lf>thích của Đậu Ba Làn là 5.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Phạm vi:{STAT} 3 làn<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Ba Làn thích đọc sách, cờ thỏ cáo và<lf>dành hàng giờ ngồi yên trong công viên.<lf>Đậu Ba Làn thích đu idol đặc biệt là đu<lf>Sơn Tùng. Đậu Ba Làn nói: "Tôi chỉ đang<lf>tìm một ai đó đặc biệt". Con số yêu <lf>thích của Đậu Ba Làn là 5.
 Bèo Ma Da là cây thủy sinh sẽ kéo chân<lf>thây ma gần nó nhất xuống đáy hồ.		
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tiếp xúc<lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bèo Ma Da nghĩ rằng "Tôi hoàn toàn vô hình.<lf>Tôi trốn ở đây, ngay bên dưới và không ai<lf>có thể thấy tôi."
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Sử dụng:{STAT} một lần, khi tiếp xúc<lf>{AQUATIC}Cần trồng trên nước<lf>{SHORTLINE}<lf>{FLAVOR}Bèo Ma Da nghĩ rằng "Tôi hoàn toàn vô<lf>hình. Tôi trốn ở đây, ngay bên dưới<lf>và không ai có thể thấy tôi."
 {FLAVOR}Đám bạn của cậu có thể nhìn thấy rõ <lf>cậu, nhưng cậu ta vẫn không đổi ý.
 Ớt Bùng Cháy sẽ tiêu diệt toàn bộ <lf>thây ma trên 1 làn.
 <lf>{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma trên 1 làn<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{SHORTLINE}<lf>{FLAVOR}Ớt Bùng Cháy nói "XÌIIIII!!!!!!!!" Nhưng<lf>anh ta vẫn chưa bùng cháy. Chưa phải lúc<lf>này. Sắp rồi, chuẩn bị rồi, anh ta có <lf>thể cảm nhận nó, cả cuộc đời anh ta luôn<lf>hướng về nó.
 Cỏ Gai làm nổ lốp xe và gây sát thương<lf>cho thây ma đi trên nó.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma dẵm phải<lf>{KEYWORD}Đặc biệt:{STAT} không bị thây ma thịt<lf>{SHORTLINE}<lf>{FLAVOR}Niềm đam mê của Cỏ Gai là khúc côn cầu.<lf>Anh ta có nguyên một hộp chứa đầy vé<lf>của cá mùa. Anh ta luôn theo dõi sát<lf>sao các cầu thủ yêu thích và anh ta<lf>thường dọn dẹp sân khúc côn cầu.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} toàn bộ thây ma dẵm phải<lf>{KEYWORD}Đặc biệt:{STAT} không bị thây ma thịt<lf>{SHORTLINE}<lf>{FLAVOR}Niềm đam mê của Cỏ Gai là khúc côn cầu.<lf>Anh ta có nguyên một hộp chứa đầy vé<lf>của các mùa. Anh ta luôn theo dõi sát<lf>sao các cầu thủ yêu thích và anh ta<lf>thường dọn dẹp sân khúc côn cầu.
 {FLAVOR}Chỉ có điều: anh ta ghét hình tròn.
 Hạt đậu khi bay qua Gỗ Đuốc sẽ <lf>bốc cháy và gây ra sát thương gấp đôi.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} tăng gấp đôi sát thương cho<lf>{KEYWORD}{STAT}hạt đậu bay qua, Cầu lửa sẽ gây sát<lf>{KEYWORD}{STAT}thương cho thây ma gần nhất<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người luôn yêu thích và kính trọng <lf>Gỗ Đuốc. Họ thích anh ấy vì sự chính<lf>trực, tình bạn kiên định và khả năng<lf>tăng sát thương cho hạt đậu.
 <lf>{FLAVOR}Nhưng Gỗ Đuốc có bí mật:<lf>anh ta mù chữ.
 Tường Hạt Cao là bức tường kiên cố<lf>không thể vượt qua.
-{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} rất cao<lf>{KEYWORD}Đặc biệt:{STAT} không thể vượt hay nhảy qua<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người thắc mắc có gì khác nhau giữa<lf>Tường Hạt và Tường Hạt Cao. Tường Hạt Cao<lf>phì cười, nói: "Làm gì có chuyện khác<lf>nhau? Chúng tôi là anh em. Các người<lf> biết Tường hạt đã làm những gì cho<lf>tôi không..."
+{SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} rất cao<lf>{KEYWORD}Đặc biệt:{STAT} không thể vượt hay nhảy qua<lf>{SHORTLINE}<lf>{FLAVOR}Mọi người thắc mắc có gì khác nhau giữa<lf>Tường Hạt và Tường Hạt Cao. Tường Hạt<lf>Cao phì cười, nói: "Làm gì có chuyện<lf>khác nhau? Chúng tôi là anh em. Các <lf>người biết Tường hạt đã làm những gì<lf>cho tôi không..."
 {FLAVOR}Giọng Tường Hạt Cao nhỏ dần và <lf>mỉm cười đầy ẩn ý.
 Nấm Thủy Thủ bắn bào tử nấm<lf>ở cự ly gần.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{AQUATIC}Cần trồng trên nước<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thủy Thủ chưa từng thấy biền, dù tên<lf>cậu ấy là Thủy Thủ. Chỉ là cậu ta chưa<lf>có thời gian, cậu ta nhất định phải đến<lf>đó vào một ngày nào đó.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ngắn<lf>{AQUATIC}Cần trồng trên nước<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Thủy Thủ chưa từng thấy biển, dù <lf>tên cậu ấy là Thủy Thủ. Chỉ là cậu ta<lf>chưa có thời gian, cậu ta nhất định<lf>phải đến đó vào một ngày nào đó.
 Đèn Lồng thắp sáng khu vực,<lf>cho bạn nhìn xuyên sương mù.
 {SHORTLINE}<lf>{KEYWORD}Phạm vi:{STAT} một làn<lf>{KEYWORD}Đặc biệt:{STAT} cho nhìn xuyên sương mù<lf>{SHORTLINE}<lf>{FLAVOR}Đèn Lồng phản bác khoa học. Các cây<lf>khác hấp thụ ánh sáng thải ra khí<lf>ô xi; Đèn Lồng hấp thụ bóng tối sản<lf>sinh ra anh sáng. Đèn Lồng luôn giữ<lf>bí mật về cách tạo ra ánh sáng. "Tôi<lf>không nói đó là 'phép màu',
 <lf>{FLAVOR}Tôi không dùng 'tà thuật', tôi chỉ... <lf>Tôi nghĩ nói thế đủ rồi."
@@ -207,20 +207,20 @@ Cỏ Lốc thổi bay toàn bộ thây ma <lf>bóng bay và sương mù.
 Đậu Hạt Chia bắn đậu phía trước<lf> lẫn phía sau.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} trước và sau<lf>{KEYWORD}Tốc độ bắn:{STAT} 1x trước, 2x sau<lf>{SHORTLINE}<lf>{FLAVOR}Đậu Hạt Chia nói "Tôi cung Song Tử, tôi<lf>biết đó là tin chấn động. Có hai đầu<lf>vậy chứ thực ra chỉ có một cái và một<lf>cái giống đầu mọc ở phía sau giúp bảo<lf>vệ sau lưng tôi rất nhiều."
 Khế Sao bắn sao 5 hướng.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} 5 hướng<lf>{SHORTLINE}<lf>{FLAVOR}Khế Sao nói: "Tin nổi không, khi tôi đến<lf>nha sĩ thì ổng bảo tôi có 4 chiếc răng <lf>sâu, Khi tôi --đếm lại-- thì chỉ có 1<lf>chiếc răn sâu thôi! Bốn lỗ sâu răng<lf>trên một chiếc răng? Chuyện quái gì<lf>đang xảy ra vậy?"
-Giáp Bí bảo vệ cây nằm trong<lf>lớp giáp.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} 5 hướng<lf>{SHORTLINE}<lf>{FLAVOR}Khế Sao nói: "Tin nổi không, khi tôi đến<lf>nha sĩ thì ổng bảo tôi có 4 chiếc răng <lf>sâu, Khi tôi --đếm lại-- thì chỉ có 1<lf>chiếc răng sâu thôi! Bốn lỗ sâu răng<lf>trên một chiếc răng? Chuyện quái gì<lf>đang xảy ra vậy?"
+Giáp Bí bảo vệ cây nằm trong lớp giáp.
 {SHORTLINE}<lf>{KEYWORD}Độ cứng:{STAT} cao<lf>{KEYWORD}Đặc biệt:{STAT} có thể trồng trên cây khác<lf>{SHORTLINE}<lf>{FLAVOR}Giáp Bí gần đây không còn nghe tin tức<lf>gì về người anh họ Renfield. Có lẽ do<lf>Renfield là idol giới trẻ, một ngôi<lf>thể thao môn... mà môn gì ấy nhỉ?<lf>Thánh Peggle? Giáp Bí không hiểu cho<lf>lắm, anh ấy chỉ quan tâm và làm tốt<lf>công việc hiện tại.
 Nấm Nam Châm loại bỏ mũ và vật thể <lf>kim loại từ thây ma.
 {SHORTLINE}<lf>{KEYWORD}Phạm vi:{STAT} thây ma gần đó<lf>{KEYWORD}Đặc biệt:{STAT} loại bộ vật thể<lf>{KEYWORD}{STAT}kim loại khỏi thây ma<lf>{NOCTURNAL}Ngủ vào ban ngày<lf>{SHORTLINE}<lf>{FLAVOR}Từ tính có sức mạnh rất khủng.<lf>Đôi khi nó khiến Nấm Nam Châm<lf>sợ hãi.
 {FLAVOR}Cậu ta không chắc có thể đảm<lf>nhiệm sức mạnh này không..
-Hất Bắp Cải hất bắp cải vào kẻ thù.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{SHORTLINE}<lf>{FLAVOR}Hất Bắp Cải không phàn nàn gì với việc ném <lf>bắp cải vào thây ma, vì anh ta được thuê<lf>làm việc đó và anh ta làm rất tốt. Chỉ là <lf>anh ta không thể hiễu bằng cách nào mà<lf>thây ma leo được lên nóc nhà.
+Hất Cải Hất Cải vào kẻ thù.
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{SHORTLINE}<lf>{FLAVOR}Hất Cải không phàn nàn gì với việc ném <lf>bắp cải vào thây ma, vì anh ta được thuê<lf>làm việc đó và anh ta làm rất tốt. Chỉ là <lf>anh ta không thể hiễu bằng cách nào mà<lf>thây ma leo được lên nóc nhà.
 Chậu Hoa giúp trồng cây trên mái nhà.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} Giúp trồng cây trên mái nhà<lf>{SHORTLINE}<lf>{FLAVOR}"Tôi là chậu cây để trồng cây đồng<lf>thời cũng là cây. NỔ NÃO CHƯA?"
-Hất Bắp hất hạt bắp và bơ<lf>vào thây ma.
+Hất Bắp hất hạt bắp và bơ vào thây ma.
 {SHORTLINE}<lf>{KEYWORD}Sát Thương:{STAT} nhẹ (hạt bắp), thường (bơ)<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{KEYWORD}Đặc biệt:{STAT} bơ làm bất động thay ma<lf>{SHORTLINE}<lf>{FLAVOR}Hất Bắp là anh cả trong dòng họ Hất.<lf>Trong ba anh em, Hất Bắp là người duy<lf>nhất nhớ sinh nhật của mọi người. Đôi<lf>khi mọi người cảm thấy phiền vì điều<lf>này.
 Dùng Hạt Cà Phê để đánh thức <lf>nấm đang ngủ.
-{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} có thể trồng trên cây <lf>{KEYWORD}{STAT}khác, đánh thức nấm<lf>{SHORTLINE}<lf>{FLAVOR}Hạt Cà Phê  nói: "Ê, ê mấy ông! Xem kìa!<lf>Cái gì thế? Đó là ai? Ê! Ông có thấy nó <lf>không? Nó là gì? Quào! Là Sư tử!" Ừm,<lf>Hạt Cà Phê hẳn rất phấn khích.
+{SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} một lần, ngay lập tức<lf>{KEYWORD}Đặc biệt:{STAT} có thể trồng trên cây <lf>{KEYWORD}{STAT}khác, đánh thức nấm<lf>{SHORTLINE}<lf>{FLAVOR}Hạt Cà Phê nói: "Ê, ê mấy ông! Xem kìa!<lf>Cái gì thế? Đó là ai? Ê! Ông có thấy nó <lf>không? Nó là gì? Quào! Là Sư tử!" Ừm,<lf>Hạt Cà Phê hẳn rất phấn khích.
 Tỏi Xa Lánh khiến thây ma <lf>đi vào làn khác.
 {SHORTLINE}<lf>{KEYWORD}Sử dụng:{STAT} khi tiếp xúc<lf>{KEYWORD}Đặc biệt:{STAT} khiến thây ma đi vào làn khác<lf>{SHORTLINE}<lf>{FLAVOR}Điều hướng không chỉ là nghề của Tỏi Xa<lf>Lánh. Mà còn là đam mê. Anh ta có bằng<lf>Tiến Sĩ cấp cao tại Đại Học Bôn Ba. Anh<lf>ta có thể dành cả ngày để luyên thuyên<lf>véc tơ điều hướng và mảng đẩy lui.
 {FLAVOR}Anh ta còn điều hướng khi ở nhà nữa.<lf>Nhưng bằng cách nào đó vợ anh ta có<lf>thể chịu được.
@@ -229,50 +229,50 @@ Cây Tản Ô bảo vệ cây ở gần khỏi <lf>người nhện và máy ném
 Hoa Kim Tiền Sản sinh ra xu bạc <lf>và vàng.
 {SHORTLINE}<lf>{KEYWORD}Đặc biệt:{STAT} tạo ra xu<lf>{SHORTLINE}<lf>{FLAVOR}Hoa Kim Tiền dành phần lớn thời gian để<lf>quyết định tạo ra xu bạc hay vàng. Cô ấy<lf>suy nghĩ kỹ về nó theo mọi góc độ, cân<lf>nặng. Cô ấy nghiên cứu kỹ lưỡng và luôn<lf>theo kịp xu thế. Đó là cách tạo lên<lf>chiến thắng.
 Hất Dưa gây sát thương lớn cho <lf>một nhóm thây ma.
-{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} khủng<lf>{KEYWORD}Đặc biệt:{STAT} dưa gây sát thương cho<lf>{KEYWORD}{STAT}thây ma ở gần khi va chạm<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa không giả vờ khiêm tốn. Anh ta<lf>nói: "Cú Đấm Mặt Trời, tôi tung ra sát<lf>thương mạnh mẽ trên sân. Tôi không khoe<lf>khoạng. Không tin cứ nhìn số liệu đi."
+{SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} khủng<lf>{KEYWORD}Phạm vi:{STAT} khủng<lf>{KEYWORD}Đặc biệt:{STAT} dưa gây sát thương cho<lf>{KEYWORD}{STAT}thây ma ở gần khi va chạm<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa không giả vờ khiêm tốn. Anh ta<lf>nói: "Cú Đấm Mặt Trời, tôi tung ra sát<lf>thương mạnh mẽ trên sân. Tôi không khoe<lf>khoang. Không tin cứ nhìn số liệu đi."
 Đậu Súng Máy Bắn 4 đậu cùng lúc.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} thường (cho 1 đậu)<lf>{KEYWORD}Tốc độ bắn:{STAT} 4x<lf>{KEYWORD}Cần trông trên Đậu Đôi<lf>{SHORTLINE}<lf>{FLAVOR}Cha mẹ của Đậu Súng Máy rất lo lắng khi<lf>anh ta muốn gia nhập quân đội. Họ đồng<lf>thanh nói: "Con yêu, nó rất nguy hiểm!".<lf>Nhưng có vẻ như Đậu Súng Máy không hề<lf>lung lay. 
-{FLAVOR}Anh ta đáp "Nguy hiểm luôn rình rập <lf>trong cuộc sống" với ánh mắt đầy lóe <lf>lên ý chí sắt đá.
+{FLAVOR}Anh ta đáp "Nguy hiểm luôn rình rập <lf>trong cuộc sống" với ánh mắt lóe lên<lf>đầy ý chí sắt đá.
 Hướng Dương Đôi sản sinh ra mặt trời <lf>gấp đôi
 {SHORTLINE}<lf>{KEYWORD}Sản lượng mặt trời:{STAT} gấp đôi<lf>{KEYWORD}Cần trồng trên Hoa Hướng Dương<lf>{SHORTLINE}<lf>{FLAVOR}Sau một đêm thí nghiệm điên rồ đã sản<lf>sinh ra Hướng Dương Đôi. Sấm sét ầm ầm<lf>trên mái nhà, những ánh sáng kỳ lạ chớp<lf>nháy, ngay cả những cơn gió giường như<lf>cũng đang gào thét đầy giận giữ. Nhưng<lf>mọi thứ đều vô ích.
 {FLAVOR}Hướng Dương Đôi vẫn SỐNG!
 Nấm Đa Diện bắn làn khói mạnh <lf>xung quanh nó.
-{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Khói<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Đa Diện nói: "Tôi bắn ra những làn<lf>khói mạnh mẽ! Tôi biết nhiều người không<lf>thích nó cho lắm. Hó nói việc đó thật thô<lf>lỗ và hôi nữa. Tôi chỉ nhẹ nhàng đáp là,<lf>vậy mọi người muốn bọn thây ma ăn não,<lf>đúng không?"
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Khói<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Đa Diện nói: "Tôi bắn ra những làn<lf>khói mạnh mẽ! Tôi biết nhiều người không<lf>thích nó cho lắm. Họ nói việc đó thật thô<lf>lỗ và hôi nữa. Tôi chỉ nhẹ nhàng đáp là,<lf>vậy mọi người muốn bọn thây ma ăn não,<lf>đúng không?"
 Cỏ Đuôi Mèo tấn công bất kỳ làn nào <lf>và hạ thây ma bóng bay.
-{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Bè Lá Sen<lf>{SHORTLINE}<lf>{FLAVOR}Cỏ Đuôi Mèo nói: "Gâu! Gâu gâu gây! Nó <lf>khiến bạn bối rối sao? Bạn đang mong đợi<lf>tôi nói "Mèo méo meo mèo meo" chỉ vì tên<lf>tôi có từ 'mèo' và tôi cũng trông giống<lf>con mèo sao? Mọi thứ đều có quy luật<lf>riêng. Tôi chẳng muốn vào chuồng tý nào."
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Bè Lá Sen<lf>{SHORTLINE}<lf>{FLAVOR}Cỏ Đuôi Mèo nói: "Gâu! Gâu gâu gâu! Nó <lf>khiến bạn bối rối sao? Bạn đang mong đợi<lf>tôi nói "Mèo méo meo mèo meo" chỉ vì tên<lf>tôi có từ 'mèo' và tôi cũng trông giống<lf>con mèo sao? Mọi thứ đều có quy luật<lf>riêng. Tôi chẳng muốn vào chuồng tý nào."
 Hất Dưa Băng gây sát thương lớn và <lf>làm chậm nhóm thây ma.
 {SHORTLINE}<lf>{KEYWORD}Sát thương:{STAT} cực khủng<lf>{KEYWORD}Phạm vi:{STAT} ném<lf>{KEYWORD}Tốc độ bắn:{STAT} 1/2x<lf>{KEYWORD}Đặc biệt:{STAT} dưa hấu gây sát thương lớn và<lf>{KEYWORD}{STAT}làm chậm nhóm thây ma<lf>{KEYWORD}Cần trồng trên Hất Dưa<lf>{SHORTLINE}<lf>{FLAVOR}Hất Dưa Băng đang cố bình tĩnh.<lf>Anh ta đang nghe tiếng thây ma<lf>đang tiến gần.
 {FLAVOR}Liệu anh ta sẽ hành động? <lf>Liệu ai đó sẽ hành động?
 Nấm Hút Kim thu thập xu và kim cương.
-{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Hút Kim hỏi: "Tại sao tôi lại ở đây?<lf>Tôi đang trên đà thăng tiến và có văn phòng<lf>ở mặt tiền, hưởng phúc lợi đầy đủ. Tôi sắp<lf>trờ thành Phó Chủ Tịch Điều Hành Trung Tây.<lf>Và giờ tôi lại ở đây, trên cái sân này, có<lf>nguy cơ hẹo vì bị thịt. A! Là xu!"
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Nấm Hút Kim hỏi: "Tại sao tôi lại ở đây?<lf>Tôi đang trên đà thăng tiến và có văn<lf>phòng ở mặt tiền, hưởng phúc lợi đầy đủ.<lf>Tôi sắp trờ thành Phó Chủ Tịch Điều Hành<lf>Trung Tây. Và giờ tôi lại ở đây, trên<lf>cái sân này, có nguy cơ hẹo vì bị thịt.<lf>A! Là xu!"
 Nhấn <A> trên Đại Bác Bắp để phóng <lf>hỏa tiễn bắp chết chóc.
 {SHORTLINE}<lf>{KEYWORD}Cần trổng trên 2 cây Hất Bắp<lf>{KEYWORD}nằm cạnh nhau<lf>{SHORTLINE}<lf>{FLAVOR}Có chuyện gì đã xảy ra với Đại Bác Bắp<lf>vậy? Anh ta đã đậu Harvard. Anh ta làm<lf>luật sư danh tiếng cho một công ty ở<lf>New York. Anh ta có thể nổ tung một khu<lf>thấy ma chỉ với 1 lần phóng pháo bắp.<lf>Tất cả mọi người đều biết điều đó.
 {FLAVOR}Nhưng ngẫm lại thì, điều gì đã truyền <lf>cảm hứng cho anh ấy?
 Đậu Biến Thân cho phép trồng 2 loại <lf>cây giống nhau trong một màn!
 {SHORTLINE}<lf>{FLAVOR}Đậu Biến Thân nói với giọng khàn khàn:<lf>"Ta nhớ về cuộc chiến thây ma vào những <lf>năm 76. Vào thời đó bọn ta vẫn chưa có<lf>những thứ tốt như Đậu Hà Lan hay Ớt Bùng <lf>Cháy, bọn ta chỉ có lòng dũng cảm."
 Cỏ Gai Đá làm nổ nhiều lốp xe và gây <lf>sát thương cho thây ma đi trên nó.
-{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Cỏ Gai<lf>{SHORTLINE}<lf>{FLAVOR}Có gai Đá vừa trở về sau chuyến du lịch<lf>Châu Âu. Anh ta đã có khoảng thời gian <lf>tuyệt vời, gặp gỡ những người tuyệt vời<lf>và mở mang tầm mắt. Anh ta không ngờ là <lf>họ xây nhiều bảo tàng lớn hay treo nhiều<lf>tranh bên trong. Nó khiến anh ta bất ngờ.
+{SHORTLINE}<lf>{KEYWORD}Cần trồng trên Cỏ Gai<lf>{SHORTLINE}<lf>{FLAVOR}Cỏ Gai Đá vừa trở về sau chuyến du lịch<lf>Châu Âu. Anh ta đã có khoảng thời gian <lf>tuyệt vời, gặp gỡ những người tuyệt vời<lf>và mở mang tầm mắt. Anh ta không ngờ là <lf>họ xây nhiều bảo tàng lớn hay treo nhiều<lf>tranh bên trong. Nó khiến anh ta bất ngờ.
 Loại Thây Ma Bình Thường
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma thích não và cự kỳ tham lam vô độ.<lf>Não, não, não,Ngày lẫn đêm. Bộ não già nua<lf>và hôi hám? Bộ não đã thối rữa và mục nát?<lf>Bộ não đã trải qua thời hoàng kim? Không <lf>quan trọng. Thây Ma muốn tất. 
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma thích não và cự kỳ tham lam vô<lf>độ. Não, não, não,Ngày lẫn đêm. Bộ não<lf>già nua và hôi hám? Bộ não đã thối rữa<lf>và mục nát? Bộ não đã trải qua thời<lf>hoàng kim? Không quan trọng. Thây Ma<lf>muốn tất. 
 Thây Ma Cầm Cờ đánh giấu cho sự <lf>xuất hiện của một "đội" quân thây ma
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Đừng hiểu lầm, Thây Ma Cầm Cờ cũng yêu não.<lf>Nhưng anh ta cũng có niềm đam mê với lá cờ.<lf>Có lẽ bởi vì lá cờ có hình bộ não trên đó<lf>chăng. Ai mà biết được chứ.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Đừng hiểu lầm, Thây Ma Cầm Cờ cũng yêu<lf>não. Nhưng anh ta cũng có niềm đam mê<lf>với lá cờ. Có lẽ bởi vì lá cờ có hình<lf>bộ não trên đó chăng. Ai mà biết được<lf>chứ.
 Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma bình thường. 
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
 Chiếc xô sẽ tăng sức chống chịu <lf>cho anh ta.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
 Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, thường (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{SHORTLINE}<lf>{FLAVOR}Một vài thây ma khao khát tiến xa hơn,<lf>làm được nhiều điều phi thường, việc <lf>này khiến họ vươn lên từ bình thường.<lf>Đó chính là Thây Ma Phóng Lao. Chính<lf>là anh ấy.
-Tờ báo cụng cấp mức bảo vệ nhất định.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu tờ báo:{STAT} thấp {150}<lf>{KEYWORD}Tốc độ:{STAT} thường, nhanh (sau khi<lf>{KEYWORD}{STAT}mất tờ báo)<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đọc Gần như đã giải được câu đố<lf>sudoku. tại sao anh ta lại tức giận vậy<lf>chứ.
+Tờ báo cung cấp mức bảo vệ nhất định.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu tờ báo:{STAT} thấp {150}<lf>{KEYWORD}Tốc độ:{STAT} thường, nhanh (sau khi<lf>{KEYWORD}{STAT}mất tờ báo)<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đọc Báo gần như đã giải được câu<lf>đố sudoku. tại sao anh ta lại tức giận <lf>vậy chứ?
 Cánh cửa là một tấm khiên hiệu quả.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Độ trâu cửa lưới:{STAT} cao {1100}<lf>{KEYWORD}Điểm yếu:{STAT} Nấm Khói{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Anh ta lấy được cánh cửa sau lần ghé<lf>qua một nhà có phòng thủ lỏng lẻo,<lf>sau khi sơi tái NÃO CỦA CHỦ NHÀ.
-Thây Ma Cầu Thủ luôn tạo ra <lf>sự bức phá.
+Thây Ma Cầu Thủ luôn tạo ra sự bức phá.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực cao {1670}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Trên sân, Thây Ma Cầu thủ luôn phát huy<lf>110%. Anh ta là người chơi tốt ở tấn<lf>công lẫn phòng ngự. Chỉ có điều anh ta<lf>không biết bóng bầu dục là gì.
 Bất kỳ sự giống nhau nào giữa Thây Ma<lf>Nhảy và Thây Ma hay người khác thì<lf>chỉ là trùng hợp ngẫu nhiên.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề," đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} triệu hồi Thây Ma Phụ Đạo<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Nhảy vừa tung ra album "Lòng Anh<lf>Não Nề" đã làm khuynh đảo bảng xếp hạng<lf>giới thây ma.
 Nhóm thây ma này thường xuất hiện gồm<lf>4 thây ma sau khi được Thây Ma Nhảy<lf>triệu hồi
-{SHORTLINE}<lf>{KEYWORD}Độ trạu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Phụ Đạo đã mất 6 năm để tốt<lf>nghiệp tại trường Sân Khấu Điện Ảnh<lf>tại Thành Phố New York Thây Ma.
-Phao vịt giúp thây ma này nổi <lf>trên nước
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Phụ Đạo đã mất 6 năm để tốt<lf>nghiệp tại trường Sân Khấu Điện Ảnh<lf>tại Thành Phố New York Thây Ma.
+Phao vịt giúp thây ma này nổi trên nước
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{AQUATIC}Chỉ xuất hiện ở hồ bơi<lf>{SHORTLINE}<lf>{FLAVOR}Chỉ có vài thây ma mới có thể dùng được<lf>Phao Vịt. Không phải thây ma nào cũng <lf>dùng được. Vài cái đã vỡ vì họ không kiểm<lf>soát được nó, sau đó rời đi và từ bỏ việc<lf>ăn não mãi mãi.
 Thây Ma Thợ Lặn có thể lặn dưới nước.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} lặn để tránh tấn công<lf>{AQUATIC}Chỉ xuất hiện ở hồ bơi<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma không cần thở.<lf>Chúng không cần không khí.<lf>Vậy tại sao Thây Ma Thợ Lặn lại<lf>đeo đồ lặn khi lặn?<lf>Trả lời: áp lực không khí.
@@ -281,23 +281,23 @@ Thây Ma Xe Tuyết dùng băng và tuyết <lf>đè bẹp cây của bạn
 Nhóm thây ma xuất hiện gồm <lf>4 thành viên.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp (mỗi thây ma) {270}<lf>{KEYWORD}Độ trâu xe trượt:{STAT} thấp {300}<lf>{KEYWORD}Đặc biệt:{STAT} chỉ xuất hiện trên băng<lf>{SHORTLINE}<lf>{FLAVOR}Đội Xe Trượt cùng nhau cố gắng để đến<lf>đích. Họ sống cùng nhau, chia sẽ não<lf>cho nhau và luyện tập cùng nhau để<lf>trở thành một đội thây ma ăn ý.
 Thây Ma Phóng Cá Heo giỏi khai thác<lf>điểm yếu tuyến phòng thủ dưới hồ bơi.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên<lf>{KEYWORD}{STAT}gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, chậm (sau khi phóng)<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây đầu tiên gặp<lf>{AQUATIC}Chỉ xuất hiện dưới hồ<lf>{SHORTLINE}<lf>{FLAVOR}Cá heo cũng là thây ma.
 Một sinh vật hiếm và bí ẩn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} bỏ chạy sau một lúc<lf>{SHORTLINE}<lf>{FLAVOR}Người ta biết rất ít về Thây Ma Người Tuyết <lf>ngoài tên, ngày sinh, số an sinh xã hội,  <lf>quá trình học tập, kinh nghiệm làm việc <lf>trong quá khứ và sở thích ăn bánh sandwich <lf>(thịt bò nướng và Thụy Sĩ).
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1350}<lf>{KEYWORD}Đặc biệt:{STAT} bỏ chạy sau một lúc<lf>{SHORTLINE}<lf>{FLAVOR}Người ta biết rất ít về Thây Ma Người<lf>Tuyết ngoài tên, ngày sinh, số an sinh<lf>xã hội, quá trình học tập, kinh nghiệm<lf>làm việc trong quá khứ và sở thích ăn<lf>bánh sandwich (thịt bò nướng và<lf>Thụy Sĩ).
 Thây Ma này mang lại bất ngờ bùng nổ.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh<lf>{KEYWORD}Đặc biệt:{STAT} hộp rối sẽ nổ<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Con thây ma này khiến người ta lạnh sống<lf>lưng, không phải vì vẻ lạnh lùng của nó<lf>mà là độ điên của nó.
 Thây Ma Bóng Bay trôi nổi trên không<lf>tránh hầu hết mọi tấn công
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắt thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{KEYWORD}Đặc biệt:{STAT} bay<lf>{KEYWORD}Điểm yếu:{STAT} Xương Rồng và Cỏ Lốc<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Bóng Bay may mắn thật đấy. Bóng <lf>Bay là thứ không phải thây ma nào cũng<lf>nhặt được.
 Thây Ma này đào xuyên qua hàng <lf>phòng thủ của bạn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {370}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}Đặc biệt:{STAT} đào bên dưới và xuất<lf>{KEYWORD}{STAT}hiện phía bên trái sân<lf>{KEYWORD}Điểm yếu:{STAT} Đậu Hạt Chia{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}{FLAVOR}Thây Ma Thợ Mỏ dành ra 3 ngày mỗi tuần<lf>để xin giấy phép khai thác.
 Thây Ma Pogo nhảy qua hàng phòng thủ <lf>của bạn.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Xoạch! Xoạch! Xoạch! Đó là âm thanh mạnh<lf>mẽ và đên cuồn do thây ma này gây ra! Anh <lf>ta làm việc này rất tốt.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}Đặc biệt:{STAT} nhảy qua cây<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Xoạch! Xoạch! Xoạch! Đó là âm thanh mạnh<lf>mẽ và điên cuồng do thây ma này gây ra!<lf>Anh ta làm việc này rất tốt.
 Thây Ma Người Nhện tấn công từ <lf>trên không
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {400}<lf>{KEYWORD}Đặc biệt:{STAT} xuất hiện từ trên trời<lf>{KEYWORD}{STAT}và chôm cây<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Người Nhện thích những trò chơi<lf>mạo hiểm, suy cho cùng thì tại sao phải<lf>sợ chết khi bản thân không còn sống nữa?
 Thây Ma Ôm Thang trèo qua <lf>chướng ngại vật
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {500}<lf>{KEYWORD}độ trâu thang:{STAT} vừa {500}<lf>{KEYWORD}Tốc độ:{STAT} nhanh, sau đó chậm<lf>{KEYWORD}{STAT}(sau khi đặt thang)<lf>{KEYWORD}Điểm yếu:{STAT} Nhấm Khói{METAL} và Nấm Nam Châm{KEYWORD}<lf>{SHORTLINE}<lf>{FLAVOR}Anh ta mua cái thang với giá 223 k.
 Thây Ma Máy Ném vận hành máy móc <lf>hạng nặng.
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {850}<lf>{KEYWORD}Đặc biệt:{STAT} ném bóng rổ vào cây<lf>{SHORTLINE}<lf>{FLAVOR}Trong những thứ mà Thây Ma Máy Ném có thể<lf>ném với máy ném. Có vẻ như bóng rổ là<lf>lựa chọn tốt nhất.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {850}<lf>{KEYWORD}Đặc biệt:{STAT} ném bóng rổ vào cây<lf>{SHORTLINE}<lf>{FLAVOR}Trong những thứ mà Thây Ma Máy Ném có<lf>thể ném với máy ném. Có vẻ như bóng rổ<lf>là lựa chọn tốt nhất.
 Thây Ma Cự Nhân là thây ma khổng lồ.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cực khủng {3000}<lf>{SHORTLINE}<lf>{FLAVOR}Khi Thây Ma Cự Nhân bước đi, mặt đất phải<lf>rung chuyển. Khi anh ta hét, các thây ma<lf>khác phải im lặng. Anh ta là hình mẫu lý<lf>tưởng của các thây ma khác. Nhưng anh ta<lf>vẫn chưa có bạn gái. 
 Tiểu Yêu là thây ma nhỏ được Thây Ma<lf>Cự Nhân ném vào hàng phòng thủ.
@@ -319,7 +319,7 @@ Bạn biết nó có nghĩa gì không...
 Nghĩa là Cửa Hàng Gia Dụng Dave Tửng đã khai trương! {MOUTH_SMALL_SMILE}
 Mại vô!<lf>Hãy xem coi có<lf>thứ bạn cần không! {MOUTH_SMALL_SMILE}
 Bạn từng chơi Đập Thây Ma chưa?
-Nó giống trò đập chuột chuỗi thôi.
+Nó giống trò đập chuột chũi thôi.
 Ờm, là bọn gặm nhấm chuyên đào hố trong sân nhà ấy?
 Ừm, y chang vậy ấy, nhưng thay vì chuột mà là thây ma.
 {SHOW_HAMMER}Và thay vì xẻng,<lf>mà là búa.
@@ -341,7 +341,7 @@ Hãy bảo vệ gót chân! {SCREAM}
 Bạn biết không, họ thường gọi tôi là"Quý Ông Sương Mù"
 Bởi vì tôi ẩn nấp sau<lf>sương mù và<lf>NHẢY RA DỌA MỌI NGƯỜI! {MOUTH_BIG_SMILE}
 Ôi, nhớ ngày xưa quá. {MOUTH_SMALL_SMILE}
-Tại sao đột nhiên<lf>lại tối thu vậy?
+Tại sao đột nhiên<lf>lại tối thui vậy?
 Không xong rồi.
 Ái chà, mong là bạn<lf>sống sót qua đêm nay.
 Ầu, chúng còn tìm được đường lên mái nhà kìa!
@@ -379,11 +379,11 @@ Tôi chọn... ba cây!
 {NO_CLICK}Tôi sẽ trả ${SELL_PRICE}<lf>cho {PLANT_TYPE}!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Đậu Đôi<lf>để biến chúng thành<lf>Đậu Súng Máy!<lf>Đậu Súng Máy sẽ bắn<lf>4 đậu cùng lúc!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Hoa Hướng Dương để biến chúng thành Hướng Dương Đôi! Hướng Dương Đôi sẽ sản sinh mặt trời gấp đôi Hoa Hướng Dương!
-{NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Khói để biến chúng thành Nấm Đa Diện! Nấm Đa Diện sẽ bắn với tốc độ nhanh trong khu vực nhỏ!
-{NO_SOUND}{NO_CLICK}Trồng nó trên Bè Lá Sen<lf>để biến chúng thành<lf>Cỏ Đuôi Mèo! Cỏ Đuôi Mèo<lf>sẽ tấn công bất kỳ làn<lf>nào và hạ Thây Ma<lf>Bóng Bay!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Khói<lf>để biến chúng thành<lf>Nấm Đa Diện! Nấm Đa<lf>Diện sẽ bắn với tốc độ<lf>nhanh trong khu vực nhỏ!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Bè Lá<lf>Sen để biến chúng <lf>Cỏ Đuôi Mèo! Nó sẽ<lf>tấn công bất kỳ làn<lf>nào và hạ Thây Ma<lf>Bóng Bay!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Hất Dưa để biến chúng thành Hất Dưa Băng! Hất Dưa Băng gây sát thương lớn và làm chậm nhóm thây ma!
 {NO_SOUND}{NO_CLICK}Trồng nó trên Nấm Nam Châm để biến chúng thành Nấm Hút Kim! Nấm Hút Kim sẽ thu thập đồng xu và kim cương!
-{NO_SOUND}{NO_CLICK}Trồng nó trên Cỏ Gai<lf>để biến chúng thành<lf>Cỏ Gai Đá! Cỏ Gai Đá sẽ<lf>Làm nổ nhiều lốp xe và<lf>gây sát thương cho<lf>thây ma đi trên nó!
+{NO_SOUND}{NO_CLICK}Trồng nó trên Cỏ Gai<lf>để biến chúng thành<lf>Cỏ Gai Đá! Cỏ Gai Đá<lf>sẽ làm nổ nhiều lốp <lf>xe và gây sát thương <lf>cho thây ma đi trên!
 {NO_SOUND}{NO_CLICK}Trồng nó trên 2 Hất Bắp canh nhau để biến chúng thành Đại Bác Bắp! Nhấn <A> để phóng hỏa tiễn bắp chết chóc!
 {NO_SOUND}{NO_CLICK}Đậu Biến Thân cho phép trồng 2 loại cây giống nhau!
 {NO_SOUND}{NO_CLICK}Máy cắt cỏ bổ sung này sẽ cung cấp tuyến phòng thủ khác sau khi dùng máy cắt có.!
@@ -392,7 +392,7 @@ Tôi chọn... ba cây!
 {NO_SOUND}{NO_CLICK}Ô hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 8 cây mỗi màn!
 {NO_SOUND}{NO_CLICK}Ô hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 9 cây mỗi màn!
 {NO_SOUND}{NO_CLICK}TÔ hạt giống bổ sung<lf>này sẽ cho phép bạn<lf>chọn 10 cây mỗi màn!
-{NO_CLICK}Toàn bộ mặt hàng đang<lf>bày bán trên kệ!!
+{NO_CLICK}Toàn bộ mặt hàng<lf>đang bày bán trên kệ!!
 {NO_CLICK}HÀNH ĐỘNG ĐÊ! TÔI ĐANG KHÙMMM ĐÂYYY! {SCREAM}
 {NO_CLICK}Giá của tôi rất<lf>ảo ma đúng không!!!
 {NO_CLICK}Tôi ăn cả thức ăn rơi trên sàn!
@@ -407,8 +407,8 @@ Tôi chọn... ba cây!
 {NO_SOUND}{NO_CLICK}Những Máy Dọn Mái Nhà này sẽ thêm vào tuyến phòng thủ ở những màn mái nhà!
 {NO_SOUND}{NO_CLICK}Cây Cào Cỏ sẽ hạ gục thây ma đầu tiên dẵm phải, tồn tại trong 3 màn.
 {NO_SOUND}{NO_CLICK}Vườn Thủy Cung sẽ cho phép trồng Cây Thủy Sinh trong Vườn Thiền!
-{NO_SOUND}{NO_CLICK}Cây Trí Tuệ sẽ tiết lộ lời khuyên và bí mật qu1y giá khi nuôi nó đủ cao!
-{NO_SOUND}{NO_CLICK}Mua vài phân bón cây để bón cho Cây Trí Tuệ cao lớn và đẹp!
+{NO_SOUND}{NO_CLICK}Cây Trí Tuệ sẽ tiết lộ<lf>lời khuyên và bí mật<lf>quý giá khi nuôi nó<lf>đủ cao!
+{NO_SOUND}{NO_CLICK}Mua vài phân bón cây để<lf>bón cho Cây Trí Tuệ cao<lf>lớn và đẹp!
 {NO_SOUND}{NO_CLICK}Vườn Nấm là nơi trồng cây ngủ vào ban ngày trong Vườn Thiền
 {NO_SOUND}{NO_CLICK}Bộ Sơ Cứu Tường Hạt sẽ sửa Tường Hạt khi trồng lên Tường Hạt bị hỏng. Cũng tác dụng với Tường Hạt Cao và Giáo Bí!
 {NO_SOUND}{NO_CLICK}Mua thêm màn, cây, thây ma trong phiên bản đầy đủ
@@ -425,7 +425,7 @@ Hãy nuôi nấng nó trưởng thành, nó sẽ trả ơn cho bạn!
 Chúc vui vẻ!
 Bọn thây ma nhờ tôi giúp chúng diễn tập xâm lược nhà.
 Tôi bảo chúng là được thôi, miễn là không có cây nào bị thương
-Vậy nên, tôi đã đặt một đống bìa cạc tông trong sân.
+Vậy nên, tôi đã đặt một đống bìa các tông trong sân.
 Chúc vui!
 Ầu không, hắn tới rồi.
 Hãy chuẩn bị tinh thần.
@@ -452,7 +452,7 @@ Tại sao tôi đưa bạn Tường Hạt ư?{MOUTH_SMALL_OH}
 {SHAKE}Bởi vì tôi bị KHÙMMM!!!!!{MOUTH_BIG_SMILE}
 NÀO! HÃY GIÀNH VÔ ĐỊCH!{MOUTH_BIG_SMILE} {SCREAM}
 Tôi và anh bạn Harvey Flaxcaster thường chơi đập bình mỗi lúc buồn chán!
-Mà Harvey vừa rời thị trấn,<lf>bậy nên bạn sẽ chơi với tôi,<lf>Harvey #2!
+Mà Harvey vừa rời thị<lf>trấn, vậy nên bạn sẽ<lf>chơi với tôi,<lf>Harvey #2!
 ĐẬP NÓ THEO CÁCH CỦA BẠN, HARVEY! {SCREAM}
 Chào mừng tới gian hàng Vườn Thiền!
 {SHOW_FERTILIZER}Tôi sẽ bán cho bạn ít phân bón!
@@ -467,7 +467,7 @@ Bạn không muốn nhận kết cục có nhiều thây ma ngoài tầm kiểm 
 Đập chúng,<lf>và bạn sẽ xong màn này!
 Đây là Đập Bình.
 Vài màn sẽ khó lắm đấy.
-Chýc may mắn!
+Chúc may mắn!
 Chào hàng xóm! Quẹo lựa vài món giảm giá đê!
 {SHOW_TREE_FOOD}Chào {PLAYER_NAME}! Đây là Cây Trí Tuệ. Tôi mang cho bạn vài bịch phân bón để bắt đầu!
 {TIME_275}Hết hàng rồi, bạn ơi!{DELAY_50}
@@ -526,7 +526,7 @@ Không thể trồng trên hố
 Không thể trồng ở đây
 Trồng Bè Lá Sen trước
 Đậu Cà Phê chỉ có thể trồng trên<lf>nấm đang ngủ
-Có Gai chỉ có thể trồng trên<lf>mặt đất
+Cỏ Gai chỉ có thể trồng trên<lf>mặt đất
 Trông nhiều Hoa Hướng Dương,<lf>sẽ giúp trồng cây nhanh hơn!
 Cái xẻng cần thời gian hồi<lf>để đào lẫn nữa!
 MỘT BẦY THÂY MA ĐANG TỚI!
@@ -784,7 +784,7 @@ Chà! Bạn đã đạt toàn bộ cúp! <lf>Giờ là lúc chơi thêm Màn B�
 Cúp<lf>Hướng Dương Vàng
 Cúp<lf>Hướng Dương Bạc
 Bạn đã đánh bại Trùm Thây Ma!
-Chúc mừng!  Bạn đã thành công chống lại cuộc công<lf>kích từ thây ma!  Bây giờ... khu vườn sẽ an toàn!
+Chúc mừng!  Bạn đã thành công chống<lf>lại cuộc công kích từ thây ma! <lf>Bây giờ... khu vườn sẽ an toàn!
 Bạn nhận được Cúp!
 Cúp
 Giờ bạn có thể chơi<lf>{MODE}!
@@ -831,9 +831,9 @@ Trang {PAGE} / {NUM_PAGES}
 {SLOTS}<lf>ô
 Ăn hết não để qua màn!
 Đừng lo lắng<lf>Cây chỉ là hư cấu
-Chuột chuỗi
-{COUNT} chuột chuỗi đang đến!
-{COUNT} chuột chuỗi đang đến!
+Chuột chũi
+{COUNT} chuột chũi đang đến!
+{COUNT} chuột chũi đang đến!
 Âu không! Hãy tìm toàn bộ chuột chũi<lf>trước khi thây ma vào nhà!
 Não Đã Ăn
 Tốn
@@ -889,53 +889,53 @@ Hoa Ăn Thịt và Tường Hạt phối hợp với nhau rất ăn ý. Cũng kh
 Nếu bạn thực sự lắng<lf>nghe tôi, hãy nghe<lf>điều này:<lf>hãy trồng 2 hàng hoa<lf>hướng dương.<lf>Tôi nghiêm túc đấy.
 Thây Ma Thợ Lặn? Tôi ghét chúng! Phải làm sao đây? Chỉ cần đặt Tường Hạt trên bè Lá Sen thôi.
 Nếu bạn nhập các phím theo trình tự LB RB LT RT (bản Xbox 360) trong quá trình chơi, bạn sẽ làm được vài thứ ngầu lắm đấy.
-Cần bao nhiêu Bom Sơri<lf>để hạ Thây Ma Cự Nhân><lf>Gợi ý: nhiều hơn 1, ít<lf>hơn 3.<lf>Gợi ý thêm: 2
+Cần bao nhiêu Bom Sơri<lf>để hạ Thây Ma Cự <lf>Nhân? Gợi ý: nhiều<lf>hơn 1, ít hơn 3.<lf>Gợi ý thêm: 2
 Nếu bạn muốn thêm vài cây nấm cho Vườn Thiền. Hãy chơi những màn buổi tối.
-Tôi không lo lắng về việc Nấm Thanh Trừng sẽ làm hỏng bãi cõ mãi mãi. Đất sẽ tự chữa lành theo thời gian.
+Tôi không lo lắng về việc<lf>Nấm Thanh Trừng sẽ làm<lf>hỏng bãi cỏ mãi mãi.<lf>Đất sẽ tự chữa lành<lf>theo thời gian.
 Xuỵt! Hãy nhập mã 'future' trong khi chơi, biết đâu bạn có thể gặp những thây ma đến từ... "tương lai"!
 Truyền thuyết nói rằng khi thây ma bị đóng băng sẽ ăn chậm hơn. Tôi bảo đảm truyền thuyết đó là thật.
-Bạn đã nghe về Thây Ma<lf>Người Tuyết?<lf>Vài người nói nó thích<lf>trốn ở nơi tăm tối.
+Bạn đã nghe về Thây Ma<lf>Người Tuyết chưa?<lf>Vài người nói nó thích<lf>trốn ở nơi tăm tối.
 Cái gì rẻ hơn miễn phí? Không có gì cả! Đó là lý do tại sao Nấm Bào Tử lại cần thiết trong mọi hoạt động về đêm! 
 Nếu bạn muốn thêm vài cây thủy sinh cho Vườn Thiền. Hãy chơi những màn hồ bơi.
-Bạn có để ý rằng đôi khi<lf>Thây Ma Cự Nhân sẽ dùng<lf>THÂY MA khác để đập bẹp<lf>cây? Tôi đoán là dù dùng<lf>gì th2i cũng hiệu quả.
-Sên Sến Súa rất thích<lf>Sôcôla. <lf>Có lẽ là rất rất thích<lf>chăng? Nó sẽ không chịu<lf>ngồi yên sau khi ăn<lf>chút sôcôla.
-Nếu bạn nghĩ chơi chế độ<lf>sinh tồn 'bất tận' chỉ<lf>ra cây thủy sinh cho Vườn<lf>Thiền. Không nha! Nó cho<lf>ra mọi loại cây luôn.
-Mọi người luôn hỏi: Bạn có<lf>thể tìm thấy sôcôla ở<lf>đâu? Có lẽ câu hỏi hay hơn<lf>sẽ là: Bạn KHÔNG thể tìm<lf>sôcôla ở đâu? Nó rơi ở<lf>mọi chế độ!
-Nấm Bào Mộ ư? Tốt nhất hãy chọn chúng khi có số bia mộ nằm ở bên phải. Đó là những gì tôi làm.
+Bạn có để ý rằng đôi<lf>khi Thây Ma Cự Nhân<lf>sẽ dùng THÂY MA khác<lf>để đập bẹp cây? Tôi<lf>đoán là dù dùng gì<lf>cũng hiệu quả như nhau.
+Sên Sến Súa rất thích<lf>Sôcôla. Có lẽ là rất<lf>rất thích chăng? Nó<lf>sẽ không chịu ngồi<lf>yên sau khi ăn chút<lf>sôcôla.
+Nếu bạn nghĩ chơi chế<lf>độ sinh tồn 'bất tận'<lf>chỉ ra cây thủy sinh<lf>cho Vườn Thiền. Không<lf>nha! Nó cho ra mọi<lf>loại cây luôn.
+Mọi người luôn hỏi: Có<lf>thể tìm thấy sôcôla ở<lf>đâu? Có lẽ nên hỏi là:<lf>Bạn KHÔNG thể tìm<lf>sôcôla ở đâu? Nó rơi ở<lf>mọi chế độ!
+Nấm Bào Mộ ư? Tốt nhất hãy chọn chúng khi có một số bia mộ nằm ở bên phải. Đó là những gì tôi làm.
 Tôi nghe nói Thây Ma Đội Xô trâu gấp 5 lần Thây Ma bình thường.
 Tôi nghe bảo nhập mã 'mustache' sẽ mang lại sự thay đổi đáng sợ cho thây ma!
-Nhiều Đậu Băng Giá có làm chậm thây ma hơn không? Rất tiết câu trả lời là 'không'.
-Bạn biết rẳng bọn thây ma<lf>sẽ trồi lên từ bia mộ, đúng<lf>không? Vậy dùng Nấm Bào Mộ<lf>để loại bỏ chúng chẳng phải<lf>là việc nên làm trong chế độ<lf>Sinh Tồn buổi tối sao?
-Nếu bạn muốn biết còn bao<lf>lâu mới hết một màn, hãy<lf>đếm số cờ trên thanh đo<lf>tiến độ màn. Nó sẽ tiết<lf>lộ cho bạn vô cùng<lf>chính xác.
-Máy Dọn Mái Nhà. Một phương<lf>tiện cổ điểm, luôn được<lf>khuyên dùng vì chúng có lợi<lf>thế cực kỳ lớn sao? Chúng sẽ<lf>cho bạn cơ hội hạ Tiệc Pogo.
-Nếu bạn thắc mắc Nấm Thôi Miên có khiến Thây Ma Nhảy có triệu hồi Thây Ma Phụ Đạo đánh giùm bạn không. Thì câu trả lời là "có".
+Nhiều Đậu Băng Giá có làm chậm thây ma hơn không? Rất tiếc câu trả lời là 'không'.
+Bạn biết rẳng bọn thây<lf>ma sẽ trồi lên từ mộ?<lf>Vậy dùng Nấm Bào Mộ để<lf>loại bỏ chúng là việc<lf>nên làm trong chế độ<lf>Sinh Tồn buổi tối.
+Nếu bạn muốn biết còn<lf>bao lâu mới hết màn,<lf>hãy đếm số cờ trên<lf>thanh đo tiến độ. Nó<lf>sẽ tiết lộ cho bạn<lf>vô cùng chính xác.
+Máy Dọn Mái Nhà. Một<lf>phương tiện cổ điển,<lf>luôn được khuyên dùng<lf>vì chúng có lợi thế<lf>lớn. Chúng sẽ cho bạn<lf>cơ hội hạ Tiệc Pogo.
+Nếu bạn thắc mắc Nấm Thôi Miên có khiến Thây Ma Nhảy triệu hồi Thây Ma Phụ Đạo đánh giùm bạn không. Thì câu trả lời là "có".
 Cách kiếm tiền nhanh! Chơi Chế Độ Sinh Tồn Vô Tận! Sau đó gửi số tài khoản cho tôi!
-Nếu bạn nghĩ gỗ đuốc sẽ<lf>làm tan đậu băng giá.<lf>Thì bạn đúng rồi đó,<lf>bạn thật thông minh.
-Đám Thây Ma Cây thật đáng ghét! chúng nghĩ chúng là ai mà dám bắn vào cây của bạn chứ? Hạy trồng Tường Hạt để dằn mặt chúng!
-Trò chơi nhỏ Tiệc Pogo<lf>và Khu Trượt Tuyết cực,<lf>cực, cực khó. Muốn bỏ<lf>từ 'cực' sao? Hãy dùng<lf>Bí Đè.
+Nếu bạn nghĩ gỗ đuốc<lf>sẽ làm tan đậu băng<lf>giá. Thì bạn đúng<lf>rồi đó, bạn thật<lf>thông minh.
+Đám Thây Ma Cây thật đáng ghét! Chúng nghĩ chúng là ai mà dám bắn vào cây của bạn chứ? Hãy trồng Tường Hạt để dằn mặt chúng!
+Trò chơi nhỏ Tiệc Pogo<lf>và Khu Trượt Tuyết<lf>cực, cực, cực khó.<lf>Muốn bỏ từ 'cực' sao?<lf>Hãy dùng Bí Đè.
 Khi bạn nghĩ Ớt Bùng Cháy không còn công dụng gì. Thì Cây Trí Tuệ sẽ cho bạn biết nó có thể dọn đường băng do Thây Ma Xe Tuyết để lại! Bùm!
 Khi bạn mua Đậu Biến Thân, hãy nhấn biểu tượng nhỏ ở góc bên trái cạnh Liên Lịch để chọn cây muốn biến thân.
 Số xu nhận được trong Bô-ling Tường Hạt phụ thuộc vào số thây ma tường hạt đụng trúng.
 Đừng gõ vào kính! Cụ thể hơn trong Vườn Thủy Sinh và Bể Cá Ma khi nhấn <A> sẽ làm choáng các sinh vật trong đó.
-Khi tôi vẫn còn là mầm cây, <lf>ông đã nói với tôi rằng<lf>Cháu trai, trò Đập Bình<lf>sẽ dễ hơn nếu cháu đập từ<lf>bên phải trước đấy. 
-Thây Ma Nhảy trong Tôi là<lf>Thây Ma có thể đắt, nhưng<lf>nếu dùng đúng lúc sẽ xứng<lf>đáng với cái giá phải bỏ.
-Tôi đã nằm mơ. Trong giấc<lf>mơ đó Cỏ Đuôi Mèo làm vỡ<lf>bóng bay của Thây Ma Bóng<lf>Bay và khiến chúng rụng.<lf>Nó có nghĩa là gì nhỉ.
+Khi tôi vẫn còn là mầm<lf>cây, ông đã nói với<lf>tôi rằng, trò Đập Bình<lf>sẽ dễ hơn nếu cháu đập<lf>từ bên phải trước đấy. 
+Thây Ma Nhảy trong Tôi là<lf>Thây Ma có thể đắt,<lf>nhưng nếu dùng đúng lúc<lf>sẽ xứng đáng với cái giá<lf>phải bỏ.
+Tôi đã nằm mơ. Trong<lf>giấc mơ đó Cỏ Đuôi<lf>Mèo làm vỡ bóng bay<lf>của Thây Ma Bóng Bay<lf>và khiến chúng rụng.<lf>Nó có nghĩa là gì nhỉ?
 Việc trồng Cây Thủy Sinh trong Vườn thiền sẽ bất khả thi nếu không có Vườn Thủy Sinh.
-Thây Ma Thợ Lặn chơi xấu<lf>bằng cách đào hầm bên<lf>dưới. Đòi lại công bằng<lf>bằng cách dùng Nấm Nam<lf>Châm chôm cuốc chim của<lf>chúng.
-Ngày mới sẽ mang lại<lf>nhiều thử thách và<lf>cơ hôi mới. A, và<lf>những bông Hoa Kim<lf>Tiền trong cửa hàng.
+Thây Ma Thợ Lặn chơi<lf>xấu bằng cách đào hầm<lf>bên dưới. Dùng Nấm<lf>Nam Châm chôm cuốc<lf>chim của chúng.
+Ngày mới sẽ mang lại<lf>nhiều thử thách và<lf>cơ hội mới. A, và<lf>những bông Hoa Kim<lf>Tiền trong cửa hàng.
 Vườn nấm! Nó dùng làm gì? Không gì khác ngoài việc trồng nấm!
 Mệt mỏi? Trầm Cảm? Thang trên Tường Hạt Cao không mất đi? Nấm Nam Châm sẽ xua tan đi nỗi lo của bạn!!
-Tường Hạt Cao luôn là lựa chon tối ưu vì chúng quá cao so với Thây Ma Pogo và Thây Ma Phóng Cá Heo.
-Áp lực nổ từ Bom Sơri hoặc Ớt Bùng Cháy có thể làm bật cía thang ra khỏi Tường Hạt.
-Cho Sên Sến Sua ăn sôcôla<lf>cũng thú vị đó. Nó đúng<lf>là một con cuồng sôcôla.<lf>Nhưng hãy nhớ là:<lf>Cây trong vườn cũng thích<lf>sôcôla nữa!
+Tường Hạt Cao luôn là lựa chọn tối ưu vì chúng quá cao so với Thây Ma Pogo và Thây Ma Phóng Cá Heo.
+Áp lực nổ từ Bom Sơri hoặc Ớt Bùng Cháy có thể làm bật cái thang ra khỏi Tường Hạt.
+Cho Sên Sến Súa ăn<lf>sôcôla cũng thú vị<lf>đó. Nó cuồng sôcôla.<lf>Nhưng hãy nhớ là:<lf>Cây trong vườn cũng<lf>thích sôcôla nữa!
 Lửa Gỗ Đuốc nóng như cơn thịnh nộ, nhưng Thây Ma Xe Tuyết, Thây Ma Ôm Cửa, Thây Ma Ôm Thang, Thây Ma Máy Ném có thể hạ hỏa.
 Nếu bạn chỉ dựa vào việc nâng cấp cây trong Sinh Tồn Vô Tận, hãy nhớ rằng: trồng càng nhiều cây sẽ càng tốn kém.
-Tiểu Yêu trong Tôi là<lf>Thây Ma có thể yếu.<lf>Nhưng chúng nhanh nhẹn<lf>và hợp để xơi tái những<lf>bộ não khi đã dọn sạch<lf>hàng cây.
+Tiểu Yêu trong Tôi là Thây Ma có thể yếu. Nhưng chúng nhanh nhẹn<lf>và hợp để xơi tái những bộ não khi đã dọn sạch hàng cây.
 Nếu bạn nhập 'trickedout,' thì sẽ có điều kỳ diệu diễn ra với máy cắt cỏ đấy. Đừng quên nhập LB RB LT RT trước nhé!
 Cảm ơn đã bón phân!<lf>Hiện tôi hết thông tin<lf>rồi, nhưng tôi sẽ nghĩ<lf>ra nhiều hơn nếu đủ cao!
 Măm măm! Phân bón chất lượng đấy!
 Tôi nghĩ tôi từng<lf>thấy đám mây này.
-Đừng bận tâm tới tôi. Tôi vẫn ở đây và đang phát triển
+Đừng bận tâm tới tôi. Tôi vẫn ở đây và đang phát triển.
 Tôi đang điên cuồng trao đổi chất!
 Tôi không thể hiểu<lf>làm sao bạn có thể<lf>đi loanh quanh cả<lf>ngày như thế.
 Đối với tôi, thời<lf>gian đang trôi<lf>rất chậm!
@@ -948,16 +948,16 @@ Oái, xin lỗi...<lf>Tôi vừa sản sinh<lf>chút khí ôxi.
 Quào, tôi bắt đầu ra lá rồi!
 Tôi cảm nhận sự bùng nổ đang đến gần!
 Ở giai đoạn này tôi chưa<lf>có nhiều kiến thức!
-Tôi đánh giá coa về số tiền bạn đã chi cho phân bón.
+Tôi đánh giá cao về số tiền bạn đã chi cho phân bón.
 Đám mây đó trông như tập hợp một số hơi nước!
-Bạn biết anh họ Yggdrasil của tôi không? Anh ta ở Thụy Điển rất to. Nhiều fan cực..
-Tôi đang học xã hội học tại một trường Đại Học online. Tôi học hỏi rất nhiều từ đó.
+Bạn biết anh họ Yggdrasil của tôi không? Anh ta rất là to lớn đang ở tại Thụy Điển. Nhiều fan cực.
+Tôi đang học xã hội tại một trường Đại Học online. Tôi học hỏi rất nhiều từ đó.
 Sau khi quan sát cẩn thận.<lf>Tôi phát hiện ra rằng Trái<lf>Đất quay quanh Mặt Trời<lf>chứ không phải ngược lại.
 Khi bạn ở đây lâu như tôi, bạn sẽ ngủ ít hơn và gặp ảo giác nhiều hơn.
 Nếu bạn nhầm lẫn giữa rừng và cây thì hãy nhớ: rừng có rất nhiều cây chứ không phải ngược lại.
 Lịch sử sẽ lặp lại,<lf>nhưng diễn biến sẽ<lf>khác đi.
 Nếu quá khứ, tương lai,<lf>hiện tại cùng tồn tại<lf>như "khối thời gian",<lf>có lẽ "thực tại" chỉ<lf>là một ma trận phức<lf>tạp chăng?
-Dũng cảm dễ tìm; nhưng cống hiến thì không
+Dũng cảm dễ tìm; nhưng cống hiến thì không.
 Một số kiến thức cần phải đọc lại...
 Hãy bón phân cho tôi!
 Này, tôi đã cao 100 feet rồi! Hãy ăn mừng bằng cách nhập 'daisies' sẽ khiến thây ma để lại hoa cúc sau khi chết.  
@@ -1018,7 +1018,7 @@ NOTEXT
 NOTEXT
 NOTEXT
 Chăm Sóc Cây?
-Băn muốn chăm sóc<lf>Cây Trí Tuệ ngay?
+Bạn muốn chăm sóc<lf>Cây Trí Tuệ ngay?
 DỪNG THÔNG TIN
 Nhấn nút để phát tiếp Thông Tin. 
 Phát Tiếp
@@ -1029,7 +1029,7 @@ Trở lại
 PopCap Games Giới thiệu
 Cây Trí Tuệ chưa đủ cao!
 Hoàn thành phiêu lưu
-Thêm nhiều chế độ Trò Chơi Nhỏ,<lf>Sinh tồn, Câu Đố đã mở khóa!<lf>Đồng thời hãy kiểm ra hàng mới<lf>ở cửa hàng Dave Tửng!
+Thêm nhiều chế độ Trò Chơi Nhỏ,<lf>Sinh tồn, Câu Đố đã mở khóa!<lf>Đồng thời hãy kiểm tra hàng mới<lf>ở cửa hàng Dave Tửng!
 Để di chuyển cây giữa các vườn,<lf>hãy mua xe cút kít ở cửa hàng!
 Cây này chỉ có trong BẢN ĐẦY ĐỦ!
 Chơi lại màn này?
@@ -1089,7 +1089,7 @@ Bạn muốn tiếp tục quá trình chơi hiện tại hay chơi mới?
 %s - %s
 %s!
 x%d
-Chuột Chuỗi
+Chuột chũi
 Cây Trí Tuệ
 Bán
 Giới thiệu
@@ -1254,7 +1254,7 @@ Trồng cây để bảo vệ<lf>sân vườn!
 <X> Búa
 Chế độ Vs
 Mỗi người chơi sẽ lần lượt chọn gói hạt giống.  Nhấn <S> để vào chơi.
-Với cây:<lf>Bảo vệ sân vườn ở phía<lf>bên trái vạch đỏ.   <lf>Chống lậy cuộc tấn công<lf>dữ dỗi của thây ma bằng<lf>cây mua từ mặt trời. <lf>Hạ 3 mục tiêu để đuổi<lf>bọn thây ma ra khỏi<lf>vườn mãi mãi.
+Với cây:<lf>Bảo vệ sân vườn ở phía<lf>bên trái vạch đỏ.   <lf>Chống lại cuộc tấn công<lf>dữ dội của thây ma bằng<lf>cây mua từ mặt trời. <lf>Hạ 3 đợt để đuổi<lf>bọn thây ma ra khỏi<lf>vườn mãi mãi.
 Với thây ma:<lf>Đặt mổ để sản sinh<lf>não.<lf>Chọn thây ma để tấn<lf>công và phòng thủ.<lf>Nếu 1 thây ma vào<lf>được nhà, bạn sẽ<lf>ăn não và thắng.
 Chế độ Co-op
 Chơi cùng bạn bè! Chọn Thử Thách để chọn hạt giống, hoặc chơi Phiêu Lưu cùng bạn bè!
@@ -1373,10 +1373,10 @@ NOTEXT
 NOTEXT
 NOTEXT
 {NO_SOUND}{NO_CLICK}Đây là Vườn Thiền!
-{NO_SOUND}{NO_CLICK}Đây là Vườn Nấm về dêm!
+{NO_SOUND}{NO_CLICK}Đây là Vườn Nấm về đêm!
 {NO_SOUND}{NO_CLICK}Đừng gõ vào kính!
-{NO_SOUND}{NO_CLICK}Cây đang phát triển!<lf>Nóp sẽ nói không ngừng!
-{NO_SOUND}{NO_CLICK}Trò chơi Nhỏ là một cách thú vị<lf>để tận hưởng một ngày vui vẻ!
+{NO_SOUND}{NO_CLICK}Cây đang phát triển!<lf>Nó sẽ nói không ngừng!
+{NO_SOUND}{NO_CLICK}Trò chơi Nhỏ là một cách<lf>thú vị để tận hưởng một<lf>ngày vui vẻ!
 {NO_SOUND}{NO_CLICK}Nhiều nhiệm vụ khó khăn<lf>và rắc rối trong<lf>Thách Đố!
 {NO_SOUND}{NO_CLICK}Bạn có thể cầm cự trong<lf>bao lâu? Hãy thử Sinh Tồn<lf>để chứng tỏ bản thân!
 {NO_SOUND}{NO_CLICK}Kỷ lục tốt nhật:<lf>{COUNT} cú homeruns liên tiếp!
@@ -1448,8 +1448,8 @@ Nhấn vào bình để xem bên trong có gì!
 SÊN SẾN SÚA đang ngủ! <lf>Tạt nước để đánh thức!
 Nhấn để tiếp tục
 Thu thập toàn bộ cúp<lf>trong trò chơi nhỏ để đạt<lf>Cúp Hướng Dương Vàng!
-Bạn đã thử chạm vào hoa ở menu chính? Hãy thử đi! Tôi đang chờ đây.
-nếu bạn từng chơi Pvz trước đây, chắc hẳn bạn chưa từng biết trò chơi nhỏ. Giờ là cơ hội của bạn!
+Bạn đã thử chạm vào hoa ở menu chính chưa? Hãy thử đi! Tôi đang chờ đây.
+Nếu bạn từng chơi Pvz trước đây, chắc hẳn bạn chưa từng biết trò chơi nhỏ. Giờ là cơ hội của bạn!
 Nếu bạn bè đã sẳn sàng<lf>chiến PVZ, khi bạn chiến<lf>với họ trong chế độ vs<lf>sẽ thú vị hơn nhiều!
 Bạn từng thấy Thây Ma<lf>Cự Nhân mắt đỏ chưa?<lf>Nếu chưa thì cứ chơi<lf>Sinh tồn: Vô Tận.<lf>Nếu bạn hối hận thì<lf>cũng đã muộn màng.
 Đừng hỏi tôi về chế độ ria mép.<lf>Thiệt đó, đừng.
@@ -1461,7 +1461,7 @@ Nhấn trợ lại để tiếp tục.
 Nhấn để trợ lại
 Bạn chắc chứ?<lf>Việc này sẽ xóa vĩnh viễn<lf>file từ người chơi %s!
 Nhấn vào mặt trời để nhặt.
-Trồng cây để bảo vệ<lf>sân vương!
+Trồng cây để bảo vệ<lf>sân vườn!
 Mỗi người chơi lần lượt<lf>chọn gói hạt giống,<lf>sau đó vào trò chơi.
 Nhấn để bắt đầu công ký!
 Thêm
@@ -1545,7 +1545,7 @@ Nếu bạn thả hết lồng,<lf>thì chỉ còn mình bạn!
 Bắt {COUNT} thây ma trước<lf>khi chúng ngừng đến!
 NOTEXT
 NOTEXT
-Đã đạt giới hạt đặt bom.
+Đã đặt giới hạn đặt bom.
 Để hoàn thành cấp độ, hãy tiêu diệt<lf>tất cả thây ma trước khi hết bom.
 Vuốt não để thu hút thây ma!
 Dụ chúng vào giữa và chạm vào<lf>nút "Lồng" ở phía trên bên phải!
@@ -1737,7 +1737,7 @@ David P. Wycliff
 Jason Kapalka<lf>John Vechey<lf>Dave Haas<lf>Dave Roberts<lf>Ed Brown<lf>Lindsey Kurz<lf>Jeff Gates<lf>Mysticsage<lf>Dave Rohl<lf>PopCap beta testers
 c2009, 2010 PopCap Games, Inc. bảo lưu<lf>mọi quyền. Logo PopCap và tất cả các<lf>nhãn hiệu khác được sử dụng ở đây được<lf>liệt kê trên trang nhãn hiệu trên<lf>www.popcap.com đều thuộc sở hữu của<lf>PopCap Games, Inc. hoặc người cấp phép<lf>của nó và có thể được đăng ký ở một số<lf>quốc gia. Tên công ty và sản phẩm khác<lf>được sử dụng ở đây có thể là thương hiệu<lf>của chủ sở hữu tương ứng và được sử dụng<lf>vì lợi ích của những chủ sở hữu đó.
 CẢM ƠN ĐÃ CHƠI!
-Không có mối quan hệ cá nhân, lịch ngủ của nhà sản xuất,<lf>hồ sơ đếm lỗi của lập trình viên hoặc ý chí của nghệ sĩ<lf>bị lung lay trong quá trình sản xuất sản phẩm này.
+Không có mối quan hệ cá nhân, lịch ngủ của<lf>nhà sản xuất, hồ sơ đếm lỗi của lập trình<lf>viên hoặc ý chí của nghệ sĩ bị lung lay<lf>trong quá trình sản xuất sản phẩm này.
 Tiêu diệt 3 đối tượng, cây thắng! Ăn não, thây ma thắng!
 Nhấn Start cho Menu
 Kỷ lục<lf>Chuỗi: {COUNT} 
