@@ -257,7 +257,7 @@ Loại Thây Ma Bình Thường
 Thây Ma Cầm Cờ đánh giấu cho sự <lf>xuất hiện của một "đội" quân thây ma
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} thấp {270}<lf>{SHORTLINE}<lf>{FLAVOR}Đừng hiểu lầm, Thây Ma Cầm Cờ cũng yêu<lf>não. Nhưng anh ta cũng có niềm đam mê<lf>với lá cờ. Có lẽ bởi vì lá cờ có hình<lf>bộ não trên đó chăng. Ai mà biết được<lf>chứ.
 Chốt giao thông trên đầu khiến anh ta<lf> trâu gấp đôi thây ma bình thường. 
-{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một cách<lf>vô tri như những thây ma khác. Nhưng thứ<lf>gì đó khiến anh ta dừng lại, nhặt chốt<lf>giao thông và đội lên đâu. Đúng, anh ta<lf>thích tiệc tùng.
+{SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} vừa {640}<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Chốt đi về phía trước một<lf>cách vô tri như những thây ma khác.<lf>Nhưng thứ gì đó khiến anh ta dừng lại,<lf>nhặt chốt giao thông và đội lên đầu.<lf>Đúng, anh ta thích tiệc tùng.
 Chiếc xô sẽ tăng sức chống chịu <lf>cho anh ta.
 {SHORTLINE}<lf>{KEYWORD}Độ trâu:{STAT} cao {1370}<lf>{KEYMETAL}Điểm yếu:{METAL} Nấm Nam Châm<lf>{SHORTLINE}<lf>{FLAVOR}Thây Ma Đội Xô luôn đội một chiếc xô. Một<lf>phần là để khác biệt giữa thế giới đầy<lf>vô cảm này. Hầu như anh ta quên mất sự<lf>tồn tại của nó.
 Thây Ma Phóng Lao sẽ phóng đi với <lf>cây lao.
@@ -601,7 +601,7 @@ MÀN KẾ!
 Tiếp Tục
 Bảng Xếp Hạng
 Thành Tích
-Xem Liên Lịch
+Xem Niên Giám
 Thoát Game
 MENU CHÍNH
 Chọn lại
@@ -609,8 +609,8 @@ Xẻng
 Đã nhận xẻng!
 Cho phép đào bỏ cây<lf>chừa chỗ cho cây<lf>khác
 Tìm thấy ghi chú:
-Liên Lịch Nội Bộ
-Tìm thấy Liên Lịch Nội Bộ!
+Niên Giám Nội Bộ
+Tìm thấy Niên Giám Nội Bộ!
 Theo dõi các cây và <lf>thây ma đã gặp
 Chìa khóa xe Dave Tửng
 Tìm thấy Chìa khóa xe Dave Tửng!
@@ -656,10 +656,10 @@ cần bè hoa ly
 chờ hồi lại
 TRIỂN NGAY!
 XEM SÂN
-Liên Lịch
+Niên Giám
 Cửa hàng
 ĐÓNG
-DANH MỤC LIÊN LỊCH
+DANH MỤC Niên Giám
 Xem Cây
 Xem Thây Ma
 Về Menu
@@ -824,9 +824,9 @@ Không nên dùng ở màn này
 CHỌN CÂY CỦA BẠN
 Nhấn <X> trên bình để xem bên trong!
 Tiêu diệt toàn bộ thây ma và bình<lf>để hoàn thành màn này!
-Niên Lịch Nội Bộ - Mục lục
-Niên Lịch Nội Bộ - Cây
-Niên Lịch Nội Bộ - Thây ma
+Niên Giám Nội Bộ - Mục lục
+Niên Giám Nội Bộ - Cây
+Niên Giám Nội Bộ - Thây ma
 Trang {PAGE} / {NUM_PAGES}
 {SLOTS}<lf>ô
 Ăn hết não để qua màn!
@@ -914,11 +914,11 @@ Nếu bạn nghĩ gỗ đuốc<lf>sẽ làm tan đậu băng<lf>giá. Thì bạn
 Đám Thây Ma Cây thật đáng ghét! Chúng nghĩ chúng là ai mà dám bắn vào cây của bạn chứ? Hãy trồng Tường Hạt để dằn mặt chúng!
 Trò chơi nhỏ Tiệc Pogo<lf>và Khu Trượt Tuyết<lf>cực, cực, cực khó.<lf>Muốn bỏ từ 'cực' sao?<lf>Hãy dùng Bí Đè.
 Khi bạn nghĩ Ớt Bùng Cháy không còn công dụng gì. Thì Cây Trí Tuệ sẽ cho bạn biết nó có thể dọn đường băng do Thây Ma Xe Tuyết để lại! Bùm!
-Khi bạn mua Đậu Biến Thân, hãy nhấn biểu tượng nhỏ ở góc bên trái cạnh Liên Lịch để chọn cây muốn biến thân.
+Khi bạn mua Đậu Biến Thân, hãy nhấn biểu tượng nhỏ ở góc bên trái cạnh Niên Giám để chọn cây muốn biến thân.
 Số xu nhận được trong Bô-ling Tường Hạt phụ thuộc vào số thây ma tường hạt đụng trúng.
 Đừng gõ vào kính! Cụ thể hơn trong Vườn Thủy Sinh và Bể Cá Ma khi nhấn <A> sẽ làm choáng các sinh vật trong đó.
 Khi tôi vẫn còn là mầm<lf>cây, ông đã nói với<lf>tôi rằng, trò Đập Bình<lf>sẽ dễ hơn nếu cháu đập<lf>từ bên phải trước đấy. 
-Thây Ma Nhảy trong Tôi là<lf>Thây Ma có thể đắt,<lf>nhưng nếu dùng đúng lúc<lf>sẽ xứng đáng với cái giá<lf>phải bỏ.
+Thây Ma Nhảy trong Tôi<lf>là Thây Ma có thể đắt,<lf>nhưng nếu dùng đúng lúc<lf>sẽ xứng đáng với cái giá<lf>phải bỏ.
 Tôi đã nằm mơ. Trong<lf>giấc mơ đó Cỏ Đuôi<lf>Mèo làm vỡ bóng bay<lf>của Thây Ma Bóng Bay<lf>và khiến chúng rụng.<lf>Nó có nghĩa là gì nhỉ?
 Việc trồng Cây Thủy Sinh trong Vườn thiền sẽ bất khả thi nếu không có Vườn Thủy Sinh.
 Thây Ma Thợ Lặn chơi<lf>xấu bằng cách đào hầm<lf>bên dưới. Dùng Nấm<lf>Nam Châm chôm cuốc<lf>chim của chúng.
@@ -1080,7 +1080,7 @@ Hiệu ứng
 Tăng tốc 3D
 Toàn Màn Hình
 Trang Limbo
-Niên Lịch
+Niên Giám
 TIẾP TỤC CHƠI?
 Bạn muốn tiếp tục quá trình chơi hiện tại hay đặt lại màn?
 Bạn muốn tiếp tục quá trình chơi hiện tại hay chơi mới?
@@ -1452,7 +1452,7 @@ Bạn đã thử chạm vào hoa ở menu chính chưa? Hãy thử đi! Tôi đa
 Nếu bạn từng chơi Pvz trước đây, chắc hẳn bạn chưa từng biết trò chơi nhỏ. Giờ là cơ hội của bạn!
 Nếu bạn bè đã sẳn sàng<lf>chiến PVZ, khi bạn chiến<lf>với họ trong chế độ vs<lf>sẽ thú vị hơn nhiều!
 Bạn từng thấy Thây Ma<lf>Cự Nhân mắt đỏ chưa?<lf>Nếu chưa thì cứ chơi<lf>Sinh tồn: Vô Tận.<lf>Nếu bạn hối hận thì<lf>cũng đã muộn màng.
-Đừng hỏi tôi về chế độ ria mép.<lf>Thiệt đó, đừng.
+Đừng hỏi tôi về chế độ<lf>ria mép. Thiệt đó, đừng.
 Êy, tôi đã cao 100 feet!<lf>Bạn có thể tiếp tục chăm tôi nếu muốn!
 Quào! Tôi đã cao 500 feet!<lf>Đừng hỏi tôi về chế độ ria mép. Đừng!
 Ồ! Tôi đã cao 1,000 Feet!<lf>Bạn đúng là một người yêu thiên nhiên!<lf>Không có bạn tôi đã nằm mãi dưới lòng<lf>đất và không được quẩy như bây giờ!!
@@ -1476,7 +1476,7 @@ Suy Nghĩ Kỹ
 Điên Cuồng Mua Sắm
 Tiêu $25,000 trong<lf>cửa hàng Dave Tửng
 Mọt Sách
-Hoàn thành Liên Lịch
+Hoàn thành Niên Giám
 Nhà Xanh
 Nuôi 10 cây trưởng thành<lf>trong Vườn Thiền.
 NOTEXT
@@ -1512,7 +1512,7 @@ Tập Trung
 Điên Cuồng Mua Sắm
 Tiêu $25,000 trong<lf>cửa hàng Dave Tửng
 Mọt Sách
-Hoàn thành Liên Lịch
+Hoàn thành Niên Giám
 Phá Dỡ
 Nổ tung 10 thây ma<lf>với 1 bom sơri
 Cảm quang
@@ -1561,7 +1561,7 @@ Sóng Nhiệt
 NOTEXT
 NỔ hết đi!
 NOT USED
-Bạn mở khóa Chế độ Vs!<lf>Chọn từ Menu Chính!
+Bạn mở khóa Chế độ Vs!<lf>Chơi từ Menu Chính!
 NOT USED
 VS
 Cài Đặt
